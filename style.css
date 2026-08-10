@@ -23,6 +23,7 @@ body {
     align-items: center;
     user-select: none;
     -webkit-user-select: none;
+    overflow: hidden; /* Evita lo scorrimento indotto dell'intera pagina */
 }
 
 .app-container {
@@ -38,7 +39,7 @@ body {
     box-shadow: 0 10px 30px rgba(0,0,0,0.15);
     position: relative;
     overflow: hidden;
-    padding-bottom: env(safe-area-inset-bottom);
+    box-sizing: border-box;
 }
 
 @media (min-width: 600px) {
@@ -157,8 +158,9 @@ body {
     cursor: not-allowed;
 }
 
+/* ACTION BAR MENU PRINCIPALE (Pulsante INIZIA TEST) */
 .action-bar {
-    padding: 12px 15px calc(12px + env(safe-area-inset-bottom)) 15px;
+    padding: 10px 15px calc(15px + env(safe-area-inset-bottom, 12px)) 15px;
     background: #fff;
     border-top: 1px solid #eee;
     flex-shrink: 0;
@@ -240,7 +242,7 @@ body {
     text-align: center;
 }
 
-/* INTERFACCIA QUIZ (OTTIMIZZATA DYNAMIC VIEWPORT MOBILE) */
+/* INTERFACCIA QUIZ (DYNAMIC VIEWPORT MOBILE) */
 #quiz-screen {
     display: none;
     flex-direction: column;
@@ -380,12 +382,12 @@ body {
     cursor: default;
 }
 
-/* NAVIGAZIONE INFERIORE QUIZ (SEMPRE VISIBILE) */
+/* NAVIGAZIONE INFERIORE QUIZ (Con margine di sicurezza tasti Android/iOS) */
 .quiz-footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 6px 15px calc(8px + env(safe-area-inset-bottom)) 15px;
+    padding: 8px 15px calc(10px + env(safe-area-inset-bottom, 12px)) 15px;
     background: white;
     border-top: 1px solid #eee;
     flex-shrink: 0;
