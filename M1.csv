@@ -1,0 +1,871 @@
+Modulo,Domanda,Opzione,Risposta Corretta
+Modulo 1 - Unità didattica 1,“Morris Worm”,È stato uno dei primi worm distribuiti via Internet,VERO
+Modulo 1 - Unità didattica 1,“Morris Worm”,"Ha funzionato, di fatto, come un attacco denial-of-service",VERO
+Modulo 1 - Unità didattica 1,“Morris Worm”,È stato creato intenzionalmente per causare danni alle macchine in rete internet,FALSO
+Modulo 1 - Unità didattica 1,“Morris Worm”,È stato ideato da uno studente della Cornell University per capire quando fosse grande e insicura la rete Internet,VERO
+Modulo 1 - Unità didattica 1,“Morris Worm”,Ha sfruttato alcune vulnerabilità di Windows,FALSO
+Modulo 1 - Unità didattica 1,“Morris Worm”,È stato così efficace a causa di un’anomalia di funzionamento del codice del worm stesso,VERO
+Modulo 1 - Unità didattica 1,Cos’è la larghezza di banda di un canale di comunicazione?,La misura dell'ampiezza della gamma di frequenze che possono passare per quel canale,VERO
+Modulo 1 - Unità didattica 1,Cos’è la larghezza di banda di un canale di comunicazione?,Un parametro inversamente proporzionale alla quantità di dati che possono essere trasmessi in un canale nell’unità di tempo,FALSO
+Modulo 1 - Unità didattica 1,Cos’è la larghezza di banda di un canale di comunicazione?,Un parametro proporzionale alla quantità di dati che possono essere trasmessi in un canale nell’unità di tempo,VERO
+Modulo 1 - Unità didattica 1,Cos’è la larghezza di banda di un canale di comunicazione?,Un parametro indipendente dalla quantità di dati trasmessi in un canale,FALSO
+Modulo 1 - Unità didattica 1,Cos’è la larghezza di banda di un canale di comunicazione?,La misura dell’ampiezza dello spettro che passa in un canale,VERO
+Modulo 1 - Unità didattica 1,Cos’è la larghezza di banda di un canale di comunicazione?,La capacità di un qualsiasi canale di trasmettere dati,VERO
+Modulo 1 - Unità didattica 1,Il cavo di fibra ottica:,"È composto, in sezione da: core, buffer, cludding e jacket dall’interno verso l’esterno",FALSO
+Modulo 1 - Unità didattica 1,Il cavo di fibra ottica:,"È composto, in sezione da: core, cludding, buffer e jacket dall’interno verso l’esterno",VERO
+Modulo 1 - Unità didattica 1,Il cavo di fibra ottica:,Permette la trasmissione del raggio luminoso attraverso il core confinato dal cladding,VERO
+Modulo 1 - Unità didattica 1,Il cavo di fibra ottica:,Utilizza raggi di luce sempre dello stesso colore,FALSO
+Modulo 1 - Unità didattica 1,Il cavo di fibra ottica:,Può avere una frequenza di trasmissione da 300 a 107 GHz,VERO
+Modulo 1 - Unità didattica 1,Il cavo di fibra ottica:,"Ha il Cladding con un indice di rifrazione inferiore rispetto al Core, che ha un indice superiore",VERO
+Modulo 1 - Unità didattica 1,Il Longest Prefix Matching,È un criterio di scelta utilizzato dal Firewall se ci sono più regole che corrispondono all'indirizzo fornito,VERO
+Modulo 1 - Unità didattica 1,Il Longest Prefix Matching,È un criterio con cui il Firewall sceglie la regola che ha più bit in comune con l'indirizzo fornito,VERO
+Modulo 1 - Unità didattica 1,Il Longest Prefix Matching,È un criterio con cui uno Switch sceglie la regola che ha più bit in comune con l'indirizzo fornito,FALSO
+Modulo 1 - Unità didattica 1,Il Longest Prefix Matching,"È un algoritmo, di livello 4 dello stack ISO/OSI, utilizzato dai router per selezionare una voce della tabella di routing",FALSO
+Modulo 1 - Unità didattica 1,Il Longest Prefix Matching,È un algoritmo utilizzato dai router nelle reti IP per selezionare una voce della tabella di routing,VERO
+Modulo 1 - Unità didattica 1,Il Longest Prefix Matching,"È un algoritmo, di livello 3 dello stack ISO/OSI",VERO
+Modulo 1 - Unità didattica 1,Il Packet Switching:,È una tecnica di commutazione in cui messaggi consecutivi vengono raggruppati in pacchetti (packets) che vengono trasmessi simultaneamente,FALSO
+Modulo 1 - Unità didattica 1,Il Packet Switching:,È una tecnica di commutazione in cui il messaggio viene diviso in parti più piccole (packets) che vengono gestite singolarmente,VERO
+Modulo 1 - Unità didattica 1,Il Packet Switching:,"È una tecnica di commutazione in cui i pacchetti viaggiano attraverso la rete, prendendo il percorso più breve possibile (instradamento)",VERO
+Modulo 1 - Unità didattica 1,Il Packet Switching:,È una tecnica di commutazione in cui tutti i pacchetti vengono suddivisi e trasmessi in maniera indipendente e riassemblati all'estremità ricevente nell'ordine corretto,VERO
+Modulo 1 - Unità didattica 1,Il Packet Switching:,"Prevede, se un messaggio è pervenuto mancante di pacchetti o danneggiato, che venga notificata un richiesta di rinvio del messaggio, se invece viene raggiunto l'ordine corretto dei pacchetti, si invia conferma",VERO
+Modulo 1 - Unità didattica 1,Il Packet Switching:,"Prevede, se un messaggio arriva mancante di pacchetti o danneggiato, che il messaggio possa essere corretto da un meccanismo di completamento automatico a correzione di errore",FALSO
+Modulo 1 - Unità didattica 1,Il Routing,Il Routing è l'instradamento effettuato tra reti differenti con l’ausilio delle tabelle di instradamento configurate sui vari Router,VERO
+Modulo 1 - Unità didattica 1,Il Routing,Il Routing è l'instradamento effettuato all’interno della stessa rete con l’ausilio delle tabelle di instradamento configurate sui vari Router,FALSO
+Modulo 1 - Unità didattica 1,Il Routing,Per il suo funzionamento considera che i router siano a conoscenza degli indirizzi solo delle reti a cui sono direttamente collegati,VERO
+Modulo 1 - Unità didattica 1,Il Routing,Per il suo funzionamento considera che i router siano a conoscenza degli indirizzi delle reti a cui sono direttamente o indirettamente collegati,FALSO
+Modulo 1 - Unità didattica 1,Il Routing,"Nella tabella di instradamento ogni riga corrisponde a una regola e le regole vengono esaminate dalla prima all’ultima, se ci sono più regole che corrispondono all'indirizzo fornito, viene scelta la regola che ha più bit in comune con l'indirizzo fornito",VERO
+Modulo 1 - Unità didattica 1,Il Routing,"Nella tabella di instradamento ogni riga corrisponde a una regola e le regole vengono esaminate dalla prima all’ultima, se ci sono più regole che corrispondono all'indirizzo fornito, viene scelta la prima regola che viene esaminata",FALSO
+Modulo 1 - Unità didattica 1,Il Routing Statico,Può essere utilizzato anche quando il numero di dispositivi è elevato,FALSO
+Modulo 1 - Unità didattica 1,Il Routing Statico,Può utilizzare l’algoritmo OSPF (Open Shortest Path First),FALSO
+Modulo 1 - Unità didattica 1,Il Routing Statico,Può utilizzare l’algoritmo RIP (Routing Information Protocol),FALSO
+Modulo 1 - Unità didattica 1,Il Routing Statico,"Richiede l’intervento umano nella scelta delle rotte, attraverso la configurazione manuale delle rotte",VERO
+Modulo 1 - Unità didattica 1,Il Routing Statico,È gestito dai routers mediante la collaborazione con gli altri routers attraverso degli speciali protocolli,FALSO
+Modulo 1 - Unità didattica 1,Il Routing Statico,Identifica i path migliori e provvedere di riempire automaticamente le tabelle di routing,FALSO
+Modulo 1 - Unità didattica 1,Il Subnetting,È una suddivisione dello spazio di indirizzi riservato ad una rete,VERO
+Modulo 1 - Unità didattica 1,Il Subnetting,È una tecnica che permette di dividere una rete in sottoreti,VERO
+Modulo 1 - Unità didattica 1,Il Subnetting,"È utilizzato per risolvere al problema del numero limitato degli indirizzi IP pubblici, permettendo ad ogni azienda avere a disposizione un gran numero di indirizzi IP privati",VERO
+Modulo 1 - Unità didattica 1,Il Subnetting,Si realizza attraverso l’utilizzo (nella versione IPv4) della mascheratura degli ottetti binari dell’indirizzo,VERO
+Modulo 1 - Unità didattica 1,Il Subnetting,Si realizza attraverso l’utilizzo (nella versione IPv4) della mascheratura dei quartetti binari dell’indirizzo,FALSO
+Modulo 1 - Unità didattica 1,Il Subnetting,Si realizza utilizzando una parte dei bit del prefisso di rete dell’indirizzo in maschera di sottorete,FALSO
+Modulo 1 - Unità didattica 1,Il Triodo (o valvola Termoionica),Ha permesso di perfezionare e migliorare il circuito elettrico originario di Guglielmo Marconi,VERO
+Modulo 1 - Unità didattica 1,Il Triodo (o valvola Termoionica),Era utilizzato per migliorare la “sintonizzazione” tra trasmettitore e ricevitore,FALSO
+Modulo 1 - Unità didattica 1,Il Triodo (o valvola Termoionica),Ha permesso di migliorare il circuito elettrico di Guglielmo Marconi grazie alla sua capacità di rilevazione delle frequenze radio e di amplificazione del segnale,VERO
+Modulo 1 - Unità didattica 1,Il Triodo (o valvola Termoionica),Può essere considerato l’antesignano del transistor,VERO
+Modulo 1 - Unità didattica 1,Il Triodo (o valvola Termoionica),Può essere considerato l’antesignano del condensatore a capacità variabile,FALSO
+Modulo 1 - Unità didattica 1,Il Triodo (o valvola Termoionica),È di fatto una tecnologia derivata dalla lampadina ad incandescenza,VERO
+Modulo 1 - Unità didattica 1,Il virus informatico,"È un frammento di codice eseguibile, anche autonomamente, da un programma ospite",FALSO
+Modulo 1 - Unità didattica 1,Il virus informatico,Deve appoggiarsi necessariamente ad un altro programma/eseguibile per essere attivato,FALSO
+Modulo 1 - Unità didattica 1,Il virus informatico,"È auto-replicante, ovvero è in grado di creare la copia di sé sesso all'interno di altri file o computer senza il consenso o l'intervento di un utente",VERO
+Modulo 1 - Unità didattica 1,Il virus informatico,Necessita del consenso o dell'intervento di un utente per gestire la duplicazione all’interno di altri file o computer,FALSO
+Modulo 1 - Unità didattica 1,Il virus informatico,È comparso per la prima volta negli anni 90,FALSO
+Modulo 1 - Unità didattica 1,Il virus informatico,Può essere considerato un “Worm”,FALSO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),È un servizio che sfrutta pienamente il modello di architettura logica peer-to-peer,FALSO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),"È un servizio che permette l’accesso a contenuti ipertestuali (documenti in formato ipertesto), e multimediali, sfruttando l'infrastruttura di Internet",VERO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),"È costituito da quattro elementi o tecnologie fondamentali: l’URL, l’http e l’html e Flash",FALSO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),Originariamente prevedeva la visualizzazione di sole pagine ipertestuali statiche,VERO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),Ha avuto un’evoluzione tecnologica che ha permesso la realizzazione di effetti dinamici e interattivi,VERO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),Ha dati che vengono trasferiti dal server al browser ma che non possono essere direttamente criptati,FALSO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),Coincide perfettamente con Internet,FALSO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),Utilizza il protocollo HTTP (Hypertext Transfer Protocol) per trasferire dati tra server e client,VERO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),E' di fatto una rete decentralizzata,VERO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),Utilizza il linguaggio HTML (Hypertext Markup Language) per comporre pagine web,VERO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),Permette di ospitare i siti web solo su server dedicati,FALSO
+Modulo 1 - Unità didattica 1,Il World Wide Web (WWW),E' stato inventato da Tim Berners-Lee,VERO
+Modulo 1 - Unità didattica 1,Incidenti e attacchi informatici,Sono sostanzialmente la stessa cosa,FALSO
+Modulo 1 - Unità didattica 1,Incidenti e attacchi informatici,La classe statistica dei primi (gli incidenti) include i secondi (gli attacchi),VERO
+Modulo 1 - Unità didattica 1,Incidenti e attacchi informatici,La classe statistica dei secondi (gli attacchi) include i primi (gli incidenti),FALSO
+Modulo 1 - Unità didattica 1,Incidenti e attacchi informatici,Possono provocare perdite economiche ad un’organizzazione,VERO
+Modulo 1 - Unità didattica 1,Incidenti e attacchi informatici,Necessitano entrambi di strumenti di protezione aggiornati,VERO
+Modulo 1 - Unità didattica 1,Incidenti e attacchi informatici,Sono entrambi commessi da individui o organizzazioni che mirano volontariamente un altro individuo o un’azienda,FALSO
+Modulo 1 - Unità didattica 1,L'indirizzamento IPv4,"E' composto da 32 bit, solitamente rappresentati in 4 ottetti in notazione decimale puntata",VERO
+Modulo 1 - Unità didattica 1,L'indirizzamento IPv4,Può assumere per ogni ottetto di un indirizzo IPv4 valori compresi tra 0 e 255,VERO
+Modulo 1 - Unità didattica 1,L'indirizzamento IPv4,Utilizza subnet mask per distinguere la parte di indirizzo che indica la rete da quella che indica l’host,VERO
+Modulo 1 - Unità didattica 1,L'indirizzamento IPv4,Prevede che un'indirizzo possa avere una lunghezza variabile di 64 o 128 bit,FALSO
+Modulo 1 - Unità didattica 1,L'indirizzamento IPv4,Gli indirizzi 0.0.0.0 e 255.255.255.255 hanno significati speciali e non identificano un host specifico,VERO
+Modulo 1 - Unità didattica 1,L'indirizzamento IPv4,Ogni ottetto di un indirizzo IPv4 può assumere di fatto valori compresi tra 0 e 1024,FALSO
+Modulo 1 - Unità didattica 1,L’ Hypertext Transfer Protocol (in acronimo HTTP),Utilizza il comando PEEK che recupera una risorsa dal server (ad es. visitando una pagina),FALSO
+Modulo 1 - Unità didattica 1,L’ Hypertext Transfer Protocol (in acronimo HTTP),Utilizza il comando POST che invia una risorsa al server (ad es. compilando un modulo),VERO
+Modulo 1 - Unità didattica 1,L’ Hypertext Transfer Protocol (in acronimo HTTP),Utilizza il comando DELETE che cancella una risorsa dal server (ad es. eliminando un file),VERO
+Modulo 1 - Unità didattica 1,L’ Hypertext Transfer Protocol (in acronimo HTTP),Utilizza il comando POKE che forza una determinata area di memoria (ad es. caricando un valore in un registro),FALSO
+Modulo 1 - Unità didattica 1,L’ Hypertext Transfer Protocol (in acronimo HTTP),Utilizza il comando PUT che memorizza una risorsa sul server (ad es. caricando un file),VERO
+Modulo 1 - Unità didattica 1,L’ Hypertext Transfer Protocol (in acronimo HTTP),Utilizza il comando HEAD che recupera solo l'header della risposta senza la risorsa,VERO
+Modulo 1 - Unità didattica 1,L’ Uniform Resource Locator (in acronimo URL),Identifica univocamente l’indirizzo di una risorsa su una rete di computer,VERO
+Modulo 1 - Unità didattica 1,L’ Uniform Resource Locator (in acronimo URL),Necessita di una “risoluzione” in indirizzo IP per l’instradamento con l’analogo protocollo,VERO
+Modulo 1 - Unità didattica 1,L’ Uniform Resource Locator (in acronimo URL),È un indirizzo composto da vari parametri che possono essere opzionali,VERO
+Modulo 1 - Unità didattica 1,L’ Uniform Resource Locator (in acronimo URL),Può essere una sequenza alfanumerica o binaria,FALSO
+Modulo 1 - Unità didattica 1,L’ Uniform Resource Locator (in acronimo URL),In nessun caso può utilizzare un protocollo criptato,FALSO
+Modulo 1 - Unità didattica 1,L’ Uniform Resource Locator (in acronimo URL),"È nato per facilitare la consultazione delle risorse on-line siano esse interi siti web, pagine HTML, foto o video",VERO
+Modulo 1 - Unità didattica 1,L’HyperText Transfer Protocol (HTTP),È un linguaggio di testo che consente la comunicazione tra client e server attraverso internet per recuperare tutte le risorse collegate,VERO
+Modulo 1 - Unità didattica 1,L’HyperText Transfer Protocol (HTTP),È un linguaggio compilato che consente la comunicazione tra client e server attraverso internet per recuperare tutte le risorse collegate,FALSO
+Modulo 1 - Unità didattica 1,L’HyperText Transfer Protocol (HTTP),"Ha come caratteristica peculiare che terminato lo scambio di messaggi la connessione si sgancia, rendendo il protocollo molto flessibile e dinamico",VERO
+Modulo 1 - Unità didattica 1,L’HyperText Transfer Protocol (HTTP),"Dispone dei seguenti comandi: Get, Head, Post, Put, Delete",VERO
+Modulo 1 - Unità didattica 1,L’HyperText Transfer Protocol (HTTP),È un protocollo di livello 6 dello stack ISO/OSI,FALSO
+Modulo 1 - Unità didattica 1,L’HyperText Transfer Protocol (HTTP),Di “default” utilizza la porta 80 per la comunicazione da client a host (server),VERO
+Modulo 1 - Unità didattica 1,L’interfaccia USB,Può raggiungere una velocità di trasmissione di 20Gbit/sec,VERO
+Modulo 1 - Unità didattica 1,L’interfaccia USB,È utilizzata principalmente come interfaccia punto-punto,VERO
+Modulo 1 - Unità didattica 1,L’interfaccia USB,Può gestire al massimo 10 Hub concentratori,FALSO
+Modulo 1 - Unità didattica 1,L’interfaccia USB,Ha tra le caratteristiche fondamentali la capacità di alimentare i dispositivi collegati,VERO
+Modulo 1 - Unità didattica 1,L’interfaccia USB,Può trasmettere sino ad una distanza non superiore ai 5 metri,VERO
+Modulo 1 - Unità didattica 1,L’interfaccia USB,È uno standard che ha raggiunto il limite massimo di potenzialità,FALSO
+Modulo 1 - Unità didattica 1,La banda di trasmissione SHF,Identifica una banda di frequenze dove si trovano anche le microonde,VERO
+Modulo 1 - Unità didattica 1,La banda di trasmissione SHF,Identifica una banda di frequenza super-lunghe,FALSO
+Modulo 1 - Unità didattica 1,La banda di trasmissione SHF,Identifica una banda di frequenze super-alte,VERO
+Modulo 1 - Unità didattica 1,La banda di trasmissione SHF,Ha una banda di frequenze che va da 30 a 300MHz (onde metriche),FALSO
+Modulo 1 - Unità didattica 1,La banda di trasmissione SHF,Ha una banda di frequenze che va da 3 a 30 Ghz (onde centimetriche),VERO
+Modulo 1 - Unità didattica 1,La banda di trasmissione SHF,"È utilizzata dai Radar, dai link a microonde e dalle comunicazioni satellitari",VERO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,E' utilizzata esclusivamente per comunicazioni satellitari,FALSO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,E' ampiamente usata per la radiodiffusione FM (88–108 MHz),VERO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,La banda VHF copre in genere frequenze da 30 MHz a 300 MHz,VERO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,Penetra facilmente sottoterra ed è ideale per le comunicazioni nei tunnel,FALSO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,E' utilizzata anche per comunicazioni marittime e aeronautiche,VERO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,Per le trasmissioni sono necessarie antenne lunghe centinaia di metri,FALSO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,Identifica una banda di onde ultracorte,VERO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,Identifica una banda di onde ultralunghe,FALSO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,Identifica una banda di frequenze molto elevate,VERO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,Ha una banda di frequenze che va da 30 a 300MHz,VERO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,Ha una banda di frequenze che va da 3 a 30 Ghz,FALSO
+Modulo 1 - Unità didattica 1,La banda di trasmissione VHF,"È utilizzata dai Radar, dai link a microonde e dalle comunicazioni satellitari",FALSO
+Modulo 1 - Unità didattica 1,La comunicazione in Fibra Ottica,Si realizza mediante cavi in Fibra di Vetro o di Silicio,VERO
+Modulo 1 - Unità didattica 1,La comunicazione in Fibra Ottica,Si realizza mediante cavi in Materiali Polimerici,FALSO
+Modulo 1 - Unità didattica 1,La comunicazione in Fibra Ottica,Permette di raggiungere velocità di propagazione e larghezza di banda molto maggiori rispetto ai cavi tradizionali,VERO
+Modulo 1 - Unità didattica 1,La comunicazione in Fibra Ottica,"Visti i costi, di solito, si utilizza per distanze brevi e medie",FALSO
+Modulo 1 - Unità didattica 1,La comunicazione in Fibra Ottica,Permette di trasmettere il segnale con frequenze da 300 a 107 GHz,VERO
+Modulo 1 - Unità didattica 1,La comunicazione in Fibra Ottica,Può essere Monomodale o Multimodale,VERO
+Modulo 1 - Unità didattica 1,La macchina Enigma,Era una dispositivo Elettronico,FALSO
+Modulo 1 - Unità didattica 1,La macchina Enigma,Era un dispositivo elettromeccanico,VERO
+Modulo 1 - Unità didattica 1,La macchina Enigma,"Si basava su dischi cablati dotati di contatti su entrambi i lati, posizionati in posizione sfalsata",VERO
+Modulo 1 - Unità didattica 1,La macchina Enigma,"Un meccanismo faceva ruotare i dischi, in maniera casuale, ad ogni pressione di un tasto",FALSO
+Modulo 1 - Unità didattica 1,La macchina Enigma,Il meccanismo di enigma era solo monodirezionale (solo criptazione),FALSO
+Modulo 1 - Unità didattica 1,La macchina Enigma,Per complicare ulteriormente la codifica esisteva un pannello che permetteva di scambiare coppie di lettere mediante uno specifico cablaggio,VERO
+Modulo 1 - Unità didattica 1,La macchina enigma era?,Un dispositivo elettronico,FALSO
+Modulo 1 - Unità didattica 1,La macchina enigma era?,Un dispositivo elettromeccanico,VERO
+Modulo 1 - Unità didattica 1,La macchina enigma era?,Un dispositivo a scambiatori interscambiabili,VERO
+Modulo 1 - Unità didattica 1,La macchina enigma era?,Un dispositivo di criptazione con oltre 1.5*1020 possibili combinazioni,VERO
+Modulo 1 - Unità didattica 1,La macchina enigma era?,Un dispositivo di criptazione con oltre 1.5*1010 possibili combinazioni,FALSO
+Modulo 1 - Unità didattica 1,La macchina enigma era?,Un dispositivo di criptazione e di decriptazione,VERO
+Modulo 1 - Unità didattica 1,La modulazione telefonica consente:,Di adattare il segnale elettrico da trasmettere al canale,VERO
+Modulo 1 - Unità didattica 1,La modulazione telefonica consente:,Di adattare la frequenza del segnale da trasmettere con la banda del canale,VERO
+Modulo 1 - Unità didattica 1,La modulazione telefonica consente:,Di adattare la banda del canale con la frequenza del segnale da trasmettere,FALSO
+Modulo 1 - Unità didattica 1,La modulazione telefonica consente:,Di trasmettere segnali multipli su un unico canale trasmissivo,VERO
+Modulo 1 - Unità didattica 1,La modulazione telefonica consente:,Di trasmettere segnali su più canali contemporaneamente,FALSO
+Modulo 1 - Unità didattica 1,La modulazione telefonica consente:,Di permettere ad un’onda elettromagnetica di un segnale di arrivare integra alla destinazione,VERO
+Modulo 1 - Unità didattica 1,La PAM (Pulse Amplitude Modulation) è:,Una modulazione analogica,FALSO
+Modulo 1 - Unità didattica 1,La PAM (Pulse Amplitude Modulation) è:,Una modulazione digitale,VERO
+Modulo 1 - Unità didattica 1,La PAM (Pulse Amplitude Modulation) è:,Una modulazione digitale a traslazione di ampiezza,VERO
+Modulo 1 - Unità didattica 1,La PAM (Pulse Amplitude Modulation) è:,Una modulazione di ampiezza,FALSO
+Modulo 1 - Unità didattica 1,La PAM (Pulse Amplitude Modulation) è:,Una modulazione a traslazione di frequenza,FALSO
+Modulo 1 - Unità didattica 1,La PAM (Pulse Amplitude Modulation) è:,Una modulazione digitale con banda a doppio lato,FALSO
+Modulo 1 - Unità didattica 1,La quantità di informazioni che è possibile trasmettere nell’unità di tempo in un canale,È inversamente proporzionale alla larghezza di banda del canale,FALSO
+Modulo 1 - Unità didattica 1,La quantità di informazioni che è possibile trasmettere nell’unità di tempo in un canale,È proporzionale alla larghezza di banda del canale,VERO
+Modulo 1 - Unità didattica 1,La quantità di informazioni che è possibile trasmettere nell’unità di tempo in un canale,È maggiore al crescere dell'ampiezza dello spettro delle frequenze che possono passare per quel canale,VERO
+Modulo 1 - Unità didattica 1,La quantità di informazioni che è possibile trasmettere nell’unità di tempo in un canale,Dipende dalla tipologia del canale,VERO
+Modulo 1 - Unità didattica 1,La quantità di informazioni che è possibile trasmettere nell’unità di tempo in un canale,È indipendente dalla tipologia del canale,FALSO
+Modulo 1 - Unità didattica 1,La quantità di informazioni che è possibile trasmettere nell’unità di tempo in un canale,Dipende solo dalla velocità del trasmettitore e non dalla larghezza di banda del canale,FALSO
+Modulo 1 - Unità didattica 1,"La sequenza di caratteri (dentro le virgolette): ""https://www.sitoesempio.it/indirizzo/?ref=NOME""",Rappresenta un testo nel linguaggio http,FALSO
+Modulo 1 - Unità didattica 1,"La sequenza di caratteri (dentro le virgolette): ""https://www.sitoesempio.it/indirizzo/?ref=NOME""",Rappresenta un indirizzo URL (Uniform Resource Locator),VERO
+Modulo 1 - Unità didattica 1,"La sequenza di caratteri (dentro le virgolette): ""https://www.sitoesempio.it/indirizzo/?ref=NOME""",Identifica univocamente l’indirizzo della risorsa “sitoesempio”,VERO
+Modulo 1 - Unità didattica 1,"La sequenza di caratteri (dentro le virgolette): ""https://www.sitoesempio.it/indirizzo/?ref=NOME""",Ha come percorso “indirizzo”,VERO
+Modulo 1 - Unità didattica 1,"La sequenza di caratteri (dentro le virgolette): ""https://www.sitoesempio.it/indirizzo/?ref=NOME""",Ha come stringa di query “ref=NOME”,VERO
+Modulo 1 - Unità didattica 1,"La sequenza di caratteri (dentro le virgolette): ""https://www.sitoesempio.it/indirizzo/?ref=NOME""",Esprime “in chiaro” l’indirizzo IP,FALSO
+Modulo 1 - Unità didattica 1,La trasmissione telefonica su rete cablata,È tecnicamente più complessa rispetto alla trasmissione telegrafica perché deve trasmettere la voce umana,VERO
+Modulo 1 - Unità didattica 1,La trasmissione telefonica su rete cablata,Necessita della modulazione (trasformazione) del segnale da trasmettere,VERO
+Modulo 1 - Unità didattica 1,La trasmissione telefonica su rete cablata,Attraverso la modulazione in frequenza si adatta alla banda di frequenze che possono essere trasmesse sul canale,VERO
+Modulo 1 - Unità didattica 1,La trasmissione telefonica su rete cablata,Dall’inizio ha permesso il collegamento di tutti gli utenti in rete senza l’intervento umano,FALSO
+Modulo 1 - Unità didattica 1,La trasmissione telefonica su rete cablata,Ha utilizzato dall’inizio un sistema di commutazione automatica che permetteva di collegare gli utenti componendo un numero su un selettore a disco,FALSO
+Modulo 1 - Unità didattica 1,La trasmissione telefonica su rete cablata,Ha utilizzato dapprima la commutazione automatica solamente per le chiamate locali,VERO
+Modulo 1 - Unità didattica 1,Le reti telefoniche cellulari:,Sono di fatto reti di comunicazione wireless,VERO
+Modulo 1 - Unità didattica 1,Le reti telefoniche cellulari:,Derivano il proprio nome dalla cella (o cubicolo) dove sono installati gli apparati elettronici,FALSO
+Modulo 1 - Unità didattica 1,Le reti telefoniche cellulari:,"Derivano il proprio nome dalle celle, porzioni di territorio con stazioni radio fisse, a cui si collegano gli apparati mobili",VERO
+Modulo 1 - Unità didattica 1,Le reti telefoniche cellulari:,Utilizzano canali di trasmissione con frequenze differenti tra celle adiacenti,VERO
+Modulo 1 - Unità didattica 1,Le reti telefoniche cellulari:,A causa del grosso frazionamento sul territorio hanno bisogno di un’elevata potenza di trasmissione,FALSO
+Modulo 1 - Unità didattica 1,Le reti telefoniche cellulari:,Scambiano continuamente segnali con gli apparati mobili per migliorare la qualità di trasmissione,VERO
+Modulo 1 - Unità didattica 1,Le vulnerabilità informatiche,"Sono malfunzionamenti, configurazioni sbagliate o semplicemente errori (bugs) presenti in un sistema che lo espongono a dei rischi",VERO
+Modulo 1 - Unità didattica 1,Le vulnerabilità informatiche,Rendono un sistema vulnerabile ed esposto a potenziali minacce,VERO
+Modulo 1 - Unità didattica 1,Le vulnerabilità informatiche,Sono esclusivamente relative al codice software o firmware embedded in una determinata motherboard,FALSO
+Modulo 1 - Unità didattica 1,Le vulnerabilità informatiche,"Possono presentarsi all’interno del codice stesso, in una configurazione o addirittura nel processo di installazione",VERO
+Modulo 1 - Unità didattica 1,Le vulnerabilità informatiche,"Sono raggruppabili tre macro-categorie: software, protocolli e hardware",VERO
+Modulo 1 - Unità didattica 1,Le vulnerabilità informatiche,"Sono raggruppabili tre macro-categorie: software, protocolli e firmware",FALSO
+Modulo 1 - Unità didattica 1,Le vulnerabilità nell'hardware,Come i difetti nei progetti dei chip possono causare problemi di sicurezza anche con il sistema operativo aggiornato,VERO
+Modulo 1 - Unità didattica 1,Le vulnerabilità nell'hardware,Sono molto rare e quasi sempre innocue,FALSO
+Modulo 1 - Unità didattica 1,Le vulnerabilità nell'hardware,"Sono molto pericolose perché, a differenza del software, non sempre si possono riparare con un semplice aggiornamento",VERO
+Modulo 1 - Unità didattica 1,Le vulnerabilità nell'hardware,Possono essere solo relative alla difettosità dei chip in quanto il firmware (il software di base del chip) è immune ai malware,FALSO
+Modulo 1 - Unità didattica 1,Le vulnerabilità nell'hardware,Possono essere solo relative al firmware dei chip,FALSO
+Modulo 1 - Unità didattica 1,Le vulnerabilità nell'hardware,Possono causare la fuga di dati,VERO
+Modulo 1 - Unità didattica 1,Nel Packet Switching (la tecnica di commutazione):,Il messaggio viene diviso in parti più piccole (packets) che vengono gestite singolarmente,VERO
+Modulo 1 - Unità didattica 1,Nel Packet Switching (la tecnica di commutazione):,I messaggi vengono raggruppati in pacchetti (packets) che vengono trasmessi insieme,FALSO
+Modulo 1 - Unità didattica 1,Nel Packet Switching (la tecnica di commutazione):,"Ai pacchetti (packets) viene assegnato nell’intestazione Indirizzo Sorgente, la Destinazione ed altri dati",VERO
+Modulo 1 - Unità didattica 1,Nel Packet Switching (la tecnica di commutazione):,"I pacchetti viaggiano attraverso la rete, prendendo il percorso più breve possibile (routing)",VERO
+Modulo 1 - Unità didattica 1,Nel Packet Switching (la tecnica di commutazione):,I pacchetti vengono suddivisi e trasmessi in maniera indipendente e riassemblati all'estremità ricevente nell'ordine di arrivo,FALSO
+Modulo 1 - Unità didattica 1,Nel Packet Switching (la tecnica di commutazione):,"Se un messaggio arriva mancante di pacchetti o danneggiato verrà inviata una notifica per inviare nuovamente il messaggio, se invece viene raggiunto l'ordine corretto dei pacchetti, verrà inviata notifica di conferma",VERO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica anche su breve distanza e con poca banda?,Perché è immune alle interferenze elettromagnetiche,VERO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica anche su breve distanza e con poca banda?,Per l'alta resistenza elettrica che la rende sicura se utilizzata vicino a strumenti ad alto voltaggio,VERO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica anche su breve distanza e con poca banda?,Per la maggiore sicurezza: non produce scintille (che possono provocare incendi o esplosioni in zona critiche),VERO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica anche su breve distanza e con poca banda?,"Per la maggiore leggerezza, utile ad esempio negli aeroplani",VERO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica anche su breve distanza e con poca banda?,Per i minori costi per i materiali anche quando si desiderano quantità non molto elevate,FALSO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica anche su breve distanza e con poca banda?,Per il costo minore di trasmettitori e ricevitori,FALSO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica?,Perché ha una maggiore sicurezza contro intercettazioni rispetto ai cavi in rame.,VERO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica?,Perché non richiede nessuna infrastruttura dedicata,FALSO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica?,Perché è immune ai disturbi elettromagnetici,VERO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica?,Perché consente di coprire grandi distanze senza perdita significativa di segnale,VERO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica?,Perché è completamente esente dai fenomeni di disturbo,FALSO
+Modulo 1 - Unità didattica 1,Perché si utilizza la fibra ottica?,Perché è più economica del doppino di rame in ogni situazione,FALSO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il telegrafo?,Un cavo di trasmissione,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il telegrafo?,Una batteria,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il telegrafo?,Un’antenna,FALSO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il telegrafo?,Una valvola rilevatrice,FALSO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il telegrafo?,Un selettore a due posizioni,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il telegrafo?,Una elettrocalamita,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il trasmettitore di G.Marconi del 1.900?,Un circuito di amplificazione di tensione,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il trasmettitore di G.Marconi del 1.900?,Una bobina,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il trasmettitore di G.Marconi del 1.900?,Un triodo,FALSO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il trasmettitore di G.Marconi del 1.900?,Una valvola rivelatrice,FALSO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il trasmettitore di G.Marconi del 1.900?,Una capacità varabile,FALSO
+Modulo 1 - Unità didattica 1,Quali dei seguenti componenti erano costituenti il trasmettitore di G.Marconi del 1.900?,Un diodo,FALSO
+Modulo 1 - Unità didattica 1,Quali dei seguenti elementi costituiscono un cavo in fibra ottica?,Core,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti elementi costituiscono un cavo in fibra ottica?,Cladding,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti elementi costituiscono un cavo in fibra ottica?,Buffer,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti elementi costituiscono un cavo in fibra ottica?,Wrapping,FALSO
+Modulo 1 - Unità didattica 1,Quali dei seguenti elementi costituiscono un cavo in fibra ottica?,Jacket,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti elementi costituiscono un cavo in fibra ottica?,Sheathing,FALSO
+Modulo 1 - Unità didattica 1,Quali dei seguenti sono crimini informatici o cyber crimini secondo l’ordinamento italiano,Frodi tramite e-mail e Internet,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti sono crimini informatici o cyber crimini secondo l’ordinamento italiano,Tutti i casi di Hacktivismo,FALSO
+Modulo 1 - Unità didattica 1,Quali dei seguenti sono crimini informatici o cyber crimini secondo l’ordinamento italiano,Furto d'identità (vengono sottratte e poi utilizzate le informazioni personali),VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti sono crimini informatici o cyber crimini secondo l’ordinamento italiano,Furto dei dati finanziari o dei dettagli delle carte di credito,VERO
+Modulo 1 - Unità didattica 1,Quali dei seguenti sono crimini informatici o cyber crimini secondo l’ordinamento italiano,Furto di valuta da sportelli ATM (Bancomat),FALSO
+Modulo 1 - Unità didattica 1,Quali dei seguenti sono crimini informatici o cyber crimini secondo l’ordinamento italiano,Cyber-estorsione (richiesta di denaro per disinnescare un attacco preannunciato),VERO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni che hanno decretato il successo della fibra ottica?,Perché peremette di incrementare la banda di trasmissione dei dati,VERO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni che hanno decretato il successo della fibra ottica?,Perché permette di aumentare e migliorare i servizi gestiti dal canale,VERO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni che hanno decretato il successo della fibra ottica?,Perché è immune ai disturbi elettromagnetici,VERO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni che hanno decretato il successo della fibra ottica?,Perché aumenta la velocità di trasmissione,VERO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni che hanno decretato il successo della fibra ottica?,Perché è completamente esente dai fenomeni di disturbo,FALSO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni che hanno decretato il successo della fibra ottica?,Perché la cablatura costa poco,FALSO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni della crescente diffusione della criminalità informatica,L’incessante sviluppo della tecnologia informatica e le nuove opportunità di aggressione ai beni e le proprietà,VERO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni della crescente diffusione della criminalità informatica,La difficoltà della ricerca delle prove e i non sempre adeguati strumenti normativi,VERO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni della crescente diffusione della criminalità informatica,Il forte radicamento dei fenomeni cyber criminosi con il loro territorio d’origine,FALSO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni della crescente diffusione della criminalità informatica,La transnazionalità di fenomeni criminosi e la difformità degli strumenti normativi nei vari stati,VERO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni della crescente diffusione della criminalità informatica,La transizione del reato da un ambiente tangibile e materiale verso un ambiente intangibile e dematerializzato,VERO
+Modulo 1 - Unità didattica 1,Quali sono le ragioni della crescente diffusione della criminalità informatica,La transizione del reato da un ambiente intangibile e dematerializzato verso un ambiente tangibile e materiale,FALSO
+Modulo 1 - Unità didattica 1,Selezionare il numero massimo delle combinazioni possibili dei rotori (scelta di 3 su 5):,26,FALSO
+Modulo 1 - Unità didattica 1,Selezionare il numero massimo delle combinazioni possibili dei rotori (scelta di 3 su 5):,66,FALSO
+Modulo 1 - Unità didattica 1,Selezionare il numero massimo delle combinazioni possibili dei rotori (scelta di 3 su 5):,60,VERO
+Modulo 1 - Unità didattica 1,Selezionare il numero massimo delle combinazioni possibili dei rotori (scelta di 3 su 5):,86,FALSO
+Modulo 1 - Unità didattica 1,Selezionare il numero massimo delle combinazioni possibili dei rotori (scelta di 3 su 5):,28,FALSO
+Modulo 1 - Unità didattica 1,Selezionare il numero massimo delle combinazioni possibili dei rotori (scelta di 3 su 5):,5,FALSO
+Modulo 1 - Unità didattica 1,Selezionare la formula matematica corretta per calcolare il numero di combinazioni possibili con lo scambio di 9 coppie con 9 cavi su Enigma:,26! / (4! * 9! * 2^9),FALSO
+Modulo 1 - Unità didattica 1,Selezionare la formula matematica corretta per calcolare il numero di combinazioni possibili con lo scambio di 9 coppie con 9 cavi su Enigma:,26! / (4! * 10! * 2^10),FALSO
+Modulo 1 - Unità didattica 1,Selezionare la formula matematica corretta per calcolare il numero di combinazioni possibili con lo scambio di 9 coppie con 9 cavi su Enigma:,26! / (4! * 13! * 2^13),FALSO
+Modulo 1 - Unità didattica 1,Selezionare la formula matematica corretta per calcolare il numero di combinazioni possibili con lo scambio di 9 coppie con 9 cavi su Enigma:,26! / (8! * 9! * 2^9),VERO
+Modulo 1 - Unità didattica 1,Selezionare la formula matematica corretta per calcolare il numero di combinazioni possibili con lo scambio di 9 coppie con 9 cavi su Enigma:,26! / (6! * 9! * 2^9),FALSO
+Modulo 1 - Unità didattica 1,Selezionare la formula matematica corretta per calcolare il numero di combinazioni possibili con lo scambio di 9 coppie con 9 cavi su Enigma:,26! / (2! * 9! * 2^9),FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,"Ha la dimensione di 32 bits, divisi in 4 gruppi da 8 bits",VERO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,"Ha la dimensione di 32 bits, divisi in 8 gruppi da 4 bits",FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,"Ha la dimensione di 128 bits, divisi in 8 gruppi da 16 bits",FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,"Ha la dimensione di 256 bits, divisi in 8 gruppi da 32 bits",FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,"Può essere pubblico, ossia che può essere raggiunto da qualsiasi altro nodo di Internet, o privato, ovvero che viene riconosciuto solo all'interno di una rete locale",VERO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,Può essere assegnato da chiunque,FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,E' lungo esattamente 32 bit ed è solitamente rappresentato in formato decimale puntato,VERO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,"Non è associato al computer in sé bensì alla sua interfaccia di rete, se il computer ha più schede di rete avrà più indirizzi IP",VERO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,Pubblico su Internet deve essere univoco a livello globale ed è assegnato da autorità centrali e regionali,VERO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,"E' composto da quatto cifre decimali, dove ogni numero decimale può assumere un valore compreso tra 0 e 256",FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,"Non è un indirizzo fisico di livello 2 (come l'indirizzo MAC), ma è un indirizzo logico di livello 3 che cambia a seconda della rete a cui ci si connette",FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv4,Che contiene 255 nella quarta cifra decimale identifica sempre l'indirizzo di Broadcast,FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv6 è costituito da:,"32 bits, divisi in 4 ottetti binari",FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv6 è costituito da:,"32 bits, divisi in 8 gruppi da 4 bits",FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv6 è costituito da:,"128 bits, divisi in 8 gruppi da 16 bits",VERO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv6 è costituito da:,"128 bits, divisi in 16 gruppi da 8 bits",FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv6 è costituito da:,"256 bits, divisi in 32 gruppi da 8 bits",FALSO
+Modulo 1 - Unità didattica 1,Un indirizzo IPv6 è costituito da:,"256 bits, divisi in 8 gruppi da 32 bits",FALSO
+Modulo 1 - Unità didattica 1,Un linguaggio di Markup,È un linguaggio di marcatura o di formattazione,VERO
+Modulo 1 - Unità didattica 1,Un linguaggio di Markup,È un insieme di regole che descrivono i meccanismi di rappresentazione o impaginazione di un testo,VERO
+Modulo 1 - Unità didattica 1,Un linguaggio di Markup,È il linguaggio HTML,VERO
+Modulo 1 - Unità didattica 1,Un linguaggio di Markup,È il protocollo http,FALSO
+Modulo 1 - Unità didattica 1,Un linguaggio di Markup,Mescola il testo di un documento con le istruzioni di markup nello stesso flusso di dati o file,VERO
+Modulo 1 - Unità didattica 1,Un linguaggio di Markup,Non necessità di altri applicativi (o strumenti) per visualizzare correttamente il formato del testo,FALSO
+Modulo 1 - Unità didattica 1,Una Minaccia alla sicurezza informatica,"Può essere definita come un codice eseguibile che ha la capacità di compiere operazioni dannose per la macchina in cui si trova, per il sistema informatico in cui si è inserito o per i dati in esso contenuti o gestiti",VERO
+Modulo 1 - Unità didattica 1,Una Minaccia alla sicurezza informatica,Si propaga e si concretizza sempre indipendentemente dal fattore umano,FALSO
+Modulo 1 - Unità didattica 1,Una Minaccia alla sicurezza informatica,"Utilizza un vettore (ovvero il percorso seguito dall'attacco) che può essere esterno, da parte di qualche malintenzionato, o interno all’organizzazione, anche incidentale",VERO
+Modulo 1 - Unità didattica 1,Una Minaccia alla sicurezza informatica,Può essere eliminata mediante l’installazione di un buon antivirus,FALSO
+Modulo 1 - Unità didattica 1,Una Minaccia alla sicurezza informatica,Può penetrare qualsiasi tipo di file eseguibile e diffondersi nel momento in cui il file viene copiato e inviato da un utente all'altro,VERO
+Modulo 1 - Unità didattica 1,Una Minaccia alla sicurezza informatica,Può essere costituita dai Ramsomware,VERO
+Modulo 1 - Unità didattica 2,Cos’è la crittografia?,È una tecnica di rappresentazione di dati o informazioni,VERO
+Modulo 1 - Unità didattica 2,Cos’è la crittografia?,E' una tecnica che impedisce in assoluto che i dati vengano intercettati,FALSO
+Modulo 1 - Unità didattica 2,Cos’è la crittografia?,E' una tecnica che viene usata solo in ambito militare e non ha applicazioni nella vita quotidiana,FALSO
+Modulo 1 - Unità didattica 2,Cos’è la crittografia?,È una tecnica per impedire che l’informazione contenuta in un messaggio possa essere recepita da chi non ha la chiave di decriptazione,VERO
+Modulo 1 - Unità didattica 2,Cos’è la crittografia?,È una tecnica per rendere più sicura la trasmissione dei dati o dei segnali,VERO
+Modulo 1 - Unità didattica 2,Cos’è la crittografia?,È una tecnica per cifrare trasmissioni analogiche,FALSO
+Modulo 1 - Unità didattica 2,Cryptojacking,È una minaccia in grado di infiltrarsi nei browser web e di compromettere ogni tipo di dispositivo informatico,VERO
+Modulo 1 - Unità didattica 2,Cryptojacking,È una minaccia che utilizza le risorse di un computer o un dispositivo mobile per criptare dei file,FALSO
+Modulo 1 - Unità didattica 2,Cryptojacking,È una minaccia che utilizza le risorse di un computer o un dispositivo mobile per “generare” criptovalute,VERO
+Modulo 1 - Unità didattica 2,Cryptojacking,Utilizza malware che funzionano da processi in background sottraendo risorse hardware a danno dell’utente,VERO
+Modulo 1 - Unità didattica 2,Cryptojacking,Sfrutta il meccanismo di compensazione dei “Miners” delle Blockchain delle criptovalute,VERO
+Modulo 1 - Unità didattica 2,Cryptojacking,È una minaccia in grado di infiltrarsi nei DNS e di compromettere solo i server,FALSO
+Modulo 1 - Unità didattica 2,Cyberwarfare,"Si associa all'uso di attacchi informatici da parte di uno Stato, organizzazione o gruppo per danneggiare eclusivamente infrastrutture che gestiscono reti informatiche militari",FALSO
+Modulo 1 - Unità didattica 2,Cyberwarfare,"Può includere spionaggio e disinformazione, attraverso l'uso distorto dei media",VERO
+Modulo 1 - Unità didattica 2,Cyberwarfare,"Si associa all'uso di attacchi informatici da parte di uno Stato, organizzazione o gruppo per danneggiare, interrompere o distruggere sistemi informatici e infrastrutture critiche di un avversario",VERO
+Modulo 1 - Unità didattica 2,Cyberwarfare,"Può essere equiparata ai domini della guerra tradizionale: terra, cielo e mare.",VERO
+Modulo 1 - Unità didattica 2,Cyberwarfare,Non può influenzare l’opinione pubblica di un Paese,FALSO
+Modulo 1 - Unità didattica 2,Cyberwarfare,Può utilizzare attacchi di tipo DDoS (Distributed Denial of Service),VERO
+Modulo 1 - Unità didattica 2,I Cyber Attacchi opportunistici,Sono attacchi che hanno una durata limitata nel tempo,VERO
+Modulo 1 - Unità didattica 2,I Cyber Attacchi opportunistici,Sfruttano sempre vulnerabilità standardizzate (CVE),FALSO
+Modulo 1 - Unità didattica 2,I Cyber Attacchi opportunistici,Hanno obiettivi prevalentemente economici,VERO
+Modulo 1 - Unità didattica 2,I Cyber Attacchi opportunistici,Possono chiedere il riscatto dopo aver bloccato dei file di sistema,VERO
+Modulo 1 - Unità didattica 2,I Cyber Attacchi opportunistici,Sono un fenomeno in crescita negli ultimi anni,VERO
+Modulo 1 - Unità didattica 2,I Cyber Attacchi opportunistici,Possono sfruttare porte aperte o non configurate,VERO
+Modulo 1 - Unità didattica 2,Il Dark Web,È accessibile solo tramite appositi browser e protocolli di anonimizzazione,VERO
+Modulo 1 - Unità didattica 2,Il Dark Web,"Rappresenta una porzione molto piccola di internet (meno dello 0,01%)",VERO
+Modulo 1 - Unità didattica 2,Il Dark Web,"Oltre a essere una ""centrale"" per il crimine informatico, l'anonimato che offre viene sfruttato da attivisti politici, giornalisti e informatori in paesi soggetti a censura.",VERO
+Modulo 1 - Unità didattica 2,Il Dark Web,È sempre illegale proprio per le sue caratteristiche di anonimato,FALSO
+Modulo 1 - Unità didattica 2,Il Dark Web,Garantisce sempre l'inviolabilità delle informazioni personali,FALSO
+Modulo 1 - Unità didattica 2,Il Dark Web,"Si è evoluto in vero e proprio e-commerce strutturati, completo di sistemi di recensioni, conti deposito e assistenza clienti",VERO
+Modulo 1 - Unità didattica 2,Il Furto di Identità Digitale,È punito dal Codice Penale Italiano come “Sostituzione della propria all'altrui persona” e “Frode Informatica”,VERO
+Modulo 1 - Unità didattica 2,Il Furto di Identità Digitale,Può essere associato al solo reato di “Truffa”,FALSO
+Modulo 1 - Unità didattica 2,Il Furto di Identità Digitale,Può avvenire mediante operazioni di Phishing,VERO
+Modulo 1 - Unità didattica 2,Il Furto di Identità Digitale,È relativo all’uso illecito dell’insieme dei dati e delle informazioni che definiscono un individuo e costituiscono la rappresentazione virtuale dell'identità reale utilizzabile durante interazioni elettroniche,VERO
+Modulo 1 - Unità didattica 2,Il Furto di Identità Digitale,È relativo ai soli dati biometrici che definiscono un individuo e costituiscono una delle rappresentazioni virtuali dell'identità reale utilizzabile durante interazioni elettroniche,FALSO
+Modulo 1 - Unità didattica 2,Il Furto di Identità Digitale,È un reato amministrativo secondo l’ordinamento italiano,FALSO
+Modulo 1 - Unità didattica 2,Il Ransomware,"Si diffonde di solito via e-mail, sistemi di messaggistica o chat",VERO
+Modulo 1 - Unità didattica 2,Il Ransomware,Si diffonde sempre tramite sofisticate forme di attacco informatico,FALSO
+Modulo 1 - Unità didattica 2,Il Ransomware,Utilizza messaggi che sembrano provenire da soggetti conosciuti oppure da persone fidate,VERO
+Modulo 1 - Unità didattica 2,Il Ransomware,Una volta effettuato il contagio si suggerisce di pagare il riscatto,FALSO
+Modulo 1 - Unità didattica 2,Il Ransomware,Una volta effettuato il contagio di un computer non si propaga in rete,FALSO
+Modulo 1 - Unità didattica 2,Il Ransomware,"Si può mitigare con la formazione del personale, l’aggiornamento dei sw e l’uso periodico e frequente di backup dei dati e dei sistemi",VERO
+Modulo 1 - Unità didattica 2,Il Social Engineering,È una tecnica di attacco che può sfruttare anche strumenti non informatici,VERO
+Modulo 1 - Unità didattica 2,Il Social Engineering,Può utilizzare i siti “social” su cui sono esposte direttamente o indirettamente informazioni personali,VERO
+Modulo 1 - Unità didattica 2,Il Social Engineering,Può utilizzare il Baiting,VERO
+Modulo 1 - Unità didattica 2,Il Social Engineering,Può utilizzare un attacco tipo “forza bruta”,FALSO
+Modulo 1 - Unità didattica 2,Il Social Engineering,Può utilizzare il Phishing,VERO
+Modulo 1 - Unità didattica 2,Il Social Engineering,È diretto prevalentemente contro le aziende,FALSO
+Modulo 1 - Unità didattica 2,L’Avanced Persistent Threat (APT),"È una minaccia perpetrata da un avversario dotato di notevole bagaglio tecnico e grandi risorse, in grado di effettuare attacchi su vasta scala, utilizzando molteplici vettori, e per periodi di tempo molto estesi",VERO
+Modulo 1 - Unità didattica 2,L’Avanced Persistent Threat (APT),È una minaccia che colpisce aziende molto grandi,FALSO
+Modulo 1 - Unità didattica 2,L’Avanced Persistent Threat (APT),È di solito gestita da gruppi organizzati e/o da stati sovrani,VERO
+Modulo 1 - Unità didattica 2,L’Avanced Persistent Threat (APT),Utilizza software largamente disponibili per riuscire meglio a propagarsi,FALSO
+Modulo 1 - Unità didattica 2,L’Avanced Persistent Threat (APT),"Può utilizzare software creati ad hoc, più versatili e complessi da rilevare",VERO
+Modulo 1 - Unità didattica 2,L’Avanced Persistent Threat (APT),"Per raccogliere informazioni sui propri obiettivi può utilizzare tool estremamente sofisticati, e, potenzialmente, anche appoggiarsi ai servizi di intelligence del paese di provenienza",VERO
+Modulo 1 - Unità didattica 2,La Cyber Security nella Supply Chain,E' una tematica che riguarda esclusivamente le forniture di software applicativo,FALSO
+Modulo 1 - Unità didattica 2,La Cyber Security nella Supply Chain,E' una tematica che riguarda la cyber security delle forniture digitali e in generale l'integrazione informatica sicura di tutta la catena di fornitura,VERO
+Modulo 1 - Unità didattica 2,La Cyber Security nella Supply Chain,Si migliora attraverso l'allineamento dei requisiti di Cyber Security con i fornitori,FALSO
+Modulo 1 - Unità didattica 2,La Cyber Security nella Supply Chain,Si migliora mediante assessment periodici con i fornitori diretti,VERO
+Modulo 1 - Unità didattica 2,La Cyber Security nella Supply Chain,"Può essere migliorata mediante la certificazioni di cybersecurity dei sistemi di gestione, di prodotto o di componente nella catena di fornitura",VERO
+Modulo 1 - Unità didattica 2,La Cyber Security nella Supply Chain,E' un problema che riguarda solamente le aziende di produzione,FALSO
+Modulo 1 - Unità didattica 2,La Cybersecurity nella Supply Chain del software,"Necessità un monitoraggio continuo della Software Bill of Materials (SBOM), ovvero l'elenco completo di tutti i componenti di terze parti utilizzati in un software",VERO
+Modulo 1 - Unità didattica 2,La Cybersecurity nella Supply Chain del software,"Riguarda esclusivamente il codice sorgente finale distribuito ai clienti, questo perché gli attacchi si concentrano solo sul prodotto finito.",FALSO
+Modulo 1 - Unità didattica 2,La Cybersecurity nella Supply Chain del software,Richiede sempre la firma digitale del codice (code signing) in modo da essere 100% sicuri che il codice sia privo di malware,FALSO
+Modulo 1 - Unità didattica 2,La Cybersecurity nella Supply Chain del software,Può essere risolta mediante l'utilizzo esclusivo di codice open source poiché il codice è pubblicamente visibile e controllato dalla community,FALSO
+Modulo 1 - Unità didattica 2,La Cybersecurity nella Supply Chain del software,"Può riguradare la ""mancanza di manutenzione"" di una libreria di terze parti",VERO
+Modulo 1 - Unità didattica 2,La Cybersecurity nella Supply Chain del software,E' un problema che riguarda solo gli sviluppatori del software e non influisce sull'ufficio acquisiti e l'ufficio legale di un'organizzazione,FALSO
+Modulo 1 - Unità didattica 2,La Supply Chain o catena di fornitura,Può essere il bersaglio per un attacco indiretto ad un determinato obiettivo,VERO
+Modulo 1 - Unità didattica 2,La Supply Chain o catena di fornitura,"Permette attacchi di più difficile individuazione e, di solito, di più semplice realizzazione",VERO
+Modulo 1 - Unità didattica 2,La Supply Chain o catena di fornitura,Può essere il bersaglio di Cyber Attacchi di solito nelle PMI (Piccole e Medie Aziende),VERO
+Modulo 1 - Unità didattica 2,La Supply Chain o catena di fornitura,Può essere il bersaglio di Cyber Attacchi di solito nelle Grandi Aziende,FALSO
+Modulo 1 - Unità didattica 2,La Supply Chain o catena di fornitura,Non è a rischio di Cyber Attacchi solamente se elimina l’integrazione informatica cliente-fornitore,FALSO
+Modulo 1 - Unità didattica 2,La Supply Chain o catena di fornitura,"Riduce il rischio di Cyber Attacchi se implementa una corretta politica di gestione dei fornitori, ad esempio, richiedendo specifici requisiti di sicurezza informatica",VERO
+Modulo 1 - Unità didattica 2,Phishing,È un illecito civile e penale secondo la legge Italiana,VERO
+Modulo 1 - Unità didattica 2,Phishing,È un illecito civile ma non penale secondo la legge italiana,FALSO
+Modulo 1 - Unità didattica 2,Phishing,Consiste in una truffa su internet attraverso la quale si cerca di ingannare la vittima con lo scopo di carpire informazioni sensibili,VERO
+Modulo 1 - Unità didattica 2,Phishing,Può avvenire attraverso una mail realizzata appositamente per favorire l'inserimento di informazioni personali,VERO
+Modulo 1 - Unità didattica 2,Phishing,Consiste nell'impersonare qualcuno per ottenere l'accesso a dati privilegiati,FALSO
+Modulo 1 - Unità didattica 2,Phishing,Si realizza offrendo qualcosa al fine di consentire il download di un file dannoso,FALSO
+Modulo 1 - Unità didattica 2,Un attacco di tipo DoS,Esaurisce le risorse di un sistema sino a bloccarlo,VERO
+Modulo 1 - Unità didattica 2,Un attacco di tipo DoS,"Viene abitualmente attuato inviando molti pacchetti di richieste, di solito ad un server web o di posta elettronica ma non solo",VERO
+Modulo 1 - Unità didattica 2,Un attacco di tipo DoS,Può essere attuato a vari livelli dello stack ISO-OSI,VERO
+Modulo 1 - Unità didattica 2,Un attacco di tipo DoS,Per moltiplicare l'efficacia può utilizzare una rete di computer infetti,VERO
+Modulo 1 - Unità didattica 2,Un attacco di tipo DoS,Utilizza una botnet per coordinare le attività dei server che generano gli accessi multipli al target predefinito,FALSO
+Modulo 1 - Unità didattica 2,Un attacco di tipo DoS,Utilizza botnet per generare attacchi multipli ad un target (in questo caso è denominato DDoS),VERO
+Modulo 1 - Unità didattica 2,"Un linguaggio di programmazione (es. C, C++, Python, ecc.)",Può non essere nativamente cyber sicuro,VERO
+Modulo 1 - Unità didattica 2,"Un linguaggio di programmazione (es. C, C++, Python, ecc.)","Può essere soggetto a standardizzazione nelle strutture logiche, funzionali o procedurali",VERO
+Modulo 1 - Unità didattica 2,"Un linguaggio di programmazione (es. C, C++, Python, ecc.)",Deve essere considerato un requisito critico nella gestione dei fornitori del software,VERO
+Modulo 1 - Unità didattica 2,"Un linguaggio di programmazione (es. C, C++, Python, ecc.)",Può avere vulnerabilità intrinseche,VERO
+Modulo 1 - Unità didattica 2,"Un linguaggio di programmazione (es. C, C++, Python, ecc.)",Deve essere lasciato completamente libero da vincoli per permettere al programmatore di sfruttare tutte le sue capacità,FALSO
+Modulo 1 - Unità didattica 2,"Un linguaggio di programmazione (es. C, C++, Python, ecc.)","Se di recente realizzazione è sempre auto-esplicativo, nel senso che non necessità di pesanti descrizioni o commenti",FALSO
+Modulo 1 - Unità didattica 2,Un’Infrastruttura Critica,Può essere un’azienda che concorre al mantenimento delle funzioni vitali di un paese,VERO
+Modulo 1 - Unità didattica 2,Un’Infrastruttura Critica,Può fornire servizi per la salute pubblica,VERO
+Modulo 1 - Unità didattica 2,Un’Infrastruttura Critica,Può fornire acqua potabile,VERO
+Modulo 1 - Unità didattica 2,Un’Infrastruttura Critica,È un’azienda appartenente al terziario in genere,FALSO
+Modulo 1 - Unità didattica 2,Un’Infrastruttura Critica,In europa rientra verosimilmente nella tassonomia dei soggetti altamente critici e critici presente nella normativa NIS 2,VERO
+Modulo 1 - Unità didattica 2,Un’Infrastruttura Critica,"Italiana, per tipologia, è sicuramente critica anche in un paese extra-europeo",FALSO
+Modulo 1 - Unità didattica 2,Una Botnet,È una rete composta da dispositivi infettati da malware che agiscono sotto il controllo di un unico attore aumentando le risorse e le capacità offensive a sua disposizione,VERO
+Modulo 1 - Unità didattica 2,Una Botnet,È una rete composta da dispositivi infettati da malware che agiscono sotto il controllo di attori multipli aumentando le risorse e capacità offensive a loro disposizione,FALSO
+Modulo 1 - Unità didattica 2,Una Botnet,È una rete composta da dispositivi infettati che permette di creare un sovraccarico anche nelle server farm che gestiscono siti capaci di grande traffico,VERO
+Modulo 1 - Unità didattica 2,Una Botnet,È lo strumento principale per realizzare un attacco di tipo Ransomware,FALSO
+Modulo 1 - Unità didattica 2,Una Botnet,È lo strumento principale per realizzare un attacco di tipo DDoS (Distributed Denial of Service),VERO
+Modulo 1 - Unità didattica 2,Una Botnet,Può utilizzare trojan specializzati che permettono il controllo remoto del sistema infettato,VERO
+Modulo 1 - Unità didattica 2,Una vittima di Pretexting,"E' stata manipolata, mediante una finta e-mail dal proprio capo, ed ha fornito i numeri e le credenziali della carta di credito aziendale",VERO
+Modulo 1 - Unità didattica 2,Una vittima di Pretexting,Ha inviato le proprie credenziali di accesso dopo aver ricevuto una finta e-mail (dal bancario conosciuto) con la richiesta di conferma per evitare che l'account venisse disattivato,VERO
+Modulo 1 - Unità didattica 2,Una vittima di Pretexting,E' stata costretta a scaricare un software infetto dopo che è avvenuta una segnalazione che il computer era stato compromesso,FALSO
+Modulo 1 - Unità didattica 2,Una vittima di Pretexting,"Ha installato uno specifico software, di cui effettivamente aveva necessità, gratuitamente anche se tutti gli altri siti lo fornivano a pagamento",FALSO
+Modulo 1 - Unità didattica 2,Una vittima di Pretexting,"Ha installato una chiave USB corredata di logo aziendale, trovata casualmente, riportante la scritta “prossimi aumenti”",FALSO
+Modulo 1 - Unità didattica 2,Una vittima di Pretexting,Ha ricevuto una e-mail dal sito della propria carta di credito che riproduce perfettamente la pagina di log-in del proprio account,FALSO
+Modulo 1 - Unità didattica 2,Verificare quale delle seguenti affermazioni sulla Cyber Security nella Supply Chain sono vere o false:,Un attacco alla supply chain può avvenire compromettendo software di terze parti o aggiornamenti distribuiti ai clienti (es. attacchi a fornitori di software),VERO
+Modulo 1 - Unità didattica 2,Verificare quale delle seguenti affermazioni sulla Cyber Security nella Supply Chain sono vere o false:,La sicurezza della supply chain riguarda solo i fornitori diretti e non quelli di secondo o terzo livello,FALSO
+Modulo 1 - Unità didattica 2,Verificare quale delle seguenti affermazioni sulla Cyber Security nella Supply Chain sono vere o false:,La gestione degli accessi dei fornitori a sistemi interni è un punto critico nella protezione della supply chain.,VERO
+Modulo 1 - Unità didattica 2,Verificare quale delle seguenti affermazioni sulla Cyber Security nella Supply Chain sono vere o false:,Gli standard di sicurezza come ISO 27001 non si applicano ai rapporti con i partner della catena di fornitura,FALSO
+Modulo 1 - Unità didattica 2,Verificare quale delle seguenti affermazioni sulla Cyber Security nella Supply Chain sono vere o false:,"Il rischio di supply chain può derivare non solo da vulnerabilità informatiche, ma anche da processi organizzativi e da carenze nei controlli di sicurezza dei fornitori",VERO
+Modulo 1 - Unità didattica 2,Verificare quale delle seguenti affermazioni sulla Cyber Security nella Supply Chain sono vere o false:,"Una volta verificata la sicurezza di un fornitore al momento della stipula del contratto, non è necessario riesaminarla in futuro.",FALSO
+Modulo 1 - Unità didattica 3,A cosa serve il modello ISO/OSI?,Per far fronte ad una crescente necessità di standardizzazione nella comunicazione dei sistemi informatici,VERO
+Modulo 1 - Unità didattica 3,A cosa serve il modello ISO/OSI?,"Per risolvere il problema delle reti di computer single “brand”, ovvero in grado di comunicare solo con apparati dello stesso produttore",VERO
+Modulo 1 - Unità didattica 3,A cosa serve il modello ISO/OSI?,"Per realizzare una comunicazione multilivello, che permetta di adattarsi alle specifiche reti di telecomunicazione che si intende realizzare",VERO
+Modulo 1 - Unità didattica 3,A cosa serve il modello ISO/OSI?,Per rendere indipendenti il mezzo fisico di trasmissione dal livello logico,VERO
+Modulo 1 - Unità didattica 3,A cosa serve il modello ISO/OSI?,Per legare indissolubilmente e in maniera standardizzata il mezzo fisico al software che lo gestisce,FALSO
+Modulo 1 - Unità didattica 3,A cosa serve il modello ISO/OSI?,"Per realizzare una comunicazione multilivello, che permetta di utilizzare lo stesso tipo di protocollo di comunicazione e relativo algoritmo di elaborazione, in tutti i livelli dello stack",FALSO
+Modulo 1 - Unità didattica 3,Che differenze esistono tra architetture logiche di rete peer to peer e client server?,Nelle reti P2P la sicurezza è più difficile da garantire perché ogni nodo può essere un potenziale punto di attacco,VERO
+Modulo 1 - Unità didattica 3,Che differenze esistono tra architetture logiche di rete peer to peer e client server?,Nelle reti Client-server le prestazioni della rete dipendono principalmente dalla capacità e dalla configurazione dei soli server e non di tutti i nodi.,VERO
+Modulo 1 - Unità didattica 3,Che differenze esistono tra architetture logiche di rete peer to peer e client server?,Nelle reti P2P tutti i nodi della rete hanno lo stesso ruolo e possono agire sia come client che come server.,VERO
+Modulo 1 - Unità didattica 3,Che differenze esistono tra architetture logiche di rete peer to peer e client server?,"Nelle reti P2P i nodi della rete non hanno lo stesso ruolo, possono agire unicamente come client o come server.",FALSO
+Modulo 1 - Unità didattica 3,Che differenze esistono tra architetture logiche di rete peer to peer e client server?,Nelle reti P2P le risorse sono distribuite tra i nodi della rete e ogni nodo può condividere le proprie risorse con gli altri nodi.,VERO
+Modulo 1 - Unità didattica 3,Che differenze esistono tra architetture logiche di rete peer to peer e client server?,Nelle reti P2P le risorse sono centralizzate sui server e i client accedono alle risorse richieste attraverso i server.,FALSO
+Modulo 1 - Unità didattica 3,Cosa sono gli “Open System”?,Sono sistemi che pur avendo sistemi operativi differenti riescono ad interagire tra loro grazie a standard predefiniti,VERO
+Modulo 1 - Unità didattica 3,Cosa sono gli “Open System”?,Sono sistemi che avendo gli stessi sistemi operativi ma hardware differenti riescono ad interagire tra loro grazie a standard predefiniti,FALSO
+Modulo 1 - Unità didattica 3,Cosa sono gli “Open System”?,Sono sistemi aperti che hanno come elemento che gli accomuna il sistema operativo UNIX,FALSO
+Modulo 1 - Unità didattica 3,Cosa sono gli “Open System”?,Sono gli elementi chiave alla base della standardizzazione effettuata da ISO per la comunicazione delle reti di calcolatori,VERO
+Modulo 1 - Unità didattica 3,Cosa sono gli “Open System”?,Sono gli elementi chiave dell’operazione di standardizzazione OSI (Open System Interconnection) di ISO,VERO
+Modulo 1 - Unità didattica 3,Cosa sono gli “Open System”?,Hanno permesso allo standard ISO/OSI di diventare uno standard “de facto” grazie anche all’approccio pragmatico,VERO
+Modulo 1 - Unità didattica 3,Differenze tra architetture Logiche e Fisiche di rete,Un'architettura Logica di rete è una tipologia di architettura software che descrive il complesso delle funzionalità logiche della rete stessa.,VERO
+Modulo 1 - Unità didattica 3,Differenze tra architetture Logiche e Fisiche di rete,L'architettura Logica di rete rappresenta come le funzionalità sono strutturate e interconnesse tra loro.,VERO
+Modulo 1 - Unità didattica 3,Differenze tra architetture Logiche e Fisiche di rete,L’architettura fisica di rete è la rappresentazione della connessione dei vari nodi.,VERO
+Modulo 1 - Unità didattica 3,Differenze tra architetture Logiche e Fisiche di rete,L’architettura fisica di rete è detta Topologia di Rete,VERO
+Modulo 1 - Unità didattica 3,Differenze tra architetture Logiche e Fisiche di rete,Le architetture logiche possono avere un funzionamento di tipo Client-Server o Peer to Peer,VERO
+Modulo 1 - Unità didattica 3,Differenze tra architetture Logiche e Fisiche di rete,Le archietture logiche possono avere un funzionamento solamente di tipo Client-Server,FALSO
+Modulo 1 - Unità didattica 3,Gli obiettivi dello standard USB sono:,Comunicazione seriale standardizzata,VERO
+Modulo 1 - Unità didattica 3,Gli obiettivi dello standard USB sono:,Semplificazione della configurazione dei software dei dispositivi collegati,VERO
+Modulo 1 - Unità didattica 3,Gli obiettivi dello standard USB sono:,Sostituzione delle interfacce wi-fi,FALSO
+Modulo 1 - Unità didattica 3,Gli obiettivi dello standard USB sono:,Standardizzazione dei connettori di interfaccia,VERO
+Modulo 1 - Unità didattica 3,Gli obiettivi dello standard USB sono:,Alimentazione dei dispositivi collegati (USB Power Delivery),VERO
+Modulo 1 - Unità didattica 3,Gli obiettivi dello standard USB sono:,Connettività multi-drop,FALSO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete ethernet,"Sono Unicast, Multicast e Boardcast",FALSO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete ethernet,"Sono Unicast, Multicast e Broadcast",VERO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete ethernet,Si posizionano tutti a livello 4 dello stack ISO/OSI,FALSO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete ethernet,SI posizionano dal livello 2 al livello 4 dello stack ISO/OSI,VERO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete ethernet,"Possono realizzare una comunicazione: Uno ad Uno, Uno a Tutti o Uno ad Alcuni",VERO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete ethernet,"Possono realizzare una comunicazione: Uno ad Uno, Tutti ad Uno o Alcuni ad Uno",FALSO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete Ethernet possono essere:,"Unicast (uno ad uno), tipicamente utilizzata da TCP/IP e UDP (quindi a livello ISO/OSI 4)",VERO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete Ethernet possono essere:,"Unicast (uno ad uno), tipicamente utilizzata da TCP/IP e UDP (quindi a livello ISO/OSI 3)",FALSO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete Ethernet possono essere:,"Broadcast (uno a Tutti), realizzata a livello 3 mediante il protocollo IP con l’indirizzamento MAC",FALSO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete Ethernet possono essere:,"Broadcast (uno a Tutti), realizzata a livello 2 dal Data-Link con l’indirizzamento MAC",VERO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete Ethernet possono essere:,"Multicast (uno ad alcuni), utilizzata tipicamente mediante una specifica configurazione di TCP/IP a livello 4",FALSO
+Modulo 1 - Unità didattica 3,I modelli di comunicazione su rete Ethernet possono essere:,"Multicast (uno ad alcuni), utilizzata tipicamente mediante una specifica configurazione di UDP a livello 4",VERO
+Modulo 1 - Unità didattica 3,I protocolli seriali multipunto,Sono protocolli seriali punto-punto che possono collegare ulteriori unità attraverso una connessione multi-drop,VERO
+Modulo 1 - Unità didattica 3,I protocolli seriali multipunto,Possono utilizzare lo standard RS-422 e RS-485,VERO
+Modulo 1 - Unità didattica 3,I protocolli seriali multipunto,In una configurazione con molte unità connesse solo un paio possono effettivamente comunicare,VERO
+Modulo 1 - Unità didattica 3,I protocolli seriali multipunto,Possono utilizzare lo standard Bluetooth,FALSO
+Modulo 1 - Unità didattica 3,I protocolli seriali multipunto,Nel caso utilizzino gli standard RS-422 che di RS-485 sono sempre contemporaneamente bidirezionali (full-duplex),FALSO
+Modulo 1 - Unità didattica 3,I protocolli seriali multipunto,Nel caso utilizzino lo standard RS-422 sono contemporaneamente bidirezionali,VERO
+Modulo 1 - Unità didattica 3,I vecchi Hub e gli Switch differiscono,"Lo switch è un dispositivo ""intelligente"" ovvero dotato di CPU, l'Hub no.",VERO
+Modulo 1 - Unità didattica 3,I vecchi Hub e gli Switch differiscono,"Lo Hub duplica semplicemente i dati in ingresso su una delle porte su tutte le altre, lo switch può configurare logiche di trasferimento differenti.",VERO
+Modulo 1 - Unità didattica 3,I vecchi Hub e gli Switch differiscono,Lo switch può controllare gli errori di trasmissione del pacchetto lo hub no,VERO
+Modulo 1 - Unità didattica 3,I vecchi Hub e gli Switch differiscono,L'Hub è un dispositivo di livello ISO/OSI 2 lo switch può gestire livelli superiori,VERO
+Modulo 1 - Unità didattica 3,I vecchi Hub e gli Switch differiscono,l'Hub può avere una gestione di tipo unmanaged lo switch no,FALSO
+Modulo 1 - Unità didattica 3,I vecchi Hub e gli Switch differiscono,L'Hub può dividere i domini di collisione come lo Switch,FALSO
+Modulo 1 - Unità didattica 3,"Il Checkpoint (punto di sinctonizzazione) del Livello ""Sessione"" di ISO/OSI",Permette ai processi coinvolti nella comunicazione di inserire dei controlli nel flusso dei dati,VERO
+Modulo 1 - Unità didattica 3,"Il Checkpoint (punto di sinctonizzazione) del Livello ""Sessione"" di ISO/OSI",Permette di dividere (logicamente) il flusso in unità più piccole,VERO
+Modulo 1 - Unità didattica 3,"Il Checkpoint (punto di sinctonizzazione) del Livello ""Sessione"" di ISO/OSI","Permette ad ogni checkpoint che entrambi gli host effettuino il backup dei dati, salvino la configurazione della rete e del clock, ed annotino il punto in cui è arrivata la conversazione",VERO
+Modulo 1 - Unità didattica 3,"Il Checkpoint (punto di sinctonizzazione) del Livello ""Sessione"" di ISO/OSI","In caso di interruzione della sessione, permette di non inviare nuovamente tutto il flusso dati ma solo dall'ultimo checkpoint in poi.",VERO
+Modulo 1 - Unità didattica 3,"Il Checkpoint (punto di sinctonizzazione) del Livello ""Sessione"" di ISO/OSI",Operano a Livello 4,FALSO
+Modulo 1 - Unità didattica 3,"Il Checkpoint (punto di sinctonizzazione) del Livello ""Sessione"" di ISO/OSI",Non è gestito dal protocollo TCP/IP,FALSO
+Modulo 1 - Unità didattica 3,Il connettore a 9 pin rappresentato in figura(RS422),È un connettore di rete,FALSO
+Modulo 1 - Unità didattica 3,Il connettore a 9 pin rappresentato in figura(RS422),E’ un connettore seriale,VERO
+Modulo 1 - Unità didattica 3,Il connettore a 9 pin rappresentato in figura(RS422),Può essere utilizzato per RS422 e RS485,VERO
+Modulo 1 - Unità didattica 3,Il connettore a 9 pin rappresentato in figura(RS422),Ha una piedinatura a 10 pin,FALSO
+Modulo 1 - Unità didattica 3,Il connettore a 9 pin rappresentato in figura(RS422),E’ disponibile nei formati maschio/femmina,VERO
+Modulo 1 - Unità didattica 3,Il connettore a 9 pin rappresentato in figura(RS422),Con piedinatura RS422/485 il connettore ha il GND (ground) sul pin 5,VERO
+Modulo 1 - Unità didattica 3,Il connettore rappresentato in figura di lato(RJ45),Di solito è un connettore utilizzato per connessioni di rete,VERO
+Modulo 1 - Unità didattica 3,Il connettore rappresentato in figura di lato(RJ45),Ha la piedinatura RJ45,VERO
+Modulo 1 - Unità didattica 3,Il connettore rappresentato in figura di lato(RJ45),Ha la piedinatura RJ11,FALSO
+Modulo 1 - Unità didattica 3,Il connettore rappresentato in figura di lato(RJ45),Può essere utilizzato per connessioni punto sino a 100m,VERO
+Modulo 1 - Unità didattica 3,Il connettore rappresentato in figura di lato(RJ45),Può essere utilizzato per connessioni punto sino a 300m,FALSO
+Modulo 1 - Unità didattica 3,Il connettore rappresentato in figura di lato(RJ45),Può raggiungere velocità di 10 Gbps,VERO
+Modulo 1 - Unità didattica 3,Il Dominio di Collisione o Collision Domain nella trasmissione Ethernet:,"È un insieme di nodi, ridotto rispetto al dominio dell’intera rete locale, che concorrono per accedere allo stesso mezzo trasmissivo e quindi trasmettere",VERO
+Modulo 1 - Unità didattica 3,Il Dominio di Collisione o Collision Domain nella trasmissione Ethernet:,È una tecnica per ridurre la probabilità di collisioni al crescere del numero di stazioni e/o del traffico all’interno di una LAN,VERO
+Modulo 1 - Unità didattica 3,Il Dominio di Collisione o Collision Domain nella trasmissione Ethernet:,Una tecnica per evitare che in una rete LAN il mezzo trasmissivo sia condiviso e conteso per la trasmissione tra tutte le stazioni,VERO
+Modulo 1 - Unità didattica 3,Il Dominio di Collisione o Collision Domain nella trasmissione Ethernet:,Una tecnica per eliminare completamente le collisioni in una comunicazione all’interno di un’unica LAN,FALSO
+Modulo 1 - Unità didattica 3,Il Dominio di Collisione o Collision Domain nella trasmissione Ethernet:,Una tecnica statistica per gestire le collisioni all’interno di una LAN,VERO
+Modulo 1 - Unità didattica 3,Il Dominio di Collisione o Collision Domain nella trasmissione Ethernet:,La suddivisione della rete in più sottoreti in modo che la contesa del mezzo avvenga soltanto tra le stazioni appartenenti ad una singola sottorete,VERO
+Modulo 1 - Unità didattica 3,Il Firewall:,Basato su zone impedisce il traffico tra due zone diverse se non esiste una policy esplicita che lo consenta,VERO
+Modulo 1 - Unità didattica 3,Il Firewall:,"Valuta le regole di configurazione dall’alto verso il basso e, in assenza di una regola di match, viene applicata la policy di default.",VERO
+Modulo 1 - Unità didattica 3,Il Firewall:,NGFW (Next-Generation Firewall) può integrare funzionalità come IDS/IPS,VERO
+Modulo 1 - Unità didattica 3,Il Firewall:,Correttamente configurato elimina la necessità di aggiornare i sistemi operativi degli Host di rete,FALSO
+Modulo 1 - Unità didattica 3,Il Firewall:,Valuta sempre tutte le regole prima di decidere se consentire o bloccare un pacchetto,FALSO
+Modulo 1 - Unità didattica 3,Il Firewall:,Di livello applicativo opera esclusivamente sul livello 3 del modello OSI,FALSO
+Modulo 1 - Unità didattica 3,Il Firewall:,Monitora il traffico in entrata e in uscita attraverso regole di sicurezza configurabili per autorizzare o bloccare gli eventi,VERO
+Modulo 1 - Unità didattica 3,Il Firewall:,"È un dispositivo, esclusivamente implementato su speciali appliance hardware, per la sicurezza della rete ",FALSO
+Modulo 1 - Unità didattica 3,Il Firewall:,"Nella configurazione “Default-Deny” abilita l’accesso solo di ciò che viene autorizzato esplicitamente, mentre il resto viene vietato",VERO
+Modulo 1 - Unità didattica 3,Il Firewall:,"Nella configurazione “Default-Deny” blocca l’accesso solo di ciò che viene vietato esplicitamente, mentre il resto viene permesso",FALSO
+Modulo 1 - Unità didattica 3,Il Firewall:,Se NGFW (Next Generation Firewall) è dotato di funzioni di prevenzione delle intrusioni (IPS) e di funzionalità di prevenzione delle minacce e protezione antivirus,VERO
+Modulo 1 - Unità didattica 3,Il Firewall:,È un dispositivo che funziona solo a livello ISO/OSI 4 ,FALSO
+Modulo 1 - Unità didattica 3,Il Gateway:,"È un dispositivo hardware che funge da raccordo tra due reti, solitamente una rete remota e quella che la ospita",VERO
+Modulo 1 - Unità didattica 3,Il Gateway:,"È un convertitore di protocolli di rete, capace di unire due reti in modo che i dispositivi presenti su un dato network possano comunicare con quelli presenti in un altro",VERO
+Modulo 1 - Unità didattica 3,Il Gateway:,"Può essere realizzato da: Un router, un server, un firewall, ecc.",VERO
+Modulo 1 - Unità didattica 3,Il Gateway:,Di solito non converte mai protocolli di rete,FALSO
+Modulo 1 - Unità didattica 3,Il Gateway:,Può realizzare la funzionalità NAT (Network Address Translation),VERO
+Modulo 1 - Unità didattica 3,Il Gateway:,Differentemente dal router ha il compito di gestire un traffico simile e connettere dispositivi che condividono un’interfaccia comune,FALSO
+Modulo 1 - Unità didattica 3,Il livello 1 del Modello ISO/OSI,Converte i bit in un pacchetto in un segnale fisico per il mezzo di trasmissione,VERO
+Modulo 1 - Unità didattica 3,Il livello 1 del Modello ISO/OSI,Ha tra le funzioni l’adeguamento elettrico degli apparati trasmissivi,VERO
+Modulo 1 - Unità didattica 3,Il livello 1 del Modello ISO/OSI,Può utilizzare protocolli Bluetooth,VERO
+Modulo 1 - Unità didattica 3,Il livello 1 del Modello ISO/OSI,Può utilizzare il protocollo IP,FALSO
+Modulo 1 - Unità didattica 3,Il livello 1 del Modello ISO/OSI,È l’interfaccia tra software e hardware nello stack ISO/OSI,VERO
+Modulo 1 - Unità didattica 3,Il livello 1 del Modello ISO/OSI,Vincola i livelli superiori agli specifici mezzi fisici di comunicazione,FALSO
+Modulo 1 - Unità didattica 3,Il livello 2 del Modello ISO/OSI,Utilizza indirizzamento MAC Address,VERO
+Modulo 1 - Unità didattica 3,Il livello 2 del Modello ISO/OSI,Realizza il Data Framing (inserimento di Header e Tail al messaggio) e relativa interpretazione dei bit contenuti negli Header e Tail,VERO
+Modulo 1 - Unità didattica 3,Il livello 2 del Modello ISO/OSI,Utilizza un sottolivello superiore (LLC - Logical Link Control) per la rilevazione (o correzione) degli errori,VERO
+Modulo 1 - Unità didattica 3,Il livello 2 del Modello ISO/OSI,Utilizza indirizzi di tipo IP per l’indirizzamento in rete,FALSO
+Modulo 1 - Unità didattica 3,Il livello 2 del Modello ISO/OSI,Può utilizzare protocolli wi-fi,VERO
+Modulo 1 - Unità didattica 3,Il livello 2 del Modello ISO/OSI,Realizza la Frammentazione e il Riasseblaggio,FALSO
+Modulo 1 - Unità didattica 3,Il livello 3 del Modello ISO/OSI,"Rende i livelli superiori (4,5...) indipendenti dai mezzi fisici",VERO
+Modulo 1 - Unità didattica 3,Il livello 3 del Modello ISO/OSI,Utilizza l’indirizzamento IP,VERO
+Modulo 1 - Unità didattica 3,Il livello 3 del Modello ISO/OSI,Ha il compito di rendere il trasferimento del messaggio affidabile,FALSO
+Modulo 1 - Unità didattica 3,Il livello 3 del Modello ISO/OSI,Gestisce l’instradamento o Routing,VERO
+Modulo 1 - Unità didattica 3,Il livello 3 del Modello ISO/OSI,Realizza il “framing” dei dati,FALSO
+Modulo 1 - Unità didattica 3,Il livello 3 del Modello ISO/OSI,Gestisce la frammentazione e il riassemblaggio dei pacchetti di dimensione eccessiva per la rete,VERO
+Modulo 1 - Unità didattica 3,Il livello 4 del Modello ISO/OSI,Si occupa del Trasporto dei dati mediante specifici protocolli,VERO
+Modulo 1 - Unità didattica 3,Il livello 4 del Modello ISO/OSI,Attraverso la funzione di Multiplazione permette di stabilire diverse connessioni simultanee tra gli stessi due host,VERO
+Modulo 1 - Unità didattica 3,Il livello 4 del Modello ISO/OSI,Attraverso il servizio di Sincronizzazione inserisce Checkpoint nella flusso dei dati della comunicazione,FALSO
+Modulo 1 - Unità didattica 3,Il livello 4 del Modello ISO/OSI,"Attraverso il Servizio di Connessione si incarica di realizzare una connessione persistente per ogni connessione richiesta, che viene poi chiusa quando non è più necessaria",VERO
+Modulo 1 - Unità didattica 3,Il livello 4 del Modello ISO/OSI,Si occupa di evitare errori di over-running se gli host coinvolti nella comunicazione hanno velocità di trasmissione differenti,VERO
+Modulo 1 - Unità didattica 3,Il livello 4 del Modello ISO/OSI,Si occupa dell'indirizzamento logico dei pacchetti trasportati,FALSO
+Modulo 1 - Unità didattica 3,Il livello 5 del Modello ISO/OSI,Definisce le regole per aprire e chiudere una connessione logica,VERO
+Modulo 1 - Unità didattica 3,Il livello 5 del Modello ISO/OSI,Coordina il dialogo tra utenti basandosi sul servizio del livello di trasporto,VERO
+Modulo 1 - Unità didattica 3,Il livello 5 del Modello ISO/OSI,Permette agli utenti di stabilire dei collegamenti logici o sessioni di lavoro che consentono il corretto trasferimento di informazioni,VERO
+Modulo 1 - Unità didattica 3,Il livello 5 del Modello ISO/OSI,Utilizza il protocollo IP per la comunicazione,FALSO
+Modulo 1 - Unità didattica 3,Il livello 5 del Modello ISO/OSI,"Divide (logicamente) il flusso dati in unità più piccole in modo che, in caso di interruzione della sessione, non sia necessario inviare nuovamente tutto il flusso ma solo una parte",VERO
+Modulo 1 - Unità didattica 3,Il livello 5 del Modello ISO/OSI,Gestisce l’instradamento o Routing,FALSO
+Modulo 1 - Unità didattica 3,Il livello 6 del Modello ISO/OSI,Trasforma i dati forniti dalle applicazioni in un formato standardizzato,VERO
+Modulo 1 - Unità didattica 3,Il livello 6 del Modello ISO/OSI,Realizza Routing di livello presentazione,FALSO
+Modulo 1 - Unità didattica 3,Il livello 6 del Modello ISO/OSI,"Offre servizi di comunicazione comuni, come la crittografia, la compressione, ecc.",VERO
+Modulo 1 - Unità didattica 3,Il livello 6 del Modello ISO/OSI,Utilizza tecniche di multiplazione (multiplexing),FALSO
+Modulo 1 - Unità didattica 3,Il livello 6 del Modello ISO/OSI,Si occupa di rendere compatibili le rappresentazioni dei dati negli scambi tra computer che utilizzano codifiche diverse,VERO
+Modulo 1 - Unità didattica 3,Il livello 6 del Modello ISO/OSI,Rende la comunicazione delle applicazioni indipendente dai sistemi operativi,VERO
+Modulo 1 - Unità didattica 3,Il Livello ISO/OSI 3 (Rete),Permette di rendere i livelli superiori indipendenti dai mezzi fisici,VERO
+Modulo 1 - Unità didattica 3,Il Livello ISO/OSI 3 (Rete),Permette l’implementazione del Routing,VERO
+Modulo 1 - Unità didattica 3,Il Livello ISO/OSI 3 (Rete),"Permette l’indirizzamento logico, univoco su tutta la rete",VERO
+Modulo 1 - Unità didattica 3,Il Livello ISO/OSI 3 (Rete),"Permette l’indirizzamento fisico, univoco su tutta la rete",FALSO
+Modulo 1 - Unità didattica 3,Il Livello ISO/OSI 3 (Rete),Diversamente dal livello 4 non effettua nessuna gestione degli errori e diagnostica,FALSO
+Modulo 1 - Unità didattica 3,Il Livello ISO/OSI 3 (Rete),Permette la compressione dei dati,FALSO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Broadcast:,Identifica la comunicazione uno a tutti,VERO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Broadcast:,"Identifica la comunicazione ad ampio spettro, uno a ad alcuni",FALSO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Broadcast:,Può avvenire a livello 2 dello stack ISO (indirizzamento MAC),VERO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Broadcast:,Può avvenire a livello 3 dello stack ISO (Indirizzamento IP),VERO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Broadcast:,Può peggiorare la latenza nella rete,VERO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Broadcast:,Può migliorare la latenza di rete,FALSO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione su rete Ethernet di tipo Broadcast,Trasmette un messaggio a tutti i partecipanti di una rete e non richiede una risposta,VERO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione su rete Ethernet di tipo Broadcast,Trasmette un messaggio a tutti i partecipanti di una rete locale senza conoscere gli indirizzi individuali dei singoli host,VERO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione su rete Ethernet di tipo Broadcast,Trasmette un messaggio solamente ad alcuni partecipanti di una rete,FALSO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione su rete Ethernet di tipo Broadcast,Può trasmettere a Livello 2 e a Livello 3 dello stack ISO/OSI,VERO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione su rete Ethernet di tipo Broadcast,Può trasmettere solo a Livello 3 dello stack ISO/OSI,FALSO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione su rete Ethernet di tipo Broadcast,Non introduce maggiori collisioni e quindi una maggiore latenza nella trasmissione,FALSO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Unicast:,Identifica la comunicazione uno a tutti,FALSO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Unicast:,"Identifica la comunicazione ad ampio spettro, uno a ad alcuni",FALSO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Unicast:,Identifica la comunicazione uno ad uno,VERO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Unicast:,Avviene a Livello 4 dello stack ISO-OSI,VERO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Unicast:,E' utilizzato tipicamente dal protocollo TCP/IP,VERO
+Modulo 1 - Unità didattica 3,Il modello di comunicazione Unicast:,Migliora l'utilizzo della banda di trasmissione,FALSO
+Modulo 1 - Unità didattica 3,Il NAT (Netword Address Translation),"È una tecnica che permette di modificare, traslandoli, gli indirizzi IP dei pacchetti in transito all'interno di una comunicazione in corso tra due o più nodi della rete",VERO
+Modulo 1 - Unità didattica 3,Il NAT (Netword Address Translation),È una tecnica per può essere realizzata da Router e Firewall se implementano la funzione di Gateway,VERO
+Modulo 1 - Unità didattica 3,Il NAT (Netword Address Translation),"Per implementare il NAT, un dispositivo ha bisogno di effettuare il tracciamento delle connessioni, ovvero di tenere traccia di tutte le connessioni che lo attraversano",VERO
+Modulo 1 - Unità didattica 3,Il NAT (Netword Address Translation),Si può realizzare sia con il protocollo TCP/IP che con UDP,VERO
+Modulo 1 - Unità didattica 3,Il NAT (Netword Address Translation),Si può realizzare solo con il protocollo TCP/IP,FALSO
+Modulo 1 - Unità didattica 3,Il NAT (Netword Address Translation),Storicamente si è affermato come mezzo per ovviare alla scarsità di indirizzi IP pubblici disponibili,VERO
+Modulo 1 - Unità didattica 3,Il protocollo Ethernet a livello ISO/OSI 2 (Collegamento) si basa sui seguenti comportamenti o fasi:,Rilevazione della Trasmissione: Ogni stazione che deve trasmettere ascolta il bus e decide di trasmettere solo se questo è libero,VERO
+Modulo 1 - Unità didattica 3,Il protocollo Ethernet a livello ISO/OSI 2 (Collegamento) si basa sui seguenti comportamenti o fasi:,Rilevazione della Trasmissione: Ogni stazione che deve trasmettere invia un messaggio di prova per testare se il bus è libero,FALSO
+Modulo 1 - Unità didattica 3,Il protocollo Ethernet a livello ISO/OSI 2 (Collegamento) si basa sui seguenti comportamenti o fasi:,"Accesso Multiplo: Due stazioni, trovando il mezzo trasmissivo libero, possono decidere di trasmettere contemporaneamente",VERO
+Modulo 1 - Unità didattica 3,Il protocollo Ethernet a livello ISO/OSI 2 (Collegamento) si basa sui seguenti comportamenti o fasi:,"Accesso Multiplo: Due stazioni, trovando il mezzo trasmissivo libero, devono attendere un tempo uguale per tutti i nodi prima di trasmettere, per evitare collisioni",FALSO
+Modulo 1 - Unità didattica 3,Il protocollo Ethernet a livello ISO/OSI 2 (Collegamento) si basa sui seguenti comportamenti o fasi:,"Rilevamento della Collisione: Ogni stazione, mentre trasmette un pacchetto, ascolta i segnali sul mezzo trasmissivo per rilevare eventuali collisioni e gestirle",VERO
+Modulo 1 - Unità didattica 3,Il protocollo Ethernet a livello ISO/OSI 2 (Collegamento) si basa sui seguenti comportamenti o fasi:,Rilevamento della Collisione: Ogni stazione trasmette sempre insieme al pacchetto un codice di errore in modo che il ricevente percepisca l’eventuale collisione durante la trasmissione,FALSO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,E' un protocollo orientato alla connessione,VERO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,"Mediante TCP assicura che i dati vengano trasmessi in modo affidabile, ordinato e senza errori",VERO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,Mediante IP si occupa dell'instradamento dei pacchetti dati attraverso la rete,VERO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,Non effettua la verifica che tutti i pacchetti siano arrivati correttamente.,FALSO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,E' l'acronimo di Transmission Control Protocol/Internet Protocol,VERO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,E' l'acronimo di Transmission Control Packets/Internet Protocol,FALSO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,"Può essere utilizzato dai protocolli di livello Applicativo, come HTTP, FTP e DNS",VERO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,"E' composto da 7 livelli, esattamente come il modello teorico ISO/OSI",FALSO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,"Garantisce che i pacchetti arrivino a destinazione e nel giusto ordine, non come il protocollo UDP",VERO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,"Utilizza il processo di ""Three-way Handshake"" ovvero ""Stretta di mano a tre livelli"" per rendere affidabile la connessione",VERO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,"Se un pacchetto dati è troppo grande per la rete, attraverso il livello trasporto, può segmentarlo in pacchetti più piccoli",VERO
+Modulo 1 - Unità didattica 3,Il Protocollo TCP/IP,Utilizza IPv4 con indirizzi composti da 64 bit,FALSO
+Modulo 1 - Unità didattica 3,Il Router:,"Gestisce il traffico trasmesso su mezzi trasmissivi differenti (esempio fibra, doppino telefonico o wi-fi)",VERO
+Modulo 1 - Unità didattica 3,Il Router:,Attraverso l’instradamento (routing) connette dispositivi su reti differenti,VERO
+Modulo 1 - Unità didattica 3,Il Router:,Può funzionare solo a livello 2 dello stack ISO-OSI,FALSO
+Modulo 1 - Unità didattica 3,Il Router:,Funziona normalmente a livello 3 dello stack ISO-OSI,VERO
+Modulo 1 - Unità didattica 3,Il Router:,Gestisce il traffico attraverso l’uso degli indirizzi IP,VERO
+Modulo 1 - Unità didattica 3,Il Router:,Gestisce il traffico attraverso l’uso degli indirizzi MAC,FALSO
+Modulo 1 - Unità didattica 3,In un sistema informatico il SPOF (Single Point of Failure),È una parte del solo sistema hardware il cui malfunzionamento può portare ad anomalie o alla cessazione del servizio di tutto il sistema,FALSO
+Modulo 1 - Unità didattica 3,In un sistema informatico il SPOF (Single Point of Failure),"È una parte del sistema, hardware o software, il cui malfunzionamento può portare ad anomalie o alla cessazione del servizio di tutto il sistema",VERO
+Modulo 1 - Unità didattica 3,In un sistema informatico il SPOF (Single Point of Failure),È particolarmente critico nei sistemi che devono essere costantemente attivi,VERO
+Modulo 1 - Unità didattica 3,In un sistema informatico il SPOF (Single Point of Failure),"Può essere evitato attraverso l’uso di componenti ridondanti, considerando che anche un solo punto di vulnerabilità può compromettere un intero sistema",VERO
+Modulo 1 - Unità didattica 3,In un sistema informatico il SPOF (Single Point of Failure),Può essere evitato migliorando l’affidabilità dei singoli componenti,FALSO
+Modulo 1 - Unità didattica 3,In un sistema informatico il SPOF (Single Point of Failure),Può riguardare anche un servizio acquisito esternamente,VERO
+Modulo 1 - Unità didattica 3,In una topologia di rete ad Anello,L'informazione trasmessa può viaggiare in entrambi i versi/sensi dell'anello per raggiungere una certa destinazione,VERO
+Modulo 1 - Unità didattica 3,In una topologia di rete ad Anello,È necessario un nodo centrale per gestire la connessione tra i computer,FALSO
+Modulo 1 - Unità didattica 3,In una topologia di rete ad Anello,È possibile ottimizzare l'utilizzo della banda disponibile inviando alcuni pacchetti in un verso e altri pacchetti nel verso opposto,VERO
+Modulo 1 - Unità didattica 3,In una topologia di rete ad Anello,Le caratteristiche di scalabilità sono scarse dato che l'aggiunta o la rimozione di un nodo presuppone una variazione della velocità della rete,VERO
+Modulo 1 - Unità didattica 3,In una topologia di rete ad Anello,Sono presenti caratteristiche intrinseche di ridondanza e quindi di affidabilità e robustezza,VERO
+Modulo 1 - Unità didattica 3,In una topologia di rete ad Anello,Sono presenti un numero di rami pari al numero dei nodi meno uno,FALSO
+Modulo 1 - Unità didattica 3,L'indirizzo di Broadcast,Serve per inviare un messaggio a tutti gli host di una stessa rete,VERO
+Modulo 1 - Unità didattica 3,L'indirizzo di Broadcast,Coincide sempre con 255.255.255.255,FALSO
+Modulo 1 - Unità didattica 3,L'indirizzo di Broadcast,Si ottiene ponendo a 1 tutti i bit della parte host dell’indirizzo IP,VERO
+Modulo 1 - Unità didattica 3,L'indirizzo di Broadcast,Non può essere assegnato a un singolo host,VERO
+Modulo 1 - Unità didattica 3,L'indirizzo di Broadcast,Varia in base alla subnet mask della rete,VERO
+Modulo 1 - Unità didattica 3,L'indirizzo di Broadcast,Permette ai pacchetti con il suo indirizzamento di essere inoltrati da una subnet ad un'altra,FALSO
+Modulo 1 - Unità didattica 3,L'indirizzo IP 128.32.12.25:,E' incluso nella sottorete 128.32.12.234/24,VERO
+Modulo 1 - Unità didattica 3,L'indirizzo IP 128.32.12.25:,E' incluso nella sottorete 128.32.12.12/23,VERO
+Modulo 1 - Unità didattica 3,L'indirizzo IP 128.32.12.25:,E' incluso nella sottorete 128.32.10.12/21,VERO
+Modulo 1 - Unità didattica 3,L'indirizzo IP 128.32.12.25:,E' incluso nella sottorete 128.32.12.0/28,FALSO
+Modulo 1 - Unità didattica 3,L'indirizzo IP 128.32.12.25:,E' incluso nella sottorete 128.32.12.23/29,FALSO
+Modulo 1 - Unità didattica 3,L'indirizzo IP 128.32.12.25:,E' incluso nella sottorete 128.32.1.10/20,VERO
+Modulo 1 - Unità didattica 3,L’incapsulamento ISO/OSI,"È un principio per cui in corrispondenza di ogni livello della struttura che il pacchetto dell'Host mittente attraversa, si incorporano le informazioni che sono proprie e uniche del livello attraversato",VERO
+Modulo 1 - Unità didattica 3,L’incapsulamento ISO/OSI,"È un principio per cui in corrispondenza di ogni livello della struttura che il pacchetto dell'Host mittente e destinatario attraversa, si incorporano le informazioni che sono proprie e uniche del livello attraversato",FALSO
+Modulo 1 - Unità didattica 3,L’incapsulamento ISO/OSI,È un principio per cui in corrispondenza di ogni livello della struttura che il pacchetto dell'Host mittente attraversa si incorporano le informazioni che poi vengono eliminate man mano che si risalgono i livelli dell'Host Destinatario sino ad estrarre il messaggio originario,VERO
+Modulo 1 - Unità didattica 3,L’incapsulamento ISO/OSI,È un principio per cui ad ogni livello ISO/OSI viene effettuato un controllo di congruenza attraverso un CRC,FALSO
+Modulo 1 - Unità didattica 3,L’incapsulamento ISO/OSI,"Per funzionare necessità che ogni livello ISO/OSI offra il proprio ""servizio"" solamente al livello sottostante in maniera corretta",FALSO
+Modulo 1 - Unità didattica 3,L’incapsulamento ISO/OSI,Conferisce robustezza e sicurezza delle trasmissioni al modello ISO/OSI,VERO
+Modulo 1 - Unità didattica 3,L’Incapsulamento secondo il modello ISO/OSI,Permette a ciascun livello dello stack di comunicare con un proprio e specifico “protocollo”,VERO
+Modulo 1 - Unità didattica 3,L’Incapsulamento secondo il modello ISO/OSI,Permette di fatto il funzionamento del modello stesso,VERO
+Modulo 1 - Unità didattica 3,L’Incapsulamento secondo il modello ISO/OSI,Avviene dal Livello Applicazione (7) al livello Collegamento (2) in trasmissione,VERO
+Modulo 1 - Unità didattica 3,L’Incapsulamento secondo il modello ISO/OSI,Avviene dal Livello Applicazione (7) al livello Fisico (1) in trasmissione,FALSO
+Modulo 1 - Unità didattica 3,L’Incapsulamento secondo il modello ISO/OSI,Avviene dal Livello Collegamento (2) al livello Applicazione (7) in ricezione (Decapsulamento),VERO
+Modulo 1 - Unità didattica 3,L’Incapsulamento secondo il modello ISO/OSI,Avviene dal Livello Applicazione (7) al livello Fisico (1) in ricezione (Decapsulamento),FALSO
+Modulo 1 - Unità didattica 3,L’indirizzo di Broadcast della sottorete 243.123.23.45/29 è:,243.123.23.40,FALSO
+Modulo 1 - Unità didattica 3,L’indirizzo di Broadcast della sottorete 243.123.23.45/29 è:,243.123.23.47,VERO
+Modulo 1 - Unità didattica 3,L’indirizzo di Broadcast della sottorete 243.123.23.45/29 è:,243.123.23.45,FALSO
+Modulo 1 - Unità didattica 3,L’indirizzo di Broadcast della sottorete 243.123.23.45/29 è:,243.123.23.41,FALSO
+Modulo 1 - Unità didattica 3,L’indirizzo di Broadcast della sottorete 243.123.23.45/29 è:,243.123.23.46,FALSO
+Modulo 1 - Unità didattica 3,L’indirizzo di Broadcast della sottorete 243.123.23.45/29 è:,255255255248,FALSO
+Modulo 1 - Unità didattica 3,La comunicazione deterministica real-time:,"È una qualsiasi forma di comunicazione per cui gli utenti possono scambiarsi informazioni in maniera deterministica, istantaneamente o con una latenza trascurabile o comunque predefinita",VERO
+Modulo 1 - Unità didattica 3,La comunicazione deterministica real-time:,È una qualsiasi forma di comunicazione per cui gli utenti possono scambiarsi informazioni anche non nell’esatta sequenza che sono state generate ma con una latenza prevedibile o comunque predefinita,FALSO
+Modulo 1 - Unità didattica 3,La comunicazione deterministica real-time:,"Ha, di solito, necessità di garantire la sincronizzazione tra due o più dispostivi (es. dispositivo di comando e di attuazione)",VERO
+Modulo 1 - Unità didattica 3,La comunicazione deterministica real-time:,Deve garantire tempi di comunicazione sempre sotto il nanosecondo,FALSO
+Modulo 1 - Unità didattica 3,La comunicazione deterministica real-time:,Può permettere il controllo di macchinari senza una connessione meccanica,VERO
+Modulo 1 - Unità didattica 3,La comunicazione deterministica real-time:,Deve garantire tempi di trasmissione compatibili con i dispositivi o i processi envolvti,VERO
+Modulo 1 - Unità didattica 3,La comunicazione logica tra due Host nello stack ISO/OSI,Può avvenire tra livelli ISO/OSI differenti di mittente e destinatario,FALSO
+Modulo 1 - Unità didattica 3,La comunicazione logica tra due Host nello stack ISO/OSI,Avviene tra livelli omologhi dello stack ad eccezione del livello 1.,VERO
+Modulo 1 - Unità didattica 3,La comunicazione logica tra due Host nello stack ISO/OSI,Utilizza sempre fisicamente il livello 1,VERO
+Modulo 1 - Unità didattica 3,La comunicazione logica tra due Host nello stack ISO/OSI,Percorre i livelli dello stack in discesa e salita rispettivamente dal mittente al destinatario,VERO
+Modulo 1 - Unità didattica 3,La comunicazione logica tra due Host nello stack ISO/OSI,Si realizza mediante l'interazione di ciascun livello solamente con i livelli superiori dello stack,FALSO
+Modulo 1 - Unità didattica 3,La comunicazione logica tra due Host nello stack ISO/OSI,Semplifica la comunicazione tra due Host,VERO
+Modulo 1 - Unità didattica 3,La comunicazione tra gli omologhi livelli dello stack ISO/OSI,È Sempre una comunicazione logica,FALSO
+Modulo 1 - Unità didattica 3,La comunicazione tra gli omologhi livelli dello stack ISO/OSI,È sempre una comunicazione fisica,FALSO
+Modulo 1 - Unità didattica 3,La comunicazione tra gli omologhi livelli dello stack ISO/OSI,È una comunicazione logica per i livelli dal 2 al 7 e fisica per il livello 1,VERO
+Modulo 1 - Unità didattica 3,La comunicazione tra gli omologhi livelli dello stack ISO/OSI,È una comunicazione logica per i livelli dal 1 al 6 e fisica per il livello 7,FALSO
+Modulo 1 - Unità didattica 3,La comunicazione tra gli omologhi livelli dello stack ISO/OSI,È una comunicazione logica per i livelli dal 1 al 3 e fisica per i livelli dal 4 al 7,FALSO
+Modulo 1 - Unità didattica 3,La comunicazione tra gli omologhi livelli dello stack ISO/OSI,È sempre tra un Host mittente e un Host destinatario,VERO
+Modulo 1 - Unità didattica 3,La convergenza funzionale nei dispositivi di rete,È la tendenza ad aumentare le funzionalità dei dispostivi di rete «inglobando» funzionalità di altre tipologie di dispositivi,VERO
+Modulo 1 - Unità didattica 3,La convergenza funzionale nei dispositivi di rete,È un fenomeno causato dalla forte concorrenza sul mercato dei dispositivi di rete e dall’aumento delle prestazioni delle piattaforme di elaborazione,VERO
+Modulo 1 - Unità didattica 3,La convergenza funzionale nei dispositivi di rete,È un fenomeno che non ha impatto sulla standardizzazione degli specifici brand commerciali,FALSO
+Modulo 1 - Unità didattica 3,La convergenza funzionale nei dispositivi di rete,È un fenomeno che ha portato all’obsolescenza di alcuni dispositivi,VERO
+Modulo 1 - Unità didattica 3,La convergenza funzionale nei dispositivi di rete,È un fenomeno che ha portato alcuni switch a gestire parzialmente o totalmente funzioni di routing (livello 3 ISO/OSI),VERO
+Modulo 1 - Unità didattica 3,La convergenza funzionale nei dispositivi di rete,Ha causato l’obsolescenza dei router,FALSO
+Modulo 1 - Unità didattica 3,La Maschera di sottorete in una rete TCP/IP,È un parametro di configurazione che definisce l’intervallo di indirizzi di una sottorete IP a cui appartiene un host,VERO
+Modulo 1 - Unità didattica 3,La Maschera di sottorete in una rete TCP/IP,È utilizzata per ridurre il traffico di rete e facilitare la ricerca e il raggiungimento di un determinato host,VERO
+Modulo 1 - Unità didattica 3,La Maschera di sottorete in una rete TCP/IP,Permette con un solo indirizzo IP «pubblico» e la maschera stessa di identificare e indirizzare una famiglia di indirizzi «privati» (quindi invisibili dalla rete pubblica),VERO
+Modulo 1 - Unità didattica 3,La Maschera di sottorete in una rete TCP/IP,Permette di mantenere la capacità di indirizzamento aumentando il numero di indirizzi “pubblici”,FALSO
+Modulo 1 - Unità didattica 3,La Maschera di sottorete in una rete TCP/IP,È un numero che denota quale parte di un indirizzo IP identifica la sottorete e quale l'host,VERO
+Modulo 1 - Unità didattica 3,La Maschera di sottorete in una rete TCP/IP,Di fatto non è più utilizzata dopo l’arrivo dell’IPV6 e la conseguente obsolescenza dell’IPV4,FALSO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione Half-Duplex:,È un tipo di modalità di comunicazione che supporta la comunicazione a due vie ma con ritardo,VERO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione Half-Duplex:,È un tipo di modalità di comunicazione in cui i dati possono viaggiare solo in una direzione alla volta,VERO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione Half-Duplex:,Ha come esempio della modalità di funzionamento la comunicazione tramite Walkie-Talkie,VERO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione Half-Duplex:,Prevede due cavi uno per la trasmissione e uno per la ricezione,FALSO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione Half-Duplex:,Prevede un solo cavo per la trasmissione e ricezione,VERO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione Half-Duplex:,È più efficiente della modalità Full-Duplex,FALSO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione su canali in fibra ottica (WDM = Wavelength Division Multiplexing) è:,Una trasmissione bidirezionale simultanea su cavo singolo,VERO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione su canali in fibra ottica (WDM = Wavelength Division Multiplexing) è:,Una trasmissione bidirezionale non simultanea su cavo singolo,FALSO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione su canali in fibra ottica (WDM = Wavelength Division Multiplexing) è:,Una modalità di trasmissione con fasci a lunghezza d’onda differente,VERO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione su canali in fibra ottica (WDM = Wavelength Division Multiplexing) è:,Una modalità di trasmissione con fasci di colori diversi ma con la stessa frequenza,FALSO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione su canali in fibra ottica (WDM = Wavelength Division Multiplexing) è:,Una tecnica di trasmissione con multiplexing a divisione di ampiezza,FALSO
+Modulo 1 - Unità didattica 3,La modalità di trasmissione su canali in fibra ottica (WDM = Wavelength Division Multiplexing) è:,Una tecnica di trasmissione con multiplexing a divisione di lunghezza d’onda,VERO
+Modulo 1 - Unità didattica 3,La notazione /N della maschera di sottorete nell’Classless Inter-Domain,Indica il numero di bit a «1» della Maschera,VERO
+Modulo 1 - Unità didattica 3,La notazione /N della maschera di sottorete nell’Classless Inter-Domain,Indica il numero di bit a «0» della maschera,FALSO
+Modulo 1 - Unità didattica 3,La notazione /N della maschera di sottorete nell’Classless Inter-Domain,Indica il numero di indirizzi disponibili nella sottorete,FALSO
+Modulo 1 - Unità didattica 3,La notazione /N della maschera di sottorete nell’Classless Inter-Domain,Permette di indentificare il numero degli indirizzi disponibili della sottorete,VERO
+Modulo 1 - Unità didattica 3,La notazione /N della maschera di sottorete nell’Classless Inter-Domain,Può variare da /0 a /32,VERO
+Modulo 1 - Unità didattica 3,La notazione /N della maschera di sottorete nell’Classless Inter-Domain,"Indica il numero che, esponente della potenza di due, permette di calcolare il numero di indirizzi disponibili",FALSO
+Modulo 1 - Unità didattica 3,La subnet 128.22.15.134/17:,Ha 32.766 host disponibili,VERO
+Modulo 1 - Unità didattica 3,La subnet 128.22.15.134/17:,Ha come indirizzo di rete 128.22.0.0,VERO
+Modulo 1 - Unità didattica 3,La subnet 128.22.15.134/17:,Ha come indirizzo di rete 128.22.15.0,FALSO
+Modulo 1 - Unità didattica 3,La subnet 128.22.15.134/17:,Ha come indirizzo di Broadcast 128.22.127.255,VERO
+Modulo 1 - Unità didattica 3,La subnet 128.22.15.134/17:,Ha come indirizzo di Broadcast 128.22.126.255,FALSO
+Modulo 1 - Unità didattica 3,La subnet 128.22.15.134/17:,Ha come indirizzo del primo Host disponibile 128.22.0.1,VERO
+Modulo 1 - Unità didattica 3,La subnet 132.234.110.173/12:,Ha 4.096 indirizzamenti disponibili,FALSO
+Modulo 1 - Unità didattica 3,La subnet 132.234.110.173/12:,Ha come indirizzo di broadcast 132.239.255.255,VERO
+Modulo 1 - Unità didattica 3,La subnet 132.234.110.173/12:,Ha come indirizzo di rete 132.224.0.0,VERO
+Modulo 1 - Unità didattica 3,La subnet 132.234.110.173/12:,Ha come netmask 255.240.0.0,VERO
+Modulo 1 - Unità didattica 3,La subnet 132.234.110.173/12:,Il primo indirizzo Host disponibile è 132.224.0.1,VERO
+Modulo 1 - Unità didattica 3,La subnet 132.234.110.173/12:,L'ultimo indirizzo disponibile è 132.234.255.254,FALSO
+Modulo 1 - Unità didattica 3,La subnet 160.12.32.128/19:,Ha come indirizzo di rete 160.12.32.0,VERO
+Modulo 1 - Unità didattica 3,La subnet 160.12.32.128/19:,Ha come indirizzo di broadcast 160.12.63.255,VERO
+Modulo 1 - Unità didattica 3,La subnet 160.12.32.128/19:,Ha come indirizzo di broadcast 160.12.63.64,FALSO
+Modulo 1 - Unità didattica 3,La subnet 160.12.32.128/19:,Ha come maschera di sottorete 255.255.224.0,VERO
+Modulo 1 - Unità didattica 3,La subnet 160.12.32.128/19:,Ha come maschera di sottorete 255.255.32.0,FALSO
+Modulo 1 - Unità didattica 3,La subnet 160.12.32.128/19:,Ha uno spazio di indirizzamento che arriva sino a (HostMax) 160.12.63.254,VERO
+Modulo 1 - Unità didattica 3,La subnet di rete,Ha un indirizzo di rete e un indirizzo di broadcast dedicati,VERO
+Modulo 1 - Unità didattica 3,La subnet di rete,Ha una subnet mask che serve a distinguere la parte di indirizzo usata per identificare la rete da quella per gli host,VERO
+Modulo 1 - Unità didattica 3,La subnet di rete,/24 ha sempre 256 host disponibili,FALSO
+Modulo 1 - Unità didattica 3,La subnet di rete,Permette di ridurre il traffico di rete segmentando i domini di broadcast,VERO
+Modulo 1 - Unità didattica 3,La subnet di rete,Può avere un host che appartiene a più subnet contemporaneamente senza configurazioni particolari,FALSO
+Modulo 1 - Unità didattica 3,La subnet di rete,E' fondamentale per un’assegnazione più efficiente degli indirizzi IP,VERO
+Modulo 1 - Unità didattica 3,La Tipologia di Rete,"MAN (Metropolitan Area Network) è una rete di telecomunicazione a banda larga, che collega più LAN geograficamente vicine",VERO
+Modulo 1 - Unità didattica 3,La Tipologia di Rete,"WAN (Wide Area Network) si può estendere ad un territorio nazionale, sovranazionale sino ad coprire interi continenti.",VERO
+Modulo 1 - Unità didattica 3,La Tipologia di Rete,PAN (Private Area Network) è una rete LAN di tipo privato,FALSO
+Modulo 1 - Unità didattica 3,La Tipologia di Rete,LAN (Local Area Network) si estende raramente più in là di un complesso edilizio,VERO
+Modulo 1 - Unità didattica 3,La Tipologia di Rete,LAN (Local Area Network) solitamente collega assieme più computer in aziende pubbliche,FALSO
+Modulo 1 - Unità didattica 3,La Tipologia di Rete,WAN (Wide Area Network) può essere assimilata alla rete Internet,VERO
+Modulo 1 - Unità didattica 3,Le regole configurabili nel firewall,Hanno tra le impostazioni di base l'indirizzo IP sorgente,VERO
+Modulo 1 - Unità didattica 3,Le regole configurabili nel firewall,Hanno tra le impostazioni di base l'indirizzo IP di destinazione,VERO
+Modulo 1 - Unità didattica 3,Le regole configurabili nel firewall,Hanno tra le impostazioni di base la porta attraverso la quale viene erogato il servizio,VERO
+Modulo 1 - Unità didattica 3,Le regole configurabili nel firewall,"Non possono abilitare o disabilitare solo uno specifico protocollo (Es. UPD, TCP, ecc.)",FALSO
+Modulo 1 - Unità didattica 3,Le regole configurabili nel firewall,Possono utilizzare un criterio di applicazione di tipo “Default-reject”,FALSO
+Modulo 1 - Unità didattica 3,Le regole configurabili nel firewall,Possono utilizzare un criterio di applicazione di tipo “Default-allow”,VERO
+Modulo 1 - Unità didattica 3,Lo standard elettrico RJ45,Prevede un cablaggio con 8 fili,VERO
+Modulo 1 - Unità didattica 3,Lo standard elettrico RJ45,Prevede un cablaggio con 10 fili,FALSO
+Modulo 1 - Unità didattica 3,Lo standard elettrico RJ45,Prevede varie categorie da 100 Mbps sino a 10 Gbps,VERO
+Modulo 1 - Unità didattica 3,Lo standard elettrico RJ45,Prevede varie categorie da 100 Mbps sino a 1000 Gbps,FALSO
+Modulo 1 - Unità didattica 3,Lo standard elettrico RJ45,Permette la connessione di un numero massimo di 4 dispositivi,FALSO
+Modulo 1 - Unità didattica 3,Lo standard elettrico RJ45,Può gestire comunicazioni multipunto per distanze superiori ai 100m,FALSO
+Modulo 1 - Unità didattica 3,Lo Standard RS232,Può raggiungere una velocità di trasmissione di circa 112 Kb/sec,VERO
+Modulo 1 - Unità didattica 3,Lo Standard RS232,Può trasmettere sino ad una distanza massima di circa 200m,FALSO
+Modulo 1 - Unità didattica 3,Lo Standard RS232,Può trasmettere sino ad una distanza massima di circa 15m,VERO
+Modulo 1 - Unità didattica 3,Lo Standard RS232,Può supportare sino a 2 dispositivi collegati,VERO
+Modulo 1 - Unità didattica 3,Lo Standard RS232,Può supportare sino a 10 dispositivi collegati con ricevitori ad alta impedenza,FALSO
+Modulo 1 - Unità didattica 3,Lo Standard RS232,Ha a un cavo con tre fili,VERO
+Modulo 1 - Unità didattica 3,Lo Standard RS485,Può raggiungere una velocità di trasmissione di 1Mb/sec,VERO
+Modulo 1 - Unità didattica 3,Lo Standard RS485,Può trasmettere sino ad una distanza massima di 1.200m con specifiche velocità di trasmissione,VERO
+Modulo 1 - Unità didattica 3,Lo Standard RS485,Può trasmettere sino ad una distanza massima di 5.000m con specifiche velocità di trasmissione,FALSO
+Modulo 1 - Unità didattica 3,Lo Standard RS485,Può supportare sino a 256 dispositivi collegati con ricevitori ad alta impedenza,VERO
+Modulo 1 - Unità didattica 3,Lo Standard RS485,Può supportare sino a 1.000 dispositivi collegati con ricevitori ad alta impedenza,FALSO
+Modulo 1 - Unità didattica 3,Lo Standard RS485,Ha sempre un cavo con tre fili,FALSO
+Modulo 1 - Unità didattica 3,Lo standard USB,Permette il collegamento a caldo (hot plugging) senza riavviare il computer,VERO
+Modulo 1 - Unità didattica 3,Lo standard USB,E' stato progettato per resistere ad un numero elevatissimo di inserimenti e rimozioni del connettore,VERO
+Modulo 1 - Unità didattica 3,Lo standard USB,Può raggiungere una velocità di trasferimento massima teorica di oltre 20 Gbps,VERO
+Modulo 1 - Unità didattica 3,Lo standard USB,"Con il connettore USB-C non è reversibile, cioè non può essere inserito in entrambi i versi",FALSO
+Modulo 1 - Unità didattica 3,Lo standard USB,Prevede una distanza massima per un cavo standard di 20 metri,FALSO
+Modulo 1 - Unità didattica 3,Lo standard USB,Prevede che tutti i connettori servano solo per il trasferimento dati.,FALSO
+Modulo 1 - Unità didattica 3,Lo Switch di rete:,"È un dispositivo elettronico intelligente, dotato di porte di interfaccia di varie tipologie",VERO
+Modulo 1 - Unità didattica 3,Lo Switch di rete:,"Può essere un dispositivo elettrico non dotato di CPU e, se “Unmanaged”, configurabile",FALSO
+Modulo 1 - Unità didattica 3,Lo Switch di rete:,Può segmentare il dominio di broadcast attraverso le VPN,FALSO
+Modulo 1 - Unità didattica 3,Lo Switch di rete:,Può avere una gestione “Unmanaged” o “Managed”,VERO
+Modulo 1 - Unità didattica 3,Lo Switch di rete:,Può avere un instradamento di tipo “store-and-forward”,VERO
+Modulo 1 - Unità didattica 3,Lo Switch di rete:,Se “Unmanaged” non permette la configurazione delle VLAN,VERO
+Modulo 1 - Unità didattica 3,Nella comunicazione con il protocollo Ethernet in caso di avvenuta collisione:,La stazione trasmittente sospende la trasmissione e trasmette una sequenza di jamming,VERO
+Modulo 1 - Unità didattica 3,Nella comunicazione con il protocollo Ethernet in caso di avvenuta collisione:,La stazione trasmittente sospende la trasmissione e trasmette una sequenza composta dalla parte di pacchetto già trasmessa e un codice identificativo in coda al pacchetto,VERO
+Modulo 1 - Unità didattica 3,Nella comunicazione con il protocollo Ethernet in caso di avvenuta collisione:,La stazione trasmittente sospende la trasmissione e trasmette e un codice identificativo in testa e la parte di pacchetto già trasmessa in coda al pacchetto,FALSO
+Modulo 1 - Unità didattica 3,Nella comunicazione con il protocollo Ethernet in caso di avvenuta collisione:,"La stazione di trasmissione, dopo l’invio della sequenza di jamming, ripete il tentativo di trasmissione dopo un tempo pseudocasuale",VERO
+Modulo 1 - Unità didattica 3,Nella comunicazione con il protocollo Ethernet in caso di avvenuta collisione:,"La stazione di trasmissione, dopo l’invio della sequenza di jamming, ripete il tentativo di trasmissione con una frequenza fissa",FALSO
+Modulo 1 - Unità didattica 3,Nella comunicazione con il protocollo Ethernet in caso di avvenuta collisione:,La stazione trasmittente interrompe le trasmissioni e attende sino a che tutte le trasmissioni sul bus siano ultimate,FALSO
+Modulo 1 - Unità didattica 3,Quali dei seguenti standard seriali elettrici sono multipunto (o multi-drop):,RS232,FALSO
+Modulo 1 - Unità didattica 3,Quali dei seguenti standard seriali elettrici sono multipunto (o multi-drop):,RS422,VERO
+Modulo 1 - Unità didattica 3,Quali dei seguenti standard seriali elettrici sono multipunto (o multi-drop):,RS485,VERO
+Modulo 1 - Unità didattica 3,Quali dei seguenti standard seriali elettrici sono multipunto (o multi-drop):,USB,FALSO
+Modulo 1 - Unità didattica 3,Quali dei seguenti standard seriali elettrici sono multipunto (o multi-drop):,RJ45,FALSO
+Modulo 1 - Unità didattica 3,Quali dei seguenti standard seriali elettrici sono multipunto (o multi-drop):,Bluetooth,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Collegamento (2),Identificare i nodi connessi,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Collegamento (2),Controllare gli errori,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Collegamento (2),Correggere gli errori mediante ritrasmissione,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Collegamento (2),Indirizzamento Logico,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Collegamento (2),Incapsulamento del Pacchetto,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Collegamento (2),Gestione delle Connessioni,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Rete (3),Correggere gli errori mediante ritrasmissione,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Rete (3),Incapsulamento del Pacchetto,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Rete (3),Gestione Errore e Diagnostica,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Rete (3),Frammentazione e Riassemblaggio,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Rete (3),Gestione delle Connessioni,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Rete (3),Servizio orientato alla connessione,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Trasporto (4),Servizio orientato alla connessione,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Trasporto (4),Corretto ordine di consegna,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Trasporto (4),Trasferimento affidabile,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Trasporto (4),Controllo di flusso,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Trasporto (4),Controllo di congestione,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI di Trasporto (4),Definizione della sessione,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Presentazione (6),Crittografia,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Presentazione (6),Controllare il flusso,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Presentazione (6),Formattazione,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Presentazione (6),Accesso condiviso al canale MAC (Medium Access Control),FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Presentazione (6),Data Framing,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Presentazione (6),Compressione dei dati,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Sessione (5),Servizio orientato alla connessione,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Sessione (5),Corretto ordine di consegna,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Sessione (5),Trasferimento affidabile,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Sessione (5),Definizione della sessione,VERO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Sessione (5),Frammentazione e Riassemblaggio,FALSO
+Modulo 1 - Unità didattica 3,Quali delle seguenti funzioni appartengono al livello ISO/OSI Sessione (5),Sincronizzazione,VERO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati agli Host,Livello 2 – Collegamento,FALSO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati agli Host,Livello 3 – Rete,FALSO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati agli Host,Livello 4 – Trasporto,VERO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati agli Host,Livello 5 – Sessione,VERO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati agli Host,Livello 6 – Presentazione,VERO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati agli Host,Livello 7 – Applicazione,VERO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati ai mezzi di trasmissione,Livello 1 – Fisico,VERO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati ai mezzi di trasmissione,Livello 2 – Collegamento,VERO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati ai mezzi di trasmissione,Livello 3 – Rete,VERO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati ai mezzi di trasmissione,Livello 4 – Trasporto,FALSO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati ai mezzi di trasmissione,Livello 5 – Sessione,FALSO
+Modulo 1 - Unità didattica 3,Quali di questi livelli ISO/OSI sono livelli logici legati ai mezzi di trasmissione,Livello 6 – Presentazione,FALSO
+Modulo 1 - Unità didattica 3,Quali funzioni prevede il livello ISO/OSI Applicazione (7),Scambio di e-mail,VERO
+Modulo 1 - Unità didattica 3,Quali funzioni prevede il livello ISO/OSI Applicazione (7),Compressione dei dati,FALSO
+Modulo 1 - Unità didattica 3,Quali funzioni prevede il livello ISO/OSI Applicazione (7),Accesso ai database,VERO
+Modulo 1 - Unità didattica 3,Quali funzioni prevede il livello ISO/OSI Applicazione (7),Accesso ai siti Web,VERO
+Modulo 1 - Unità didattica 3,Quali funzioni prevede il livello ISO/OSI Applicazione (7),Gestione remota di applicazioni distribuite,VERO
+Modulo 1 - Unità didattica 3,Quali funzioni prevede il livello ISO/OSI Applicazione (7),Formattazione,FALSO
+Modulo 1 - Unità didattica 3,Quali sono le ragioni che hanno portato alla creazione del protocollo TCP/IP,Realizzare una trasmissione stabile tra due host,VERO
+Modulo 1 - Unità didattica 3,Quali sono le ragioni che hanno portato alla creazione del protocollo TCP/IP,Realizzare una trasmissione veloce tra due host,FALSO
+Modulo 1 - Unità didattica 3,Quali sono le ragioni che hanno portato alla creazione del protocollo TCP/IP,Realizzare una trasmissione monodirezionale affidabile,FALSO
+Modulo 1 - Unità didattica 3,Quali sono le ragioni che hanno portato alla creazione del protocollo TCP/IP,"Stabilire una connessione tra un'origine e una destinazione, assicurandosi che rimanga attiva fino alla fine della comunicazione",VERO
+Modulo 1 - Unità didattica 3,Quali sono le ragioni che hanno portato alla creazione del protocollo TCP/IP,"Realizzare uno standard per il Packet Switching ovvero la suddivisione di un messaggio in pacchetti piccoli trasmessi indipendentemente, funzionamento alla base di internet",VERO
+Modulo 1 - Unità didattica 3,Quali sono le ragioni che hanno portato alla creazione del protocollo TCP/IP,"Realizzare un protocollo affidabile, deterministico e realtime",FALSO
+Modulo 1 - Unità didattica 3,Quanti sono i rami di una topologia di rete a Maglia Completa?,(N-1)/2,FALSO
+Modulo 1 - Unità didattica 3,Quanti sono i rami di una topologia di rete a Maglia Completa?,N*(N-1)/2,VERO
+Modulo 1 - Unità didattica 3,Quanti sono i rami di una topologia di rete a Maglia Completa?,(N-1)2,FALSO
+Modulo 1 - Unità didattica 3,Quanti sono i rami di una topologia di rete a Maglia Completa?,N-1,FALSO
+Modulo 1 - Unità didattica 3,Quanti sono i rami di una topologia di rete a Maglia Completa?,N/2*(N-1),VERO
+Modulo 1 - Unità didattica 3,Quanti sono i rami di una topologia di rete a Maglia Completa?,(N-1)!,FALSO
+Modulo 1 - Unità didattica 3,TCP e UDP sono protocolli,Di livello due,FALSO
+Modulo 1 - Unità didattica 3,TCP e UDP sono protocolli,Di livello tre,FALSO
+Modulo 1 - Unità didattica 3,TCP e UDP sono protocolli,Di livello quattro,VERO
+Modulo 1 - Unità didattica 3,TCP e UDP sono protocolli,Di livello quattro che utilizzano il protocollo IP di livello 3,VERO
+Modulo 1 - Unità didattica 3,TCP e UDP sono protocolli,Di livello cinque,FALSO
+Modulo 1 - Unità didattica 3,TCP e UDP sono protocolli,Di livello sei,FALSO
+Modulo 1 - Unità didattica 3,Un cavo in fibra ottica monomodale,Prevede una sola modalità di propagazione: un'unica lunghezza d'onda della luce nel nucleo della fibra,VERO
+Modulo 1 - Unità didattica 3,Un cavo in fibra ottica monomodale,Prevede una solo modalità di propagazione: una lunghezza d’onda modulata nel tempo,FALSO
+Modulo 1 - Unità didattica 3,Un cavo in fibra ottica monomodale,E' ideale per collegamenti di rete a lungo raggio con larghezza di banda elevata,VERO
+Modulo 1 - Unità didattica 3,Un cavo in fibra ottica monomodale,Ha un nucleo di vetro molto più grande del cavo multimodale per garantire minore interferenza,FALSO
+Modulo 1 - Unità didattica 3,Un cavo in fibra ottica monomodale,Ha un nucleo di vetro da 8-10 micronm (nella tipologia OS1 e OS2),VERO
+Modulo 1 - Unità didattica 3,Un cavo in fibra ottica monomodale,In nessun caso può essere usato per collegamenti locali,FALSO
+Modulo 1 - Unità didattica 3,Un Protocollo di Comunicazione,"È un insieme di regole definite mediante specifiche sequenze di istruzioni, di varia tipologia e finalità in base alle entità interessate e al mezzo di comunicazione",VERO
+Modulo 1 - Unità didattica 3,Un Protocollo di Comunicazione,Permette la comunicazione tra due o più entità connesse su una architettura di rete o di comunicazione,VERO
+Modulo 1 - Unità didattica 3,Un Protocollo di Comunicazione,È un insieme di regole definite mediante specifiche sequenze di istruzioni che possono essere implementate diversamente sulle varie entità interessate alla comunicazione,FALSO
+Modulo 1 - Unità didattica 3,Un Protocollo di Comunicazione,"Può essere uno standard con cui sono definiti la sintassi, la semantica e la sincronizzazione della comunicazione",VERO
+Modulo 1 - Unità didattica 3,Un Protocollo di Comunicazione,Può essere implementato da hardware o software o in una combinazione di entrambi,VERO
+Modulo 1 - Unità didattica 3,Un Protocollo di Comunicazione,Non può gestire una comunicazione seriale punto-punto,FALSO
+Modulo 1 - Unità didattica 3,Un Socket TCP,E' un protocollo di rete,FALSO
+Modulo 1 - Unità didattica 3,Un Socket TCP,E' una connessione fisica tra due dispositivi,FALSO
+Modulo 1 - Unità didattica 3,Un Socket TCP,E' identificato univocamente da un indirizzo IP e una porta.,VERO
+Modulo 1 - Unità didattica 3,Un Socket TCP,Può essere utilizzato per comunicazioni multicast,VERO
+Modulo 1 - Unità didattica 3,Un Socket TCP,E' un oggetto statico che non può essere chiuso o riaperto,FALSO
+Modulo 1 - Unità didattica 3,Un Socket TCP,Può essere utilizzato per connettere contemporaneamente tre host diversi,FALSO
+Modulo 1 - Unità didattica 3,Una DMZ (Demilitarised Zone),È una sottorete fisica o logica che contiene ed espone i servizi rivolti all'esterno di un'organizzazione a una rete non attendibile,VERO
+Modulo 1 - Unità didattica 3,Una DMZ (Demilitarised Zone),È una sottorete fisica che contiene ed espone i servizi rivolti all'esterno di un'organizzazione a una rete non attendibile,FALSO
+Modulo 1 - Unità didattica 3,Una DMZ (Demilitarised Zone),Può essere realizzato attraverso l'uso di uno o due firewall,VERO
+Modulo 1 - Unità didattica 3,Una DMZ (Demilitarised Zone),Può essere realizzato solamente attraverso l'uso di due firewall,FALSO
+Modulo 1 - Unità didattica 3,Una DMZ (Demilitarised Zone),Si usa solamente nel caso di esposizione di servizi verso internet,FALSO
+Modulo 1 - Unità didattica 3,Una DMZ (Demilitarised Zone),È una archietuttura prevista dallo standard IEC 62443,VERO
+Modulo 1 - Unità didattica 3,Una rete peer to peer,"Ha nodi che, diversamente dalla rete client-server, possono richiedere e fornire servizi",VERO
+Modulo 1 - Unità didattica 3,Una rete peer to peer,"Ha nodi che, analogamente alla rete client-server, condividono lo stesso network",VERO
+Modulo 1 - Unità didattica 3,Una rete peer to peer,"Ha nodi che, diversamente dalla rete client-server, sono specializzati per richiedere o fornire servizi",FALSO
+Modulo 1 - Unità didattica 3,Una rete peer to peer,Può essere considerata come una rete logica da “pari” a “pari”,VERO
+Modulo 1 - Unità didattica 3,Una rete peer to peer,È un’architettura “fisica”,FALSO
+Modulo 1 - Unità didattica 3,Una rete peer to peer,È un’architettura “logica”,VERO
+Modulo 1 - Unità didattica 3,Una Socket TCP è:,Un’astrazione software standardizzata progettata per essere utilizzabile nei programmi applicativi che permette la trasmissione e la ricezione di dati attraverso una rete,VERO
+Modulo 1 - Unità didattica 3,Una Socket TCP è:,È il mezzo attraverso il quale un pacchetto di destinazione viene dotato di tutte le informazioni necessarie per partire alla volta dell'host destinatario,VERO
+Modulo 1 - Unità didattica 3,Una Socket TCP è:,La principale responsabile nello stabilire la connessione tra due host e mantenere la sessione per poi rigenerare la connessione all'invio di ulteriori pacchetti,VERO
+Modulo 1 - Unità didattica 3,Una Socket TCP è:,Indirettamente responsabile dello hand shake a tre livelli del TCP/IP,FALSO
+Modulo 1 - Unità didattica 3,Una Socket TCP è:,Direttamente responsabile dello hand shake a tre livelli del TCP/IP,VERO
+Modulo 1 - Unità didattica 3,Una Socket TCP è:,Configurata diversamente sul client e sul server,VERO
+Modulo 1 - Unità didattica 3,Una trasmissione deterministica,Viene semplicemente realizzata rispettando la sequenza temporale degli eventi,VERO
+Modulo 1 - Unità didattica 3,Una trasmissione deterministica,Viene semplicemente realizzata trasmettendo i messaggi con una bassa latenza,FALSO
+Modulo 1 - Unità didattica 3,Una trasmissione deterministica,Viene semplicemente realizzata rispettando il principio di causalità (il nesso causa-effetto),VERO
+Modulo 1 - Unità didattica 3,Una trasmissione deterministica,"Se non lo è, la trasmissione è casuale (o semi-casuale)",VERO
+Modulo 1 - Unità didattica 3,Una trasmissione deterministica,Concettualmente coincide con la trasmissione real-time,FALSO
+Modulo 1 - Unità didattica 3,Una trasmissione deterministica,"Si associa al concetto di real-time, in modo che la trasmissione avvenga secondo una sequenza predeterminata ed entro limiti temporali ben precisi",VERO
+Modulo 1 - Unità didattica 3,Una trasmissione non-deterministica,Può avvenire quando due nodi possono iniziare a trasmettere contemporaneamente causando una collisione,VERO
+Modulo 1 - Unità didattica 3,Una trasmissione non-deterministica,Garantisce sempre un tempo massimo di attesa fisso per ogni nodo,FALSO
+Modulo 1 - Unità didattica 3,Una trasmissione non-deterministica,Elimina completamente il rischio di collisione,FALSO
+Modulo 1 - Unità didattica 3,Una trasmissione non-deterministica,Non permette di stabilire un limite superiore certo al tempo di accesso al mezzo,VERO
+Modulo 1 - Unità didattica 3,Una trasmissione non-deterministica,"Diminuisce l’efficienza del canale con l’aumentare del numero di nodi attivi, a causa della maggiore probabilità di collisione",VERO
+Modulo 1 - Unità didattica 3,Una trasmissione non-deterministica,Prevede che l’ordine di consegna dei pacchetti sia sempre garantito dal livello MAC.,FALSO
