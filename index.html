@@ -203,9 +203,8 @@
     </div>
 
 </div>
-
-<script>
-    console.log("%c Simulatore Quiz - v1.1 - Ideato da Ivan D.", "color: #007bff; font-size: 16px; font-weight: bold; background: #e3f2fd; padding: 5px; border-radius: 5px;");
+    <script>
+    console.log("%c Simulatore Quiz - v1.1 (Optimized) - Ideato da Ivan D.", "color: #007bff; font-size: 16px; font-weight: bold; background: #e3f2fd; padding: 5px; border-radius: 5px;");
 
     // Impedisce lo scorrimento elastico fuori dai blocchi consentiti
     document.body.addEventListener('touchmove', function(e) {
@@ -332,19 +331,10 @@
         let stateCode = urlParams.get('state');
 
         if (stateCode) {
-            try {
-                let jsonStr = atob(stateCode);
-                let payload = JSON.parse(jsonStr);
-
-                if (payload && (payload.v || payload.r)) {
-                    setVisteArray(payload.v || []);
-                    setDaRipetereArray(payload.r || []);
-
-                    window.history.replaceState({}, document.title, window.location.pathname);
-                    alert("✅ Progressi sincronizzati con successo dal QR Code!");
-                }
-            } catch (e) {
-                console.error("Errore nell'importazione dall'URL:", e);
+            let ok = applicaCodiceStato(stateCode);
+            if (ok) {
+                window.history.replaceState({}, document.title, window.location.pathname);
+                alert("✅ Progressi sincronizzati con successo dal QR Code!");
             }
         }
 
@@ -353,7 +343,6 @@
     }
 
     async function salvaStoricoSvolgimento() {
-        // Se siamo in Modalità Ripasso, non registriamo né viste né errori
         if (config.modalita === 'ripasso') return;
 
         sessioneQuiz.forEach((macro, mIdx) => {
@@ -418,11 +407,51 @@
         ulList.innerHTML = html;
     }
 
-    // --- SINCRONIZZAZIONE CODICE ALFANUMERICO & QR CODE ---
+    // --- ALGORITMI COMPRESSIONE PER BASE64 OTTIMIZZATO ---
+    function compressRLE(arr) {
+        if (!arr || arr.length === 0) return [];
+        let rle = [];
+        let currVal = arr[0] === undefined ? null : arr[0];
+        let count = 1;
+
+        for (let i = 1; i < arr.length; i++) {
+            let val = arr[i] === undefined ? null : arr[i];
+            if (val === currVal) {
+                count++;
+            } else {
+                rle.push(currVal, count);
+                currVal = val;
+                count = 1;
+            }
+        }
+        rle.push(currVal, count);
+        return rle;
+    }
+
+    function decompressRLE(rle) {
+        if (!rle || rle.length === 0) return [];
+        let arr = [];
+        for (let i = 0; i < rle.length; i += 2) {
+            let val = rle[i];
+            let count = rle[i + 1];
+            for (let c = 0; c < count; c++) {
+                arr.push(val);
+            }
+        }
+        return arr;
+    }
+
     function generaCodiceAlfanumerico() {
+        let rawViste = getVisteArray();
+        
+        while (rawViste.length > 0 && (rawViste[rawViste.length - 1] === null || rawViste[rawViste.length - 1] === undefined)) {
+            rawViste.pop();
+        }
+
         let payload = {
-            v: getVisteArray(),
-            r: getDaRipetereArray()
+            v: compressRLE(rawViste),
+            r: getDaRipetereArray(),
+            _c: 1
         };
 
         try {
@@ -430,6 +459,29 @@
         } catch(e) {
             return "";
         }
+    }
+
+    function applicaCodiceStato(inputCode) {
+        try {
+            let jsonStr = atob(inputCode.trim());
+            let payload = JSON.parse(jsonStr);
+
+            if (payload) {
+                let viste = [];
+                if (payload._c === 1) {
+                    viste = decompressRLE(payload.v || []);
+                } else {
+                    viste = payload.v || [];
+                }
+
+                setVisteArray(viste);
+                setDaRipetereArray(payload.r || []);
+                return true;
+            }
+        } catch (e) {
+            console.error("Errore decodifica codice stato:", e);
+        }
+        return false;
     }
 
     function copiaCodiceSincronizzazione() {
@@ -490,30 +542,20 @@
             return;
         }
 
-        try {
-            let jsonStr = atob(input);
-            let payload = JSON.parse(jsonStr);
-
-            if (payload && (payload.v || payload.r)) {
-                setVisteArray(payload.v || []);
-                setDaRipetereArray(payload.r || []);
-
-                await aggiornaPercentualiAvanzamento();
-                await aggiornaStatoModalita();
-                await aggiornaInfoRangeOpzioni();
-                
-                document.getElementById('sync-code-input').value = '';
-                document.getElementById('qr-box').style.display = 'none';
-                alert("✅ Progressi importati con successo!");
-            } else {
-                throw new Error("Formato non valido");
-            }
-        } catch (e) {
+        let ok = applicaCodiceStato(input);
+        if (ok) {
+            await aggiornaPercentualiAvanzamento();
+            await aggiornaStatoModalita();
+            await aggiornaInfoRangeOpzioni();
+            
+            document.getElementById('sync-code-input').value = '';
+            document.getElementById('qr-box').style.display = 'none';
+            alert("✅ Progressi importati con successo!");
+        } else {
             alert("❌ Codice non valido o danneggiato.");
         }
     }
-
-    // PARSER CSV
+            // PARSER CSV
     function parseFullCSV(text) {
         const lines = [];
         let row = [];
@@ -782,7 +824,6 @@
         document.getElementById('macro-id-badge').innerText = `Domanda #${macro.globalMacroId}`;
         document.getElementById('macro-title-text').innerText = macro.titolo;
 
-        // Gestione Checkbox Fisso 📌
         let idDom = macro.globalMacroId;
         let chkRivedere = document.getElementById('chk-rivedere');
         chkRivedere.checked = spunteManualiSessione[idDom] === true;
@@ -878,17 +919,6 @@
         salvaStoricoSvolgimento();
 
         document.getElementById('quiz-screen').style.display = 'none';
-
-        // Se siamo in Modalità Ripasso, torniamo subito al menu iniziale senza mostrare i risultati
-        if (config.modalita === 'ripasso') {
-            document.getElementById('setup-screen').style.display = 'flex';
-            aggiornaStatoModalita();
-            aggiornaPercentualiAvanzamento();
-            aggiornaInfoRangeOpzioni();
-            return;
-        }
-
-        // Per tutte le altre modalità normali, mostra la schermata finale
         document.getElementById('results-screen').style.display = 'flex';
 
         let esatte = 0;
@@ -908,6 +938,7 @@
         document.getElementById('res-correct').innerText = esatte;
         document.getElementById('res-wrong').innerText = errate;
     }
+
     function tornaAlMenu() {
         fermaTimer();
         document.getElementById('results-screen').style.display = 'none';
