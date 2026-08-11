@@ -878,6 +878,17 @@
         salvaStoricoSvolgimento();
 
         document.getElementById('quiz-screen').style.display = 'none';
+
+        // Se siamo in Modalità Ripasso, torniamo subito al menu iniziale senza mostrare i risultati
+        if (config.modalita === 'ripasso') {
+            document.getElementById('setup-screen').style.display = 'flex';
+            aggiornaStatoModalita();
+            aggiornaPercentualiAvanzamento();
+            aggiornaInfoRangeOpzioni();
+            return;
+        }
+
+        // Per tutte le altre modalità normali, mostra la schermata finale
         document.getElementById('results-screen').style.display = 'flex';
 
         let esatte = 0;
@@ -897,7 +908,6 @@
         document.getElementById('res-correct').innerText = esatte;
         document.getElementById('res-wrong').innerText = errate;
     }
-
     function tornaAlMenu() {
         fermaTimer();
         document.getElementById('results-screen').style.display = 'none';
