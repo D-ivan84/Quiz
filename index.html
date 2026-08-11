@@ -353,7 +353,6 @@
     }
 
     async function salvaStoricoSvolgimento() {
-        // Se siamo in Modalità Ripasso, non registriamo né viste né errori
         if (config.modalita === 'ripasso') return;
 
         sessioneQuiz.forEach((macro, mIdx) => {
@@ -741,7 +740,10 @@
         } else if (config.modalita === 'casuale') {
             sessioneQuiz = mescolaArray(macroDatabase);
         } else if (config.modalita === 'ripasso') {
-            sessioneQuiz = [...macroDatabase];
+            let startDom = parseInt(document.getElementById('start-question').value) || 1;
+            let foundIdx = macroDatabase.findIndex(m => m.globalMacroId >= startDom);
+            if (foundIdx === -1) foundIdx = 0;
+            sessioneQuiz = macroDatabase.slice(foundIdx);
         } else {
             let startDom = parseInt(document.getElementById('start-question').value) || 1;
             let foundIdx = macroDatabase.findIndex(m => m.globalMacroId >= startDom);
@@ -821,7 +823,7 @@
 
         if (isLast) {
             document.getElementById('btn-next').style.display = 'none';
-            document.getElementById('btn-finish').style.display = 'block';
+            document.getElementById('btn-finish').style.display = 'flex';
         } else {
             document.getElementById('btn-next').style.display = 'flex';
             document.getElementById('btn-next').disabled = !allAnswered;
@@ -868,7 +870,8 @@
     }
 
     function confermaInterruzione() {
-        if (confirm("Sei sicuro di voler terminare la consultazione?")) {
+        let msg = (config.modalita === 'ripasso') ? "Vuoi uscire dalla modalità ripasso?" : "Sei sicuro di voler terminare il test in anticipo?";
+        if (confirm(msg)) {
             terminaTest();
         }
     }
@@ -908,6 +911,7 @@
         document.getElementById('res-correct').innerText = esatte;
         document.getElementById('res-wrong').innerText = errate;
     }
+
     function tornaAlMenu() {
         fermaTimer();
         document.getElementById('results-screen').style.display = 'none';
