@@ -396,26 +396,45 @@
         }
     }
 
-    async function aggiornaInfoRangeOpzioni() {
-        let ulList = document.getElementById('module-ranges-list');
-        if (!ulList) return;
-        
-        let startNum = 1;
-        let html = '';
+  async function aggiornaInfoRangeOpzioni() {
+    let ulList = document.getElementById('module-ranges-list');
+    if (!ulList) return;
+    
+    let startNum = 1;
+    let html = '';
 
-        for (let modId = 1; modId <= 4; modId++) {
-            let data = await caricaCSV(modId);
-            let totalMacroInMod = data.length;
-            if (totalMacroInMod > 0) {
-                let endNum = startNum + totalMacroInMod - 1;
-                html += `<li><strong>Modulo ${modId}:</strong> Domande ${startNum} - ${endNum}</li>`;
-                startNum = endNum + 1;
-            } else {
-                html += `<li><strong>Modulo ${modId}:</strong> Non disponibile</li>`;
+    for (let modId = 1; modId <= 4; modId++) {
+        let data = await caricaCSV(modId);
+        if (data.length > 0) {
+            let unitRanges = {};
+
+            data.forEach(macro => {
+                let unitName = macro.moduloText; // es. "Modulo 1 - Unità didattica 1"
+                
+                // Estrae il numero dell'unità (es. da "Unità didattica 1" prende "1")
+                let unitMatch = unitName.match(/unità\s*didattica\s*(\d+)/i);
+                let unitLabel = unitMatch ? `M${modId}.${unitMatch[1]}` : `M${modId}`;
+
+                if (!unitRanges[unitLabel]) {
+                    unitRanges[unitLabel] = { min: macro.globalMacroId, max: macro.globalMacroId };
+                } else {
+                    unitRanges[unitLabel].max = macro.globalMacroId;
+                }
+            });
+
+            html += `<li><strong>Modulo ${modId}:</strong><ul style="margin:2px 0 6px 0; padding-left:15px;">`;
+            for (let u in unitRanges) {
+                html += `<li><strong>${u}:</strong> domande ${unitRanges[u].min} - ${unitRanges[u].max}</li>`;
             }
+            html += `</ul></li>`;
+
+            startNum = data[data.length - 1].globalMacroId + 1;
+        } else {
+            html += `<li><strong>Modulo ${modId}:</strong> Non disponibile</li>`;
         }
-        ulList.innerHTML = html;
     }
+    ulList.innerHTML = html;
+}
 
     // --- SINCRONIZZAZIONE CODICE ALFANUMERICO & QR CODE ---
     function generaCodiceAlfanumerico() {
