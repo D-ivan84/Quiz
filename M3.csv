@@ -1,0 +1,133 @@
+Modulo,Domanda,Opzione,Risposta Corretta
+Modulo 3 - Unità didattica 1,I Sistemi di Gestione Standardizzati,Sono modelli organizzativi aziendali adottati su base volontaria,VERO
+Modulo 3 - Unità didattica 1,I Sistemi di Gestione Standardizzati,Sono modelli organizzativi aziendali obbligatori in certi ambiti,FALSO
+Modulo 3 - Unità didattica 1,I Sistemi di Gestione Standardizzati,Sono applicati maggiormente nelle aree critiche e sensibili dell’organizzazione,VERO
+Modulo 3 - Unità didattica 1,I Sistemi di Gestione Standardizzati,Sono realizzati mediante l'applicazione organica e sistematica di regole e procedure per raggiungere uno specifico obiettivo,VERO
+Modulo 3 - Unità didattica 1,I Sistemi di Gestione Standardizzati,Hanno sempre regole e procedure definite secondo uno standard creato dall’azienda stessa,FALSO
+Modulo 3 - Unità didattica 1,I Sistemi di Gestione Standardizzati,Riguardano tutti i livelli dell’organizzazione,VERO
+Modulo 3 - Unità didattica 1,Il percorso che porta alla certificazione di un'azienda o un'organizzazione,Prevede una prima fase (di solito) consulenziale di progettazione e implementazione del Sistema di Gestione,VERO
+Modulo 3 - Unità didattica 1,Il percorso che porta alla certificazione di un'azienda o un'organizzazione,Può prevedere una fase iniziale di assessment dell'azienda per capire meglio il contesto dell'organizzazione,VERO
+Modulo 3 - Unità didattica 1,Il percorso che porta alla certificazione di un'azienda o un'organizzazione,"Prevede una fase di realizzazione di politiche, procedure, manuali, istruzioni e moduli di registrazioni conformi alle norme dello schema di riferimento",VERO
+Modulo 3 - Unità didattica 1,Il percorso che porta alla certificazione di un'azienda o un'organizzazione,Una volta progettato il Sistema di Gestione questo può essere certificato mediante un Audit interno,FALSO
+Modulo 3 - Unità didattica 1,Il percorso che porta alla certificazione di un'azienda o un'organizzazione,Il percorso di Certificazione termina con l'Audit dell'Ente di Certificazione,FALSO
+Modulo 3 - Unità didattica 1,Il percorso che porta alla certificazione di un'azienda o un'organizzazione,Il percorso di Certificazione prevede revisioni annuali,VERO
+Modulo 3 - Unità didattica 1,Il percorso di Certificazione Aziendale,È composto di una prima fase (di solito) consulenziale di progettazione e implementazione del Sistema di Gestione,VERO
+Modulo 3 - Unità didattica 1,Il percorso di Certificazione Aziendale,"È composto di una prima fase in cui si realizzano manuali, procedure, istruzioni e moduli di registrazioni conformi alle norme dello schema di riferimento",VERO
+Modulo 3 - Unità didattica 1,Il percorso di Certificazione Aziendale,"Prevede un audit, ovvero una valutazione indipendente di un ente terzo di certificazione volta a ottenere le evidenze della soddisfazione dei criteri prefissati",VERO
+Modulo 3 - Unità didattica 1,Il percorso di Certificazione Aziendale,"Prevede un audit, ovvero una valutazione interna o da parte di terzi, volta a ottenere le evidenze della soddisfazione dei criteri prefissati",FALSO
+Modulo 3 - Unità didattica 1,Il percorso di Certificazione Aziendale,È composto di una seconda fase di richiesta della certificazione del Sistema di Gestione dopo l’esito positivo della valutazione interna,FALSO
+Modulo 3 - Unità didattica 1,Il percorso di Certificazione Aziendale,È composto di una seconda fase in cui si effettua la pianificazione dell’audit e del conseguimento del certificato a seguito del completamento positivo dell’audit da parte dell’ente di certificazione,VERO
+Modulo 3 - Unità didattica 1,Il S.O.C.,È il Security Organization Center,FALSO
+Modulo 3 - Unità didattica 1,Il S.O.C.,È il Security Operations Center,VERO
+Modulo 3 - Unità didattica 1,Il S.O.C.,È un centro da cui vengono forniti servizi finalizzati alla sicurezza dei sistemi informativi dell'azienda stessa,VERO
+Modulo 3 - Unità didattica 1,Il S.O.C.,È un centro da cui possono essere forniti servizi di sicurezza per l'organizzazione in generale,VERO
+Modulo 3 - Unità didattica 1,Il S.O.C.,Può avere anche funzioni di CERT e CSIRT,VERO
+Modulo 3 - Unità didattica 1,Il S.O.C.,Può essere solo interno all’organizzazione,FALSO
+Modulo 3 - Unità didattica 1,L’Action Workflow,È un tipo di modellizzazione basata sulle attività,FALSO
+Modulo 3 - Unità didattica 1,L’Action Workflow,È un tipo di modellizzazione basata sull’interazione o la negoziazione,VERO
+Modulo 3 - Unità didattica 1,L’Action Workflow,È un tipo di modellizzazione basata sui dati,FALSO
+Modulo 3 - Unità didattica 1,L’Action Workflow,È particolarmente adatto a rappresentare processi in cui gli elementi di decisione sono particolarmente importanti,VERO
+Modulo 3 - Unità didattica 1,L’Action Workflow,Mette al centro del modello le condizioni di soddisfazione (o di accordo) tra un cliente e un operatore/realizzatore,VERO
+Modulo 3 - Unità didattica 1,L’Action Workflow,Mette al centro del modello le informazioni sulla sequenza delle attività da realizzare,FALSO
+Modulo 3 - Unità didattica 1,L’Evento di Sicurezza Informatica,Può essere considerato come qualsiasi situazione che si verifichi nell’ambito di un determinato asset informatico la cui rilevanza è considerata significativa ai fini della salvaguardia dell’infrastruttura informatica,FALSO
+Modulo 3 - Unità didattica 1,L’Evento di Sicurezza Informatica,Può essere considerata qualsiasi situazione che sottintenda una violazione delle politiche di sicurezza IT fonte di danno per gli asset IT e per il quale si renda necessaria l’applicazione di misure di analisi e di contrasto e/o contenimento,FALSO
+Modulo 3 - Unità didattica 1,L’Evento di Sicurezza Informatica,"Può essere considerato come qualsiasi situazione che si verifichi nell’ambito di un determinato asset informatico la cui rilevanza è considerata significativa ai fini delle attività di gestione, controllo della sicurezza e contenimento dei rischi ad essa correlati",VERO
+Modulo 3 - Unità didattica 1,L’Evento di Sicurezza Informatica,Può essere a basso impatto (non significativo): qualsiasi evento gestito in maniera silente dal sistema di sicurezza e che non richiede uno specifico trattamento,VERO
+Modulo 3 - Unità didattica 1,L’Evento di Sicurezza Informatica,"Può essere a impatto significativo: qualsiasi evento rilevato nell’ambito dei sistemi e delle infrastrutture IT, che non necessita di essere ulteriormente analizzato",FALSO
+Modulo 3 - Unità didattica 1,L’Evento di Sicurezza Informatica,"Può essere a impatto di tipo critico: qualsiasi evento significativo che, a seguito delle analisi effettuate, potrebbe sottintendere, direttamente o indirettamente, una violazione delle politiche di sicurezza dell’azienda",VERO
+Modulo 3 - Unità didattica 1,L’Incident Response Plan (Piano di risposta agli incidenti),Permette di rispondere ad un attacco esterno mediante misure controffensive verso l’attaccante,FALSO
+Modulo 3 - Unità didattica 1,L’Incident Response Plan (Piano di risposta agli incidenti),Permette di rispondere all’esigenza di individuare incidenti o attacchi e mitigarne il danno,VERO
+Modulo 3 - Unità didattica 1,L’Incident Response Plan (Piano di risposta agli incidenti),Esegue anche la post analysis che consente di delineare la reale portata dell’incidente,VERO
+Modulo 3 - Unità didattica 1,L’Incident Response Plan (Piano di risposta agli incidenti),È un insieme di procedure documentate che descrivono in dettaglio i passaggi da intraprendere in ciascuna fase della risposta agli incidenti,VERO
+Modulo 3 - Unità didattica 1,L’Incident Response Plan (Piano di risposta agli incidenti),Se ben strutturato e documentato può non essere aggiornato frequentemente,FALSO
+Modulo 3 - Unità didattica 1,L’Incident Response Plan (Piano di risposta agli incidenti),"Dovrebbe includere linee guida per ruoli e responsabilità, piani di comunicazione e processi di risposta standardizzati",VERO
+Modulo 3 - Unità didattica 1,L’Incidente Informatico,Può essere considerato qualsiasi evento o insieme di eventi che sottintendono una violazione delle politiche di sicurezza IT fonte di danno per gli asset IT ovvero per il patrimonio informativo dell’organizzazione e per il quale si rende necessaria l’applicazione di misure di analisi e di contrasto e/o contenimento,VERO
+Modulo 3 - Unità didattica 1,L’Incidente Informatico,"Può essere considerato qualsiasi evento che si verifichi nell’ambito di un determinato asset informatico, comunque rilevato, la cui rilevanza è considerata significativa ai fini delle attività di gestione, controllo della sicurezza e contenimento dei rischi ad essa correlati",FALSO
+Modulo 3 - Unità didattica 1,L’Incidente Informatico,"Può essere, ad esempio, l’accesso (logico) non autorizzato agli asset IT",VERO
+Modulo 3 - Unità didattica 1,L’Incidente Informatico,"Può essere, ad esempio, la diffusione non autorizzata di informazioni riservate provenienti dagli asset IT",VERO
+Modulo 3 - Unità didattica 1,L’Incidente Informatico,"Può essere, ad esempio, il tentativo di accesso (logico) ai server centrali",FALSO
+Modulo 3 - Unità didattica 1,L’Incidente Informatico,"Può essere ad esempio, la constatazione di illeciti o azioni criminose apportate con l’ausilio delle risorse IT",VERO
+Modulo 3 - Unità didattica 1,La certificazione aziendale ad uno standard ISO,È la dichiarazione di un ente indipendente o accreditato che il prodotto fornito o le politiche messe in atto dall'azienda sono conformi ad una certa normativa o standard di riferimento,VERO
+Modulo 3 - Unità didattica 1,La certificazione aziendale ad uno standard ISO,È la dichiarazione di un ente indipendente o accreditato che si formalizza attraverso l’emissione di un certificato con validità illimitata,FALSO
+Modulo 3 - Unità didattica 1,La certificazione aziendale ad uno standard ISO,È la dichiarazione di un ente terzo che il prodotto fornito o le politiche messe in atto dall'azienda sono conformi ad una certa normativa o standard di riferimento,VERO
+Modulo 3 - Unità didattica 1,La certificazione aziendale ad uno standard ISO,"Se di sistema, permette di stabilire un meccanismo continuo di verifica della conformità ad uno standard ed il miglioramento continuo di un sistema di gestione",VERO
+Modulo 3 - Unità didattica 1,La certificazione aziendale ad uno standard ISO,"Se di sistema, permette di stabilire un meccanismo di verifica puntuale della conformità ad uno standard ma senza la verifica periodica del sistema di gestione",FALSO
+Modulo 3 - Unità didattica 1,La certificazione aziendale ad uno standard ISO,"Può essere uno strumento per rispondere alle richieste sempre più pressanti del mercato per differenziarsi dai competitors ed entrare in nuovi mercati, mai esplorati prima",VERO
+Modulo 3 - Unità didattica 1,La Standardizzazione,Si può definire come un’attività che dà origine a soluzioni codificate e ripetibili a problemi in varie discipline,VERO
+Modulo 3 - Unità didattica 1,La Standardizzazione,Di solito non è orientata ad un ritorno economico e di immagine,FALSO
+Modulo 3 - Unità didattica 1,La Standardizzazione,"L’attività, in generale, costituisce il processo di definizione (determinazione, formulazione e rilascio) e di implementazione degli standard",VERO
+Modulo 3 - Unità didattica 1,La Standardizzazione,"Può essere il risultato di un’attività di razionalizzazione e può riguardare tutte le attività aziendali, a partire da quelle più critiche",VERO
+Modulo 3 - Unità didattica 1,La Standardizzazione,"Può essere applicata, con notevoli vantaggi, nell’area della sostenibilità ambientale",VERO
+Modulo 3 - Unità didattica 1,La Standardizzazione,"Di solito, per problematiche di complessità e costi, tendenzialmente non si applica nell’ambito della qualità",FALSO
+Modulo 3 - Unità didattica 1,Le Procedure Operative Standard (SOP),"Definiscono i compiti e i ruoli necessari per ottenere un risultato, nel tentativo di eliminare la dipendenza dalle singole professionalità in grado di completare specifiche attività",VERO
+Modulo 3 - Unità didattica 1,Le Procedure Operative Standard (SOP),"Sono un insieme di documenti che offrono istruzioni esatte su come i dipendenti, i membri di un team o altri utenti in un’organizzazione o azienda devono completare un processo specifico",VERO
+Modulo 3 - Unità didattica 1,Le Procedure Operative Standard (SOP),Permettono la soddisfazione dei requisiti di progetto per la definizione dei nuovi investimenti,FALSO
+Modulo 3 - Unità didattica 1,Le Procedure Operative Standard (SOP),Permettono la definizione delle buone pratiche (good practice) applicabili a una serie di azioni esplicite e dettagliate,VERO
+Modulo 3 - Unità didattica 1,Le Procedure Operative Standard (SOP),Permettono la definizione degli obiettivi strategici attraverso l’analisi dell’operatività,FALSO
+Modulo 3 - Unità didattica 1,Le Procedure Operative Standard (SOP),Permettono l’assegnazione dei ruoli responsabili dell’esecuzione di ogni passaggio (ad esempio) di una lavorazione,VERO
+Modulo 3 - Unità didattica 1,Lo Standard Internazionale,ISO 45001 è relativo alla sicurezza del lavoro,VERO
+Modulo 3 - Unità didattica 1,Lo Standard Internazionale,ISO 31000 è relativo alla gestione del rischio,VERO
+Modulo 3 - Unità didattica 1,Lo Standard Internazionale,ISO 14001 è relativo all’ambiente ovvero sui sistemi di gestione ambientale,VERO
+Modulo 3 - Unità didattica 1,Lo Standard Internazionale,ISO 26000 è relativo alla qualità,FALSO
+Modulo 3 - Unità didattica 1,Lo Standard Internazionale,ISO 9001 è relativo alla qualità,VERO
+Modulo 3 - Unità didattica 1,Lo Standard Internazionale,ISA/IEC 62443 è relativo alla sicurezza delle informazioni,FALSO
+Modulo 3 - Unità didattica 1,Nella Business Transaction rappresentata utilizzando il modello WIDE qui sotto:,Una volta entrati per il punto A i task Cancellazione Albergo e Cancellazione Volo vengono eseguiti contemporaneamente,VERO
+Modulo 3 - Unità didattica 1,Nella Business Transaction rappresentata utilizzando il modello WIDE qui sotto:,Una volta Entrati per il punto A i task Cancellazione Albergo e Cancellazione Volo vengono eseguiti uno successivo all’altro (terminato Cancellazione Albergo viene eseguito Cancellazione Volo),FALSO
+Modulo 3 - Unità didattica 1,Nella Business Transaction rappresentata utilizzando il modello WIDE qui sotto:,Si giunge al punto B solo dopo che entrambi i task Cancellazione Albergo e Cancellazione Volo sono stati eseguiti completamente,VERO
+Modulo 3 - Unità didattica 1,Nella Business Transaction rappresentata utilizzando il modello WIDE qui sotto:,Si giunge al punto B solo se i task Cancellazione Albergo e Cancellazione Volo si concludono contemporaneamente,FALSO
+Modulo 3 - Unità didattica 1,Nella Business Transaction rappresentata utilizzando il modello WIDE qui sotto:,Il punto B può anche non essere mai raggiunto,FALSO
+Modulo 3 - Unità didattica 1,Nella Business Transaction rappresentata utilizzando il modello WIDE qui sotto:,Si giunge al punto B solo dopo che almeno uno tra i task Cancellazione Albergo e Cancellazione Volo è stato eseguito completamente,FALSO
+Modulo 3 - Unità didattica 1,Perché è necessario modellizzare i processi aziendali?,Per fornire una descrizione di una sequenza di attività comprensibile ad un osservatore esterno al processo,VERO
+Modulo 3 - Unità didattica 1,Perché è necessario modellizzare i processi aziendali?,Perché la legislazione lo richiede obbligatoriamente,FALSO
+Modulo 3 - Unità didattica 1,Perché è necessario modellizzare i processi aziendali?,Per usare un modello grafico standardizzato con l’obiettivo di presentare un documento in un formato facilmente comprensibile ad organizzazioni differenti,VERO
+Modulo 3 - Unità didattica 1,Perché è necessario modellizzare i processi aziendali?,Per descrivere cosa attualmente succede durante un processo,VERO
+Modulo 3 - Unità didattica 1,Perché è necessario modellizzare i processi aziendali?,Per descrivere anche cosa si desidererebbe far succedere durante un processo in futuro,VERO
+Modulo 3 - Unità didattica 1,Perché è necessario modellizzare i processi aziendali?,Per creare la base e i presupposti all’analisi per l’innovazione di processo,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti processi sono Processi Primari (processi che hanno risvolti verso l’esterno),Vendite e Marketing,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti processi sono Processi Primari (processi che hanno risvolti verso l’esterno),Organizzazione delle risorse umane,FALSO
+Modulo 3 - Unità didattica 1,Quali dei seguenti processi sono Processi Primari (processi che hanno risvolti verso l’esterno),"Qualità, miglioramento dei processi e gestione dei cambiamenti",VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti processi sono Processi Primari (processi che hanno risvolti verso l’esterno),"Attività infrastrutturali (tutte le funzioni, generalmente classificate come “costi fissi”)",FALSO
+Modulo 3 - Unità didattica 1,Quali dei seguenti processi sono Processi Primari (processi che hanno risvolti verso l’esterno),Supply Chain,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti processi sono Processi Primari (processi che hanno risvolti verso l’esterno),Gestione infrastruttura tecnologica,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono Processi di Cyber Security,Il monitoraggio degli Incidenti Informatici,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono Processi di Cyber Security,La gestione degli incidenti informatici,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono Processi di Cyber Security,La gestione delle patch di sistema,FALSO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono Processi di Cyber Security,la gestione delle vulnerabilità,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono Processi di Cyber Security,La gestione delle obsolescenze,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono Processi di Cyber Security,La disponibilità delle risorse,FALSO
+Modulo 3 - Unità didattica 1,Quali delle seguenti fasi possono costituire l’Incident Response Plan (Piano di risposta agli incidenti):,Una fase di rilevamento dell’incidente (Detect),VERO
+Modulo 3 - Unità didattica 1,Quali delle seguenti fasi possono costituire l’Incident Response Plan (Piano di risposta agli incidenti):,La Riproduzione dell’incidente rilevato (Response),FALSO
+Modulo 3 - Unità didattica 1,Quali delle seguenti fasi possono costituire l’Incident Response Plan (Piano di risposta agli incidenti):,La Mitigazione degli effetti dell’incidente (Mitigation),VERO
+Modulo 3 - Unità didattica 1,Quali delle seguenti fasi possono costituire l’Incident Response Plan (Piano di risposta agli incidenti):,La Registrazione dell’evento (Reporting),VERO
+Modulo 3 - Unità didattica 1,Quali delle seguenti fasi possono costituire l’Incident Response Plan (Piano di risposta agli incidenti):,Il ripristino del sistema colpito (Recovery),VERO
+Modulo 3 - Unità didattica 1,Quali delle seguenti fasi possono costituire l’Incident Response Plan (Piano di risposta agli incidenti):,L’investigazione relativamente al problema che ha portato all’incidente (Remediation),FALSO
+Modulo 3 - Unità didattica 1,Quali sono le fasi del processo di monitoraggio e gestione degli incidenti informatici?,"Una fase di Preparazione Iniziale e poi un ciclo composto da due fasi consecutive, Contenimento-Eradicazione-Ripristino e Rilevamento-Analisi ed in ultimo una fase di Analisi Post-Incidente",FALSO
+Modulo 3 - Unità didattica 1,Quali sono le fasi del processo di monitoraggio e gestione degli incidenti informatici?,Una fase di Preparazione Iniziale e poi una fase ciclica composta da due parti: Rilevamento-Analisi e Contenimento-Eradicazione-Ripristino ed in ultimo una fase di Analisi Post-Incidente,VERO
+Modulo 3 - Unità didattica 1,Quali sono le fasi del processo di monitoraggio e gestione degli incidenti informatici?,"Un ciclo composto da due fasi, Rilevamento-Analisi e Contenimento-Eradicazione-ripristino e una fase di Analisi Post-Incidente",FALSO
+Modulo 3 - Unità didattica 1,Quali sono le fasi del processo di monitoraggio e gestione degli incidenti informatici?,"Una fase di Preparazione Iniziale, una fase di Rilevamento-Analisi, una fase di Contenimento-Eradicazione-Ripristino ed in ultimo una fase di Analisi Post-Incidente",FALSO
+Modulo 3 - Unità didattica 1,Quali sono le fasi del processo di monitoraggio e gestione degli incidenti informatici?,"Una fase prima dell’incidente, una fase durante l’incidente e una fase dopo l’incidente",VERO
+Modulo 3 - Unità didattica 1,Quali sono le fasi del processo di monitoraggio e gestione degli incidenti informatici?,Una fase di Rilevamento dell’Incidente e di Verifica dei danni dopo l’incidente,FALSO
+Modulo 3 - Unità didattica 1,Quali sono le possibili cause di un Incidente Informatico,Vulnerabilità informatiche,VERO
+Modulo 3 - Unità didattica 1,Quali sono le possibili cause di un Incidente Informatico,Massivo utilizzo di tecnologie cloud,FALSO
+Modulo 3 - Unità didattica 1,Quali sono le possibili cause di un Incidente Informatico,Debolezze umane,VERO
+Modulo 3 - Unità didattica 1,Quali sono le possibili cause di un Incidente Informatico,Obsolescenza,VERO
+Modulo 3 - Unità didattica 1,Quali sono le possibili cause di un Incidente Informatico,Mancanza degli aggiornamenti di sicurezza,VERO
+Modulo 3 - Unità didattica 1,Quali sono le possibili cause di un Incidente Informatico,Utilizzo di software di terze parti,FALSO
+Modulo 3 - Unità didattica 1,Quali sono le principali tipologie di Modellizzazione dei Processi,Basate sui dati,VERO
+Modulo 3 - Unità didattica 1,Quali sono le principali tipologie di Modellizzazione dei Processi,Basate sulle attività,VERO
+Modulo 3 - Unità didattica 1,Quali sono le principali tipologie di Modellizzazione dei Processi,Basata sulle informazioni,FALSO
+Modulo 3 - Unità didattica 1,Quali sono le principali tipologie di Modellizzazione dei Processi,Basata sulle transizioni,FALSO
+Modulo 3 - Unità didattica 1,Quali sono le principali tipologie di Modellizzazione dei Processi,Basata sui messaggi,FALSO
+Modulo 3 - Unità didattica 1,Quali sono le principali tipologie di Modellizzazione dei Processi,Basata sulla comunicazione,VERO
+Modulo 3 - Unità didattica 1,Perché le SOP (Standard Operating Procedure) sono importanti?,Aiutano l’organizzazione a soddisfare gli standard di conformità,VERO
+Modulo 3 - Unità didattica 1,Perché le SOP (Standard Operating Procedure) sono importanti?,Supportano ma non garantiscono che le attività aziendali non abbiano impatti ambientali negativi,FALSO
+Modulo 3 - Unità didattica 1,Perché le SOP (Standard Operating Procedure) sono importanti?,Semplificano e massimizzano la produzione/output,VERO
+Modulo 3 - Unità didattica 1,Perché le SOP (Standard Operating Procedure) sono importanti?,Stabiliscono degli standard di sicurezza (fisica e logica),VERO
+Modulo 3 - Unità didattica 1,Perché le SOP (Standard Operating Procedure) sono importanti?,Supportano la formazione e la crescita professionale del personale,VERO
+Modulo 3 - Unità didattica 1,Perché le SOP (Standard Operating Procedure) sono importanti?,Garantiscono sempre risultati coerenti,FALSO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono i principali processi di Cyber Security (indicare Vero),Monitoraggio degli Incidenti Informatici,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono i principali processi di Cyber Security (indicare Vero),Gestione delle performance di rete,FALSO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono i principali processi di Cyber Security (indicare Vero),Gestione degli incidenti informatici,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono i principali processi di Cyber Security (indicare Vero),Gestione delle vulnerabilità,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono i principali processi di Cyber Security (indicare Vero),Gestione delle obsolescenze,VERO
+Modulo 3 - Unità didattica 1,Quali dei seguenti sono i principali processi di Cyber Security (indicare Vero),Gestione delle risorse,FALSO
