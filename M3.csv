@@ -131,3 +131,643 @@ Modulo 3 - Unità didattica 1,Quali dei seguenti sono i principali processi di C
 Modulo 3 - Unità didattica 1,Quali dei seguenti sono i principali processi di Cyber Security (indicare Vero),Gestione delle vulnerabilità,VERO
 Modulo 3 - Unità didattica 1,Quali dei seguenti sono i principali processi di Cyber Security (indicare Vero),Gestione delle obsolescenze,VERO
 Modulo 3 - Unità didattica 1,Quali dei seguenti sono i principali processi di Cyber Security (indicare Vero),Gestione delle risorse,FALSO
+Modulo 3 - Unità didattica 2,Aree di Controllo secondo ISO 27001 2013,"Acquisizione, sviluppo e manutenzione degli apparati di sicurezza.",FALSO
+Modulo 3 - Unità didattica 2,Aree di Controllo secondo ISO 27001 2013,Gestione degli Asset aziendali.,VERO
+Modulo 3 - Unità didattica 2,Aree di Controllo secondo ISO 27001 2013,Sicurezza delle attività operative.,VERO
+Modulo 3 - Unità didattica 2,Aree di Controllo secondo ISO 27001 2013,Gestione dei sistemi informativi.,FALSO
+Modulo 3 - Unità didattica 2,Aree di Controllo secondo ISO 27001 2013,Aspetti di sicurezza per la gestione della Business Continuity.,VERO
+Modulo 3 - Unità didattica 2,Aree di Controllo secondo ISO 27001 2013,Gestione degli incidenti relativi alla sicurezza delle informazioni.,VERO
+Modulo 3 - Unità didattica 2,Ciascun elemento di un SCMS secondo l’ISA/IEC 62443 ha,Un Obiettivo per Identificare chiaramente gli obiettivi dei requisiti dell’elemento.,VERO
+Modulo 3 - Unità didattica 2,Ciascun elemento di un SCMS secondo l’ISA/IEC 62443 ha,Un Fondamento Logico che fornisce una guida per chiarire la logica dei requisiti dell’elemento.,VERO
+Modulo 3 - Unità didattica 2,Ciascun elemento di un SCMS secondo l’ISA/IEC 62443 ha,Una Descrizione estesa dell’elemento e dei requisiti che sono contenuti.,VERO
+Modulo 3 - Unità didattica 2,Ciascun elemento di un SCMS secondo l’ISA/IEC 62443 ha,Un link a documenti associati.,FALSO
+Modulo 3 - Unità didattica 2,Ciascun elemento di un SCMS secondo l’ISA/IEC 62443 ha,Associato una lista di requisiti.,VERO
+Modulo 3 - Unità didattica 2,Ciascun elemento di un SCMS secondo l’ISA/IEC 62443 ha,Associato un solo requisito specifico.,FALSO
+Modulo 3 - Unità didattica 2,Come si può migliorare il livello di sicurezza di un Conduit secondo ISO/IEC 62443,Migliorando l'Access Control: restringendo l'accesso al Conduit in base al ruolo dell'utente e i suoi relativi privilegi,VERO
+Modulo 3 - Unità didattica 2,Come si può migliorare il livello di sicurezza di un Conduit secondo ISO/IEC 62443,Introducendo la criptazione dei messaggi,VERO
+Modulo 3 - Unità didattica 2,Come si può migliorare il livello di sicurezza di un Conduit secondo ISO/IEC 62443,Introducendo un sistema IDS/IPS (Intrusion Detection and Prevention System),VERO
+Modulo 3 - Unità didattica 2,Come si può migliorare il livello di sicurezza di un Conduit secondo ISO/IEC 62443,Tracciando e monitorando costantemente la comunicazione nel Conduit,VERO
+Modulo 3 - Unità didattica 2,Come si può migliorare il livello di sicurezza di un Conduit secondo ISO/IEC 62443,Facendo attraversare al Conduit più di una Zona,FALSO
+Modulo 3 - Unità didattica 2,Come si può migliorare il livello di sicurezza di un Conduit secondo ISO/IEC 62443,Riducendo il numero di regole del Firewall,FALSO
+Modulo 3 - Unità didattica 2,Come sono organizzati i Controlli ISO/IEC 27001:2022?,Raggruppati in 14 aree di controllo,FALSO
+Modulo 3 - Unità didattica 2,Come sono organizzati i Controlli ISO/IEC 27001:2022?,Raggruppati in 4 gruppi di Controlli,VERO
+Modulo 3 - Unità didattica 2,Come sono organizzati i Controlli ISO/IEC 27001:2022?,"Raggruppati in gruppi di Controllo di tipo: Organizzativo, per le Persone, Fisici e Tecnologici",VERO
+Modulo 3 - Unità didattica 2,Come sono organizzati i Controlli ISO/IEC 27001:2022?,Raggruppati in gruppi di Controllo associati a 5 attributi per una migliore gestione da punti diversi di osservazione,VERO
+Modulo 3 - Unità didattica 2,Come sono organizzati i Controlli ISO/IEC 27001:2022?,Raggruppati solo per Attributi,FALSO
+Modulo 3 - Unità didattica 2,Come sono organizzati i Controlli ISO/IEC 27001:2022?,Non sono stati più raggruppati ma sono un elenco unico,FALSO
+Modulo 3 - Unità didattica 2,Gli Attributi associati ai Gruppi di Controlli nella revisione ISO 27001 del 2022,"Possono essere utilizzati per filtrare, ordinare e presentare i controlli",VERO
+Modulo 3 - Unità didattica 2,Gli Attributi associati ai Gruppi di Controlli nella revisione ISO 27001 del 2022,"Permettono di etichettare i controlli in base al tipo di controllo (Preventivo, Investigativo e Correttivo)",VERO
+Modulo 3 - Unità didattica 2,Gli Attributi associati ai Gruppi di Controlli nella revisione ISO 27001 del 2022,"Permettono di etichettare i controlli in base alle Information Security Properties (Riservatezza, Integrità e Disponibilità)",VERO
+Modulo 3 - Unità didattica 2,Gli Attributi associati ai Gruppi di Controlli nella revisione ISO 27001 del 2022,Permettono di etichettare i controlli in base alla Criticità (da 1 a 100),FALSO
+Modulo 3 - Unità didattica 2,Gli Attributi associati ai Gruppi di Controlli nella revisione ISO 27001 del 2022,"Permettono di etichettare i controlli in base ai Domini di Sicurezza (Governance & Ecosystem, Protection, Defence, Resilience)",VERO
+Modulo 3 - Unità didattica 2,Gli Attributi associati ai Gruppi di Controlli nella revisione ISO 27001 del 2022,Permettono di etichettare i controlli in base ai Concetti NIST CSF (Identify…),VERO
+Modulo 3 - Unità didattica 2,Gli Elementi di un CSMS (Cybersecurity Management System) secondo IEC 62443 sono:,Sono insiemi di requisiti di Cybersicurezza che possono essere raggruppati in macro categorie e in gruppi,VERO
+Modulo 3 - Unità didattica 2,Gli Elementi di un CSMS (Cybersecurity Management System) secondo IEC 62443 sono:,Sono insiemi di requisiti di Cybersicurezza raggruppati solamente in macro categorie,FALSO
+Modulo 3 - Unità didattica 2,Gli Elementi di un CSMS (Cybersecurity Management System) secondo IEC 62443 sono:,"Vengono esplicitati mediante gli obiettivi, la descrizione e il fondamento logico",VERO
+Modulo 3 - Unità didattica 2,Gli Elementi di un CSMS (Cybersecurity Management System) secondo IEC 62443 sono:,Riguardano solamente gli aspetti tecnologici,FALSO
+Modulo 3 - Unità didattica 2,Gli Elementi di un CSMS (Cybersecurity Management System) secondo IEC 62443 sono:,Rappresentano una soluzione unica e universale non personalizzabile,FALSO
+Modulo 3 - Unità didattica 2,Gli Elementi di un CSMS (Cybersecurity Management System) secondo IEC 62443 sono:,In Annex A di ISA 62443-2-1 è contenuta una linea guida di come si possono utilizzare.,VERO
+Modulo 3 - Unità didattica 2,Gli IACS secondo l’IEC 62443?,Sono gli Industrial Automation and Control Systems ovvero i sistemi di controllo e di automazione industriali,VERO
+Modulo 3 - Unità didattica 2,Gli IACS secondo l’IEC 62443?,Possono essere gli SCADA (Supervisory Control and Data Acquisition) ovvero i sistemi di supervisione e acquisizione dati,VERO
+Modulo 3 - Unità didattica 2,Gli IACS secondo l’IEC 62443?,Possono essere le telecamere del sistema perimetrale di sicurezza,FALSO
+Modulo 3 - Unità didattica 2,Gli IACS secondo l’IEC 62443?,Possono essere i PLC (Programmable Logic Controller) ovvero i sistemi di controllo a logica programmabile,VERO
+Modulo 3 - Unità didattica 2,Gli IACS secondo l’IEC 62443?,Possono essere i DCS (Distributed control system) ovvero i sistemi di Controllo Distribuito di processo,VERO
+Modulo 3 - Unità didattica 2,Gli IACS secondo l’IEC 62443?,Possono essere gli strumenti di analisi della produzione presenti nella rete office,FALSO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,Raggruppano gli elementi che consentono la comunicazione peer to peer tra due zone.,FALSO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,Raggruppano gli elementi che consentono la comunicazione tra due zone.,VERO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,Non possono essere usati per fare comunicare due o più zone fra di loro.,FALSO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,Forniscono funzioni di sicurezza che consentono una comunicazione sicura e permettono la coesistenza di zone con livelli (o diversi livelli di sicurezza) differenti.,VERO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,"Consistono nel raggruppamento di cyber asset dedicati esclusivamente alle comunicazioni, e che condividono gli stessi requisiti di cybersecurity.",VERO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,Possono avere sotto-conduits.,FALSO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,Possono attraversare più di una zona.,FALSO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,Consentono la comunicazione controllata e sicura tra due zone,VERO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,Non possono essere usati per fare comunicare più zone fra di loro,FALSO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,Forniscono funzioni di sicurezza che permettono la coesistenza di zone con diversi livelli di sicurezza,VERO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,"Consistono nel raggruppamento di cyber asset, dedicati solamente alla comunicazione, e che condividono gli stessi requisiti di cybersecurity",VERO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,Possono avere sotto-conduits,FALSO
+Modulo 3 - Unità didattica 2,I conduits secondo ISA/IEC 62443,Possono essere realizzati con l’ausilio di tecnologie per il controllo del traffico e di anomaly detection,VERO
+Modulo 3 - Unità didattica 2,I controlli ISO 27001 nella Rev. 2022 sono raccolti nei seguenti gruppi:,Le persone,VERO
+Modulo 3 - Unità didattica 2,I controlli ISO 27001 nella Rev. 2022 sono raccolti nei seguenti gruppi:,I fornitori,FALSO
+Modulo 3 - Unità didattica 2,I controlli ISO 27001 nella Rev. 2022 sono raccolti nei seguenti gruppi:,Gli oggetti fisici,VERO
+Modulo 3 - Unità didattica 2,I controlli ISO 27001 nella Rev. 2022 sono raccolti nei seguenti gruppi:,La tecnologia,VERO
+Modulo 3 - Unità didattica 2,I controlli ISO 27001 nella Rev. 2022 sono raccolti nei seguenti gruppi:,Gli aspetti organizzativi,VERO
+Modulo 3 - Unità didattica 2,I controlli ISO 27001 nella Rev. 2022 sono raccolti nei seguenti gruppi:,La Supply Chain,FALSO
+Modulo 3 - Unità didattica 2,I Controlli ISO/IEC 27001 (Allegato A),Sono le appropriate contromisure selezionate dalle organizzazioni per affrontare i rischi per la cyber security identificati.,VERO
+Modulo 3 - Unità didattica 2,I Controlli ISO/IEC 27001 (Allegato A),"Come indicato nel documento ISO/IEC 27002 associato all'Annex A di ISO 27001, sono strutturati secondo uno schema a 3 livelli.",VERO
+Modulo 3 - Unità didattica 2,I Controlli ISO/IEC 27001 (Allegato A),"Come indicato nel documento ISO/IEC 27002 associato all'Annex A di ISO 27001, sono strutturati secondo uno schema a 2 livelli.",FALSO
+Modulo 3 - Unità didattica 2,I Controlli ISO/IEC 27001 (Allegato A),Sono 114 secondo l'edizione ISO/IEC 27001/2 2013.,VERO
+Modulo 3 - Unità didattica 2,I Controlli ISO/IEC 27001 (Allegato A),Sono 116 secondo l'edizione ISO/IEC 27001/2 2016.,FALSO
+Modulo 3 - Unità didattica 2,I Controlli ISO/IEC 27001 (Allegato A),Sono 93 secondo l'edizione ISO/IEC 27001/2 2022.,VERO
+Modulo 3 - Unità didattica 2,I Controlli secondo ISO/IEC 27001,Sono le appropriate contromisure selezionate per affrontare i rischi per la cyber security,VERO
+Modulo 3 - Unità didattica 2,I Controlli secondo ISO/IEC 27001,Sono pratiche da attuare per annullare completamente i rischi di cyber sicurezza,FALSO
+Modulo 3 - Unità didattica 2,I Controlli secondo ISO/IEC 27001,Sono strutturati secondo uno schema a tre livelli (edizione 2013),VERO
+Modulo 3 - Unità didattica 2,I Controlli secondo ISO/IEC 27001,Sono strutturati secondo uno schema a quattro livelli (edizione 2013),FALSO
+Modulo 3 - Unità didattica 2,I Controlli secondo ISO/IEC 27001,Sono riuniti in quattro gruppi di controlli (edizione 2022),VERO
+Modulo 3 - Unità didattica 2,I Controlli secondo ISO/IEC 27001,Di solito non si modificano nelle varie revisioni dello standard,FALSO
+Modulo 3 - Unità didattica 2,I Documenti NIST Special Publications sono raggruppati nelle serie,SP 800 Computer security,VERO
+Modulo 3 - Unità didattica 2,I Documenti NIST Special Publications sono raggruppati nelle serie,SP 1800 Cybersecurity Practice Guides,VERO
+Modulo 3 - Unità didattica 2,I Documenti NIST Special Publications sono raggruppati nelle serie,SP 1700 Cybersecurity Development Guides,FALSO
+Modulo 3 - Unità didattica 2,I Documenti NIST Special Publications sono raggruppati nelle serie,SP 500 Information technology (relevant documents),VERO
+Modulo 3 - Unità didattica 2,I Documenti NIST Special Publications sono raggruppati nelle serie,SP 300 Information technology (relevant documents),FALSO
+Modulo 3 - Unità didattica 2,I Documenti NIST Special Publications sono raggruppati nelle serie,SP 600 Computer system management,FALSO
+Modulo 3 - Unità didattica 2,I Foundational Requirements (Requisiti Fondazionali) di IEC 62443,Sono requisiti sviluppati specificatamente per una completa comprensione dei requisiti degli IACS,VERO
+Modulo 3 - Unità didattica 2,I Foundational Requirements (Requisiti Fondazionali) di IEC 62443,Sono complessivamente sette,VERO
+Modulo 3 - Unità didattica 2,I Foundational Requirements (Requisiti Fondazionali) di IEC 62443,Sono complessivamente otto,FALSO
+Modulo 3 - Unità didattica 2,I Foundational Requirements (Requisiti Fondazionali) di IEC 62443,Sono i requisiti base da cui si sviluppano i requisiti di sistema e di componente (SR e CR) al crescere dei livelli di sicurezza,VERO
+Modulo 3 - Unità didattica 2,I Foundational Requirements (Requisiti Fondazionali) di IEC 62443,Sono uno strumento fondamentale per realizzare assessment di sicurezza per gli IACS,VERO
+Modulo 3 - Unità didattica 2,I Foundational Requirements (Requisiti Fondazionali) di IEC 62443,Sostituiscono completamente i requisiti del modello CIA (Confientiality Integrity e Availability),FALSO
+Modulo 3 - Unità didattica 2,I Foundational Requirements secondo ISA/IEC 62443,"Sono stati definiti dal momento che il classico modello CIA (Confidentiality, Integrity e Availability) non si adatta (o non assicura una completa comprensione) interamente ai requisiti richiesti per gli IACS (Industrial Automation and Control Systems).",VERO
+Modulo 3 - Unità didattica 2,I Foundational Requirements secondo ISA/IEC 62443,"Sono stati definiti dal momento che il classico modello CIA (Confidentiality, Integrity e Availability) non assicura una completa comprensione dei requisiti per gli apparati di rete.",VERO
+Modulo 3 - Unità didattica 2,I Foundational Requirements secondo ISA/IEC 62443,Sono sette requisiti di base.,VERO
+Modulo 3 - Unità didattica 2,I Foundational Requirements secondo ISA/IEC 62443,Sono quattordici requisiti di base.,FALSO
+Modulo 3 - Unità didattica 2,I Foundational Requirements secondo ISA/IEC 62443,Sono otto requisiti di base.,FALSO
+Modulo 3 - Unità didattica 2,I Foundational Requirements secondo ISA/IEC 62443,Focalizzano gli aspetti di cyber sicurezza in relazione al funzionamento degli IACS.,VERO
+Modulo 3 - Unità didattica 2,I Framework Profile del NIST CSF,Possono essere visti come una fotografia dello stato corrente di implementazione del Framework Core all'interno dell'organizzazione,VERO
+Modulo 3 - Unità didattica 2,I Framework Profile del NIST CSF,"Possono essere utilizzati per definire un percorso a ""tappe"" (ogni tappa un determinato profilo) per raggiungere determinati obiettivi di sicurezza",VERO
+Modulo 3 - Unità didattica 2,I Framework Profile del NIST CSF,Racchiudono al loro interno obiettivi organizzativi in relazione al business,VERO
+Modulo 3 - Unità didattica 2,I Framework Profile del NIST CSF,Racchiudono la propensione al rischio dell'organizzazione in relazione alle minacce ambientali,VERO
+Modulo 3 - Unità didattica 2,I Framework Profile del NIST CSF,Riguardano unicamente le buone pratiche che l'organizzazione intende implementare,FALSO
+Modulo 3 - Unità didattica 2,I Framework Profile del NIST CSF,Identificano solamente lo stato corrente e non permettono di implementare percorsi di miglioramento,FALSO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-1-1,"Sono tre: 1= Basso, 2=Medio e 3=Alto.",VERO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-1-1,Rappresentano un metodo qualitativo per identificare la sicurezza in ciascuna zona.,VERO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-1-1,"Sono tre: Target, Achieved e Capability.",FALSO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-1-1,Hanno tre tipologie di Livelli per la gestione continua.,VERO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-1-1,Valgono per le zone ma possono essere applicati anche a componenti e sistemi anche se con un numero di livelli maggiore.,VERO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-1-1,Valgono solamente per le zone e non per componenti e sistemi.,FALSO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-3-3,"Sono quattro: Da SL1= Protezione contro violazioni casuali a SL4=Protezione contro violazioni con mezzi sofisticati, risorse estese, skill specifici e alta motivazione",VERO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-3-3,Rappresentano un metodo qualitativo per identificare la sicurezza in ciascuna zona,FALSO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-3-3,"Sono tre: da SL1 = Protezione contro violazioni casuali a SL3 Protezione contro violazioni con mezzi sofisticati, risorse estese, skill specifici e alta motivazione",FALSO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-3-3,Per la corretta definizione dei requisiti di sicurezza vengono declinati per ciascuno dei requisiti derivati dai requisiti di base o fondazionali,VERO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-3-3,Possono avere i requisiti di base più un certo numero di requisiti di rinforzo (Requirement Enhancement-RE),VERO
+Modulo 3 - Unità didattica 2,I Livelli di Sicurezza secondo ISA/IEC 62443-3-3,"Hanno quattro tipologie di Livelli per la gestione continua: SL (Target), SL (Achieved), SL (Capability) e SL (Overflow)",FALSO
+Modulo 3 - Unità didattica 2,I Maturity Level secondo ISA/IEC 62443-4-1,Sono 4 livelli di maturità dei fornitori di componenti (prodotti) da un livello “Iniziale” (1) ad un livello quantitativamente gestito o di “Miglioramento” (4).,VERO
+Modulo 3 - Unità didattica 2,I Maturity Level secondo ISA/IEC 62443-4-1,Sono 3 livelli di maturità dei fornitori di componenti (prodotti) da un livello “Iniziale” (1) ad un livello quantitativamente gestito o di “Miglioramento” (3).,FALSO
+Modulo 3 - Unità didattica 2,I Maturity Level secondo ISA/IEC 62443-4-1,Sono 4 livelli di maturità dei fornitori di sistemi da un livello “Iniziale” (1) ad un livello quantitativamente gestito o di “Miglioramento” (4).,FALSO
+Modulo 3 - Unità didattica 2,I Maturity Level secondo ISA/IEC 62443-4-1,"Identificano i processi di sviluppo del prodotto in termini di documentazione, ripetibilità e controllo dei processi, skill del personale.",VERO
+Modulo 3 - Unità didattica 2,I Maturity Level secondo ISA/IEC 62443-4-1,"Identificano i processi di sviluppo del prodotto e dei sistemi in termini di documentazione, ripetibilità e controllo dei processi, skill del personale.",FALSO
+Modulo 3 - Unità didattica 2,I Maturity Level secondo ISA/IEC 62443-4-1,Hanno livelli intermedi di tipo; “Gestito” con processi codificati e ripetibili e “Definito” in cui ci sono anche evidenze che i processi siano praticati.,VERO
+Modulo 3 - Unità didattica 2,I nuovi controlli di ISO 27001 Rev. 2022 sono specializzati per:,Una maggior sicurezza nella gestione dei servizi Cloud,VERO
+Modulo 3 - Unità didattica 2,I nuovi controlli di ISO 27001 Rev. 2022 sono specializzati per:,Una migliore preparazione dell'ICT in relazione alle problematiche di Business Continuity,VERO
+Modulo 3 - Unità didattica 2,I nuovi controlli di ISO 27001 Rev. 2022 sono specializzati per:,Per privilegiare l'utilizzo di software di prodotto solo da determinati fornitori,FALSO
+Modulo 3 - Unità didattica 2,I nuovi controlli di ISO 27001 Rev. 2022 sono specializzati per:,Migliore protezione dei dati anche in relazione del loro trattamento in funzione del GDPR,VERO
+Modulo 3 - Unità didattica 2,I nuovi controlli di ISO 27001 Rev. 2022 sono specializzati per:,Il miglioramento dell'Internet Browsing attraverso l'uso del filtraggio dei siti,VERO
+Modulo 3 - Unità didattica 2,I nuovi controlli di ISO 27001 Rev. 2022 sono specializzati per:,Lo sviluppo sicuro del codice software,VERO
+Modulo 3 - Unità didattica 2,I quattro Gruppi di Controlli ISO 27001:2022 sono,A.5 Organizational,VERO
+Modulo 3 - Unità didattica 2,I quattro Gruppi di Controlli ISO 27001:2022 sono,A.6 People,VERO
+Modulo 3 - Unità didattica 2,I quattro Gruppi di Controlli ISO 27001:2022 sono,A.5 Operational,FALSO
+Modulo 3 - Unità didattica 2,I quattro Gruppi di Controlli ISO 27001:2022 sono,A.7 Physical,VERO
+Modulo 3 - Unità didattica 2,I quattro Gruppi di Controlli ISO 27001:2022 sono,A.8 Vocabulary,FALSO
+Modulo 3 - Unità didattica 2,I quattro Gruppi di Controlli ISO 27001:2022 sono,A.8 Technological,VERO
+Modulo 3 - Unità didattica 2,I Requisiti di Sicurezza (SR) secondo ISO/IEC 62443-3-3,Sono requisiti di sistema,VERO
+Modulo 3 - Unità didattica 2,I Requisiti di Sicurezza (SR) secondo ISO/IEC 62443-3-3,Sono requisiti di gestione,FALSO
+Modulo 3 - Unità didattica 2,I Requisiti di Sicurezza (SR) secondo ISO/IEC 62443-3-3,Sono definiti e raggruppati per ciascuno dei sette Fondational Requirements,VERO
+Modulo 3 - Unità didattica 2,I Requisiti di Sicurezza (SR) secondo ISO/IEC 62443-3-3,Sono associati a quattro livelli di sicurezza (SL) crescenti (da SL1 a SL4),VERO
+Modulo 3 - Unità didattica 2,I Requisiti di Sicurezza (SR) secondo ISO/IEC 62443-3-3,Possono avere un certo numero di requisiti di rinforzo RE (Requirement Enhancement),VERO
+Modulo 3 - Unità didattica 2,I Requisiti di Sicurezza (SR) secondo ISO/IEC 62443-3-3,Sono esattamente equivalenti ai Component Requirements (CR) del ISA/IEC 62443 4-2,FALSO
+Modulo 3 - Unità didattica 2,I requisiti di un ISMS secondo ISO/IEC 27001,"Sono necessari per stabilire, attuare, mantenere e migliorare, in modo continuo, un sistema di gestione per la sicurezza delle informazioni nel contesto di un’organizzazione",VERO
+Modulo 3 - Unità didattica 2,I requisiti di un ISMS secondo ISO/IEC 27001,Includono i criteri per la valutazione e il trattamento dei rischi relativi alla sicurezza delle informazioni adattati alla necessità dell’organizzazione,VERO
+Modulo 3 - Unità didattica 2,I requisiti di un ISMS secondo ISO/IEC 27001,Sono indipendenti dai controlli (ovvero le contromisure) presenti nell'Allegato A dello stesso documento,FALSO
+Modulo 3 - Unità didattica 2,I requisiti di un ISMS secondo ISO/IEC 27001,Sono necessari per certificare la conformità di un sistema informativo a questo standard,VERO
+Modulo 3 - Unità didattica 2,I requisiti di un ISMS secondo ISO/IEC 27001,Utilizzano il risk management come base per decidere azioni e quali contromisure (controlli) mettere in atto,VERO
+Modulo 3 - Unità didattica 2,I requisiti di un ISMS secondo ISO/IEC 27001,Possono essere utilizzati per decidere le strategie per gestire la sicurezza delle informazioni in base a criteri deterministici,FALSO
+Modulo 3 - Unità didattica 2,I Riferimenti Informativi nel Framework Core del NIST CSF,"Sono esaustivi, ovvero rappresentano regole precise da applicare.",FALSO
+Modulo 3 - Unità didattica 2,I Riferimenti Informativi nel Framework Core del NIST CSF,Sono collegamenti a fonti esterne che forniscono ulteriori dettagli e orientamenti su come implementare le attività di sicurezza descritte nelle sottocategorie.,VERO
+Modulo 3 - Unità didattica 2,I Riferimenti Informativi nel Framework Core del NIST CSF,Possono fare riferimento ad altri standard internazionali.,VERO
+Modulo 3 - Unità didattica 2,I Riferimenti Informativi nel Framework Core del NIST CSF,Sono solo illustrativi.,VERO
+Modulo 3 - Unità didattica 2,I Riferimenti Informativi nel Framework Core del NIST CSF,Sono obbligatori.,FALSO
+Modulo 3 - Unità didattica 2,I Riferimenti Informativi nel Framework Core del NIST CSF,Forniscono un ponte tra le sottocategorie del framework e le pratiche di sicurezza specifiche del settore o della regolamentazione.,VERO
+Modulo 3 - Unità didattica 2,Il ciclo PDCA,È il ciclo Plan Do Check Act detto anche ciclo di Deming o ciclo di Shewhart.,VERO
+Modulo 3 - Unità didattica 2,Il ciclo PDCA,È il ciclo Process Do Control Alert detto anche ciclo di Deming o ciclo di Shewhart.,FALSO
+Modulo 3 - Unità didattica 2,Il ciclo PDCA,È un approccio al miglioramento continuo dei processi aziendali.,VERO
+Modulo 3 - Unità didattica 2,Il ciclo PDCA,È esplicitamente indicato in ambito ISO 27000 per rappresentare il meccanismo ciclico di monitoraggio e miglioramento del sistema di gestione.,VERO
+Modulo 3 - Unità didattica 2,Il ciclo PDCA,È esplicitamente indicato in ambito ISO 27000 per monitorare i cicli di manutenzione programmata dei sistemi.,FALSO
+Modulo 3 - Unità didattica 2,Il ciclo PDCA,Non è esplicitamente indicato in ambito ISO 27000 ma tutto lo standard è ispirato ad esso.,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""ICT readiness for business continuity"" ovvero la capacità dell'ICT di reagire a situazioni impreviste per garantire la continuità operativa",E' un controllo di tipo Correttivo,VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""ICT readiness for business continuity"" ovvero la capacità dell'ICT di reagire a situazioni impreviste per garantire la continuità operativa",E' un controllo di tipo Investigativo,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""ICT readiness for business continuity"" ovvero la capacità dell'ICT di reagire a situazioni impreviste per garantire la continuità operativa",Migliora la disponibilità,VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""ICT readiness for business continuity"" ovvero la capacità dell'ICT di reagire a situazioni impreviste per garantire la continuità operativa",Migliora l'integrità dei dati e delle informazioni,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""ICT readiness for business continuity"" ovvero la capacità dell'ICT di reagire a situazioni impreviste per garantire la continuità operativa",E' nel dominio di sicurezza della Resilienza,VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""ICT readiness for business continuity"" ovvero la capacità dell'ICT di reagire a situazioni impreviste per garantire la continuità operativa",Prevede che le funzionalità dell'ICT siano mantenute e testate sulla base degli obiettivi di continuità operativa dell'azienda.,VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security during disruption"" ovvero che l'organizzazione deve mantenere la sicurezza delle informazioni a un livello appropriato durante un'interruzione",E' un controllo solo Preventivo,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security during disruption"" ovvero che l'organizzazione deve mantenere la sicurezza delle informazioni a un livello appropriato durante un'interruzione",E' un controllo di tipo Investigativo,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security during disruption"" ovvero che l'organizzazione deve mantenere la sicurezza delle informazioni a un livello appropriato durante un'interruzione",E' un controllo sia Preventivo che Correttivo,VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security during disruption"" ovvero che l'organizzazione deve mantenere la sicurezza delle informazioni a un livello appropriato durante un'interruzione","Migliora Riservatezza, Integrità e Disponibilità",VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security during disruption"" ovvero che l'organizzazione deve mantenere la sicurezza delle informazioni a un livello appropriato durante un'interruzione",Migliora solo la Disponibilità,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security during disruption"" ovvero che l'organizzazione deve mantenere la sicurezza delle informazioni a un livello appropriato durante un'interruzione",Migliora l'Integrità e la Riservatezza,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security for use of cloud services"" ovvero che i processi relativi ai servizi cloud devono essere conformi con i requisiti di sicurezza delle informazioni dell'organizzazione",E' un controllo solo Preventivo,VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security for use of cloud services"" ovvero che i processi relativi ai servizi cloud devono essere conformi con i requisiti di sicurezza delle informazioni dell'organizzazione",E' un controllo di tipo Investigativo,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security for use of cloud services"" ovvero che i processi relativi ai servizi cloud devono essere conformi con i requisiti di sicurezza delle informazioni dell'organizzazione",E' un controllo sia Preventivo che Correttivo,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security for use of cloud services"" ovvero che i processi relativi ai servizi cloud devono essere conformi con i requisiti di sicurezza delle informazioni dell'organizzazione","Migliora Riservatezza, Integrità e Disponibilità",VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security for use of cloud services"" ovvero che i processi relativi ai servizi cloud devono essere conformi con i requisiti di sicurezza delle informazioni dell'organizzazione",Migliora solo la Disponibilità,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Information security for use of cloud services"" ovvero che i processi relativi ai servizi cloud devono essere conformi con i requisiti di sicurezza delle informazioni dell'organizzazione",Migliora l'Integrità e la Riservatezza,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Threat intelligence"" ovvero la capacità di raccogliere e analizzare le informazioni relative alle minacce alla sicurezza delle informazioni.",E' un controllo di tipo Preventivo,VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Threat intelligence"" ovvero la capacità di raccogliere e analizzare le informazioni relative alle minacce alla sicurezza delle informazioni.",E' un controllo di tipo Correttivo,VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Threat intelligence"" ovvero la capacità di raccogliere e analizzare le informazioni relative alle minacce alla sicurezza delle informazioni.",E' un controllo di tipo Investigativo,VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Threat intelligence"" ovvero la capacità di raccogliere e analizzare le informazioni relative alle minacce alla sicurezza delle informazioni.",Migliora solo la riservatezza,FALSO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Threat intelligence"" ovvero la capacità di raccogliere e analizzare le informazioni relative alle minacce alla sicurezza delle informazioni.",Migliora la disponibilità,VERO
+Modulo 3 - Unità didattica 2,"Il controllo ISO/IEC 27001: 2022 ""Threat intelligence"" ovvero la capacità di raccogliere e analizzare le informazioni relative alle minacce alla sicurezza delle informazioni.",Migliora l'Integrità,VERO
+Modulo 3 - Unità didattica 2,Il DCS (Distributed Control System),E' un sistema integrato di HMI (Human Machine Interface) e PLC (sistema di controllo programmabile),VERO
+Modulo 3 - Unità didattica 2,Il DCS (Distributed Control System),E' una tecnologia utilizzata principalmente in impianti di processo (ad esempio Chimico e Oil&Gas),VERO
+Modulo 3 - Unità didattica 2,Il DCS (Distributed Control System),E' una tecnologia utilizzata principalmente in impianti manufatturieri discreti (ad esempio Meccanico ed Elettronico),FALSO
+Modulo 3 - Unità didattica 2,Il DCS (Distributed Control System),Ha tra le sue caratteristiche la semplicità di configurazione complessiva dei sistemi integrati HMI e PLC,VERO
+Modulo 3 - Unità didattica 2,Il DCS (Distributed Control System),E' una tecnologia di gran lunga più utilizzata della tecnologia SCADA-PLC,FALSO
+Modulo 3 - Unità didattica 2,Il DCS (Distributed Control System),Esistono un numero molto ristretto di costruttori ed i prezzi dei sistemi sono molto elevati,VERO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-2-1,"Appartiene alla famiglia ""Gestione"" dello Standard IEC62443",VERO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-2-1,"Appartiene alla famiglia ""Modelli"" dello Standard IEC62443",FALSO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-2-1,Contiene il requisiti di sicurezza relativi agli IACS per i responsabili degli Asset,VERO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-2-1,Contiene i Concetti e i Modelli applicati in tutto lo standard,FALSO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-2-1,Contiene i criteri per la valutazione del grado di protezione della sicurezza,FALSO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-2-1,È nell'area Verde della normativa,VERO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-4-2,E' relativo ai requisiti tecnici per i componenti IACS,VERO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-4-2,Contiene l'elenco dei System Requirement (SR),FALSO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-4-2,Contiene l'elenco dei Component Requirement (CR),VERO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-4-2,Insieme alla norma ISA/IEC 62443-4-1 appartiene al Cluster Rosso,VERO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-4-2,Insieme alla norma ISA/IEC 62443-4-1 appartiene al Cluster Giallo,FALSO
+Modulo 3 - Unità didattica 2,Il Documento ISA/IEC 62443-4-2,"E' relativo ai Componenti ovvero: Dispositivi embedded, componenti di rete, componenti host e applicazioni software",VERO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-53 Rev. 5,"Fornisce un catalogo integrativo di controlli di sicurezza e privacy per i sistemi informativi per proteggere le operazioni e le risorse organizzative, gli individui, e le aziende dai rischi.",VERO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-53 Rev. 5,Ha un numero di controlli molto maggiore rispetto a ISO/IEC 27001:2022,VERO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-53 Rev. 5,"Identifica i controlli come tecnologici ""s"", organizzativi ""o"" o la combinazione dei due ""o/s""",VERO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-53 Rev. 5,Permette la certificazione da parte di enti accreditati internazionalmente,FALSO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-53 Rev. 5,"Si intitola ""Security and Privacy Controls for Information Systems and Organizations""",VERO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-53 Rev. 5,"Si intitola ""Security and Privacy Controls for Information Systems, Organizations and People""",FALSO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-82 Rev. 2,Fornisce una guida su come proteggere i sistemi di controllo industriale (ICS),VERO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-82 Rev. 2,Fornisce un catalogo integrativo di controlli di sicurezza e privacy per i sistemi informativi e le organizzazioni,FALSO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-82 Rev. 2,"Fa parte della serie 800, pubblicazioni speciali relative alla computer security",VERO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-82 Rev. 2,"Fa parte della serie 800, pubblicazioni speciali che propongono guide pratiche e usabili di soluzioni per la cybersecurity",FALSO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-82 Rev. 2,"Fa parte della serie 800, pubblicazioni speciali che sono documenti rilevanti di Information Technology",FALSO
+Modulo 3 - Unità didattica 2,Il documento NIST Special Publication SP 800-82 Rev. 2,Come tutti i documenti NIST può essere solamente acquistato nell'apposito sito,FALSO
+Modulo 3 - Unità didattica 2,Il Framework Core del NIST CSF,"È un insieme di attività di sicurezza informatica, risultati che si possono raggiungere e riferimenti applicabili comuni a tutti i settori delle organizzazioni in genere",VERO
+Modulo 3 - Unità didattica 2,Il Framework Core del NIST CSF,E' uno standard di sicurezza informatica di alto livello che non presenta linee guida e buone pratiche applicative di settore o riferimenti esterni agli stessi,FALSO
+Modulo 3 - Unità didattica 2,Il Framework Core del NIST CSF,"È costituito da cinque funzioni concorrenti e continue: Identifica, Reagisci, Rileva, Rispondi, Recupera",FALSO
+Modulo 3 - Unità didattica 2,Il Framework Core del NIST CSF,"È costituito da quattro funzioni concorrenti e continue: Identifica, Proteggi, Rileva, Rispondi",FALSO
+Modulo 3 - Unità didattica 2,Il Framework Core del NIST CSF,Identifica le categorie e le sottocategorie chiave associate a ciascuna funzione e le abbina alla documentazione informativa di esempio esistente per ciascuna sottocategoria,VERO
+Modulo 3 - Unità didattica 2,Il Framework Core del NIST CSF,Associa a ciascuna funzione le categorie ovvero le suddivisioni di una funzione in gruppi di risultati di sicurezza informatica strettamente legati alle specifiche esigenze,VERO
+Modulo 3 - Unità didattica 2,Il futuro NIST CSF 2.0,"Ai cinque pilastri principali del programma del framework attuale, il NIST CSF 2.0 aggiunge la funzione di “Governo”",VERO
+Modulo 3 - Unità didattica 2,Il futuro NIST CSF 2.0,Ha di fatto cambiato completamente la logica delle funzioni previste dal NIST CSF 1.1,FALSO
+Modulo 3 - Unità didattica 2,Il futuro NIST CSF 2.0,Attraverso la funzione Governo sottolinea che la sicurezza informatica è una delle principali fonti di rischio aziendale come indicazione fondamentale per la leadership,VERO
+Modulo 3 - Unità didattica 2,Il futuro NIST CSF 2.0,"Introduce la nuova funzione ""Governo"" che, diversamente dalle altre funzioni, non mantiene la struttura con Categorie e Sottocategorie",FALSO
+Modulo 3 - Unità didattica 2,Il futuro NIST CSF 2.0,Mediante la nuova funzione Governo fornisce i risultati per informare ciò che un’organizzazione può fare per raggiungere e dare priorità ai risultati delle altre cinque funzioni,VERO
+Modulo 3 - Unità didattica 2,Il futuro NIST CSF 2.0,Enfatizza che le attività di governance sono fondamentali per incorporare la cyber security nella più ampia strategia di gestione del rischio aziendale di un’organizzazione,VERO
+Modulo 3 - Unità didattica 2,Il NIST CSF 2.0,"Ha come principale differenza con il NIST CSF 1.1 l'aggiunta di una nuova funzione, ""Govern"" (GV) che si affianca alle quattro funzioni originali",FALSO
+Modulo 3 - Unità didattica 2,Il NIST CSF 2.0,"Ha come principale differenza con il NIST CSF 1.1 l'aggiunta di una nuova funzione, ""Govern"" (GV) che si affianca alle cinque funzioni originali",VERO
+Modulo 3 - Unità didattica 2,Il NIST CSF 2.0,"E' stato adottato, con poche modifiche, da ACN (Agenzia di Cybersecurity Nazionale) come Framework di riferimento",VERO
+Modulo 3 - Unità didattica 2,Il NIST CSF 2.0,Ha di fatto ampliato l'ambito di applicazione riconoscendo che la cybersecurity riguarda l'intera organizzazione e le sue interazioni,VERO
+Modulo 3 - Unità didattica 2,Il NIST CSF 2.0,"Fornisce indicazioni più specifiche sul rischio di terze parti, integrando le linee guida sulla catena di fornitura del software nella funzione Govern",VERO
+Modulo 3 - Unità didattica 2,Il NIST CSF 2.0,"Fornisce indicazioni più specifiche sul rischio di GDPR, integrando le linee guida sulla privacy e sul trattamento dei dati sensibili",FALSO
+Modulo 3 - Unità didattica 2,Il NIST Cyber Security Framework,È uno standard che non è mai stato revisionato dalla prima pubblicazione,FALSO
+Modulo 3 - Unità didattica 2,Il NIST Cyber Security Framework,Rispetto all’ISO/IEC 27001 non parla di contromisure ma di risultati o effetti ottenuti realizzando determinate attività,VERO
+Modulo 3 - Unità didattica 2,Il NIST Cyber Security Framework,Prevede la certificazione come l’ISO 27001,FALSO
+Modulo 3 - Unità didattica 2,Il NIST Cyber Security Framework,Prevede solamente un livello di implementazione,FALSO
+Modulo 3 - Unità didattica 2,Il NIST Cyber Security Framework,Contiene numerosi riferimenti informativi ad altri standard,VERO
+Modulo 3 - Unità didattica 2,Il NIST Cyber Security Framework,Prevede quattro livelli implementativi o Tiers,VERO
+Modulo 3 - Unità didattica 2,Il NIST Cybersecurity Framework,È un insieme di linee guida per mitigare i rischi di sicurezza informatica organizzativa.,VERO
+Modulo 3 - Unità didattica 2,Il NIST Cybersecurity Framework,È stato pubblicato dal NIST avendo come obiettivo la realizzazione di uno standard equivalente alla serie ISO/IEC 27000.,FALSO
+Modulo 3 - Unità didattica 2,Il NIST Cybersecurity Framework,"È composto da quattro parti: Framework Core, Framework Implementation Tiers, Framework Profiles e Framework Deployment.",FALSO
+Modulo 3 - Unità didattica 2,Il NIST Cybersecurity Framework,"Realizza un quadro che ""fornisce una tassonomia di alto livello dei risultati relativi alla sicurezza informatica e una metodologia per valutare e gestire tali risultati"".",VERO
+Modulo 3 - Unità didattica 2,Il NIST Cybersecurity Framework,"Realizza un quadro che ""fornisce una tassonomia dettagliata dei risultati della sicurezza informatica e una valutazione di tali risultati"".",FALSO
+Modulo 3 - Unità didattica 2,Il NIST Cybersecurity Framework,Realizza un quadro che permette orientamenti sulla protezione della privacy e delle libertà civili in un contesto di sicurezza informatica.,VERO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication 800-39 ,"Ha come titolo: “Managing Information Security Risk”, Organization, Mission, and Information System View.",VERO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication 800-39 ,"Ha come titolo: “Managing Risk in Information Security”, Organization, Mission, and Information System View.",FALSO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication 800-39 ,"Ha come titolo: “Security of Information Risk”, Organization, Mission, and Information System View.",FALSO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication 800-39 ,È il documento di punta della serie di standard e linee guida per la sicurezza delle informazioni sviluppati dal NIST in risposta alla FISMA (Federal Information Security Modernization Act) del Cybersecurity & Infrastructure Security Agency.,VERO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication 800-39 ,È il documento di punta della serie di standard e linee guida per la sicurezza delle informazioni sviluppati dal NIST in risposta all’FIPS (Federal Information Processing Standard) del governo degli Stati Uniti d’America.,FALSO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication 800-39 ,Ha come scopo il fornire una guida per un programma ampio e integrato a livello di organizzazione per la gestione del rischio per la sicurezza delle informazioni in relazione al funzionamento e all'uso dei sistemi informativi federali degli Stati Uniti.,VERO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication SP 800-82 Rev. 2,È un documento che fornisce una guida su come proteggere i sistemi di controllo industriale (ICS).,VERO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication SP 800-82 Rev. 2,È una pubblicazione che fornisce un catalogo integrativo di controlli di sicurezza e privacy per i sistemi informativi e le organizzazioni.,FALSO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication SP 800-82 Rev. 2,È il documento di punta della serie di standard e linee guida per la sicurezza delle informazioni sviluppati dal NIST in risposta alla FISMA della Cybersecurity & Infrastructure Security Agency americana.,FALSO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication SP 800-82 Rev. 2,Fa parte della serie di pubblicazioni speciali relative alla computer security.,VERO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication SP 800-82 Rev. 2,Fa parte della serie di pubblicazioni speciali che propongono guide pratiche e usabili di soluzioni per la cybersecurity.,FALSO
+Modulo 3 - Unità didattica 2,Il NIST Special Publication SP 800-82 Rev. 2,Fa parte della serie di pubblicazioni che sono documenti rilevanti di Information Technology.,FALSO
+Modulo 3 - Unità didattica 2,Il PLC (Programmable Logic Controller),È un sistema di controllo a logica programmabile utilizzato per le sue caratteristiche real-time,VERO
+Modulo 3 - Unità didattica 2,Il PLC (Programmable Logic Controller),Si interfaccia attraverso gli I/O con motori/attuatori e sensori a macchine e impianti permettendo di realizzare logiche di automazione,VERO
+Modulo 3 - Unità didattica 2,Il PLC (Programmable Logic Controller),"Utilizza sempre sistemi operativi standard come, ad esempio, MS Windows",FALSO
+Modulo 3 - Unità didattica 2,Il PLC (Programmable Logic Controller),Utilizza tipicamente sistemi operativi con caratteristiche real-time o estensioni che permettano il determinismo,VERO
+Modulo 3 - Unità didattica 2,Il PLC (Programmable Logic Controller),Non è mai collegabile a internet,FALSO
+Modulo 3 - Unità didattica 2,Il PLC (Programmable Logic Controller),Per le sue caratteristiche non ha mai problematiche di sicurezza informatica,FALSO
+Modulo 3 - Unità didattica 2,"Il Requisito Fondazionale ""Resouce Availability (RE)"" di ISA/IEC 62443-1-1","Ha come obiettivo fondamentale assicurare che le risorse essenziali rimangano disponibili anche in caso di attacco informatico o guasto, per evitare il degrado dei servizi.",VERO
+Modulo 3 - Unità didattica 2,"Il Requisito Fondazionale ""Resouce Availability (RE)"" di ISA/IEC 62443-1-1","Ha come obiettivo principale la disponibilità per quel che riguarda la sicurezza informatica IT, non OT.",FALSO
+Modulo 3 - Unità didattica 2,"Il Requisito Fondazionale ""Resouce Availability (RE)"" di ISA/IEC 62443-1-1","Richiede che per garantire le risorse durante un incidente si applichi il principio della Least Functionality (minima funzionalità), ovvero disabilitare o limitare servizi e funzioni non necessari",FALSO
+Modulo 3 - Unità didattica 2,"Il Requisito Fondazionale ""Resouce Availability (RE)"" di ISA/IEC 62443-1-1","Richiede che i componenti del sistema di controllo devono gestire attivamente l'allocazione delle risorse (es. memoria, banda di rete, cicli di CPU) per prevenire attacchi mirati all'esaurimento delle stesse",VERO
+Modulo 3 - Unità didattica 2,"Il Requisito Fondazionale ""Resouce Availability (RE)"" di ISA/IEC 62443-1-1",Richiede che per ciascun sistema siano disponibili in backup della configurazione completa per consentire un ripristino completo del sistema in caso di guasto o compromissione,VERO
+Modulo 3 - Unità didattica 2,"Il Requisito Fondazionale ""Resouce Availability (RE)"" di ISA/IEC 62443-1-1",Prevede che l'intensità e la robustezza richieste si basino sull'analisi dei rischi e sul livello di sicurezza desiderato (da SL 1 a SL 4),VERO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) di ISA/IEC 62443,Richiede che il flusso di dati sia limitato solo a ciò che è necessario per la funzione operativa prevista.,VERO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) di ISA/IEC 62443,Consente qualsiasi comunicazione tra zone e condotti purché siano cifrati.,FALSO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) di ISA/IEC 62443,Significa definire zone e conduit e stabilire regole di comunicazione ammesse tra di essi.,VERO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) di ISA/IEC 62443,Riguarda soltanto la protezione dei dati a riposo nei dispositivi di automazione,FALSO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) di ISA/IEC 62443,E' uno dei sette Requisiti Fondazionali (Foundational Requirements) definiti dalla IEC 62443,VERO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) di ISA/IEC 62443,Può essere implementato con l'ausili di firewall industriali per permettono la comunicazione solo attraverso le porte e mediante i protocolli strettamente necessari,VERO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) ha tra gli obiettivi:,Limitare la propagazione degli attacchi: impedendo che un attacco informatico si propaghi da una zona a un'altra della rete o del sistema,VERO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) ha tra gli obiettivi:,Ridurre l'esposizione dei dati sensibili: limitando l'accesso ai dati sensibili e critici solo alle zone e ai sistemi che ne hanno bisogno,VERO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) ha tra gli obiettivi:,Migliorare la sicurezza della rete: riducendo il numero di punti di attacco e limitando la possibilità di movimenti laterali degli attaccanti,VERO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) ha tra gli obiettivi:,Migliorare la sicurezza della rete occupandosi direttamente dell'autenticazione degli utenti,FALSO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) ha tra gli obiettivi:,Migliorare la protezione dei dati in transito su Internet,FALSO
+Modulo 3 - Unità didattica 2,Il Requisito Fondazionale Restrict Data Flow (RDF) ha tra gli obiettivi:,Rilevare o rendere visibili gli attacchi informatici,VERO
+Modulo 3 - Unità didattica 2,"Il risultato atteso NIST CSF ID.AM-08: Sistemi, hardware, software, servizi e dati vengono gestiti durante tutto il loro ciclo di vita vuole significare","Che per tutti i sistemi, gli hardware i software i sevizi e i dati è necessario gestire la configurazione e identificare la durata del ciclo di vita",VERO
+Modulo 3 - Unità didattica 2,"Il risultato atteso NIST CSF ID.AM-08: Sistemi, hardware, software, servizi e dati vengono gestiti durante tutto il loro ciclo di vita vuole significare","Che per tutti i sistemi, gli hardware i software è necessario effettuare costantemente gli aggiornamenti di sicurezza durante tutto il ciclo di vita",VERO
+Modulo 3 - Unità didattica 2,"Il risultato atteso NIST CSF ID.AM-08: Sistemi, hardware, software, servizi e dati vengono gestiti durante tutto il loro ciclo di vita vuole significare","Che per tutti i sistemi, gli hardware i software fuori dal ciclo di vita, ovvero obsoleti, devono essere sostituti",VERO
+Modulo 3 - Unità didattica 2,"Il risultato atteso NIST CSF ID.AM-08: Sistemi, hardware, software, servizi e dati vengono gestiti durante tutto il loro ciclo di vita vuole significare",Che tutti i sistemi e i software installati devono avere una versione (o un riferimento di configurazione) che deve essere legata alla versione dei relativi sotto-componenti,VERO
+Modulo 3 - Unità didattica 2,"Il risultato atteso NIST CSF ID.AM-08: Sistemi, hardware, software, servizi e dati vengono gestiti durante tutto il loro ciclo di vita vuole significare","Che tutti i sistemi, gli hardware, i software, i sevizi e i dati deveono essere inventariati",FALSO
+Modulo 3 - Unità didattica 2,"Il risultato atteso NIST CSF ID.AM-08: Sistemi, hardware, software, servizi e dati vengono gestiti durante tutto il loro ciclo di vita vuole significare","Che tutti i sistemi, gli hardware, i software, i sevizi e i dati devono essere gestite dagli operatori che hanno l'autorità per farlo",FALSO
+Modulo 3 - Unità didattica 2,In un CSMS (Cyber Security Management System) secondo ISA/IEC 62443,I requisiti sono associati agli elementi costitutivi raggruppati in macrocategorie.,VERO
+Modulo 3 - Unità didattica 2,In un CSMS (Cyber Security Management System) secondo ISA/IEC 62443,"Le macrocategorie sono: “Risk Analysis”, “Indirizzare il rischio con il CSMS”, “Monitorare e migliorare il CSMS”.",VERO
+Modulo 3 - Unità didattica 2,In un CSMS (Cyber Security Management System) secondo ISA/IEC 62443,Ad ogni elemento è associato un elenco di requisiti specifici.,VERO
+Modulo 3 - Unità didattica 2,In un CSMS (Cyber Security Management System) secondo ISA/IEC 62443,Gli elementi non sono ulteriormente raggruppati all’interno delle macrocategorie.,FALSO
+Modulo 3 - Unità didattica 2,In un CSMS (Cyber Security Management System) secondo ISA/IEC 62443,Ad ogni elemento è associato solo un requisito specifico.,FALSO
+Modulo 3 - Unità didattica 2,In un CSMS (Cyber Security Management System) secondo ISA/IEC 62443,"Per ciascun elemento sono rappresentati gli obiettivi, la descrizione e il fondamento logico (rationale) dell’elemento.",VERO
+Modulo 3 - Unità didattica 2,ISO/IEC 27002 permette di strutturare i controlli secondo uno schema che prevede i seguenti livelli,Aree di Controllo,VERO
+Modulo 3 - Unità didattica 2,ISO/IEC 27002 permette di strutturare i controlli secondo uno schema che prevede i seguenti livelli,Aree di Rischio,FALSO
+Modulo 3 - Unità didattica 2,ISO/IEC 27002 permette di strutturare i controlli secondo uno schema che prevede i seguenti livelli,Zone Locali e Remote,FALSO
+Modulo 3 - Unità didattica 2,ISO/IEC 27002 permette di strutturare i controlli secondo uno schema che prevede i seguenti livelli,Categorie di Controllo,VERO
+Modulo 3 - Unità didattica 2,ISO/IEC 27002 permette di strutturare i controlli secondo uno schema che prevede i seguenti livelli,Contromisure (Controlli),VERO
+Modulo 3 - Unità didattica 2,ISO/IEC 27002 permette di strutturare i controlli secondo uno schema che prevede i seguenti livelli,Categorie di Allarme,FALSO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Attività Operative"" definisce che:","L'organizzazione deve pianificare, implementare e controllare i processi necessari per soddisfare i requisiti e implementare le azioni predeterminate",VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Attività Operative"" definisce che:",L'organizzazione deve esaminare anche le conseguenze dei cambiamenti non voluti,VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Attività Operative"" definisce che:",L'organizzazione deve eseguire valutazioni periodiche del rischio per la sicurezza delle informazioni o quando si verificano cambiamenti significativi,VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Attività Operative"" definisce che:",L'organizzazione deve determinare la necessità di comunicazioni interne ed esterne rilevanti per l'ISMS,FALSO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Attività Operative"" definisce che:",L'organizzazione deve attuare il piano di trattamento dei rischi per la sicurezza delle informazioni,VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Attività Operative"" definisce che:",L'organizzazione deve effettuare il monitoraggio sull'efficacia dell' ISMS,FALSO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Contesto dell'organizzazione"" definisce che:",L'organizzazione deve determinare le questioni esterne e interne che sono rilevanti per i suoi obiettivi,VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Contesto dell'organizzazione"" definisce che:",L'organizzazione deve determinare solo le questioni interne che sono rilevanti per i suoi obiettivi,FALSO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Contesto dell'organizzazione"" definisce che:",L'organizzazione deve determinare i soggetti interessati rilevanti rispetto al sistema di gestione della sicurezza delle informazioni,VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Contesto dell'organizzazione"" definisce che:",L'organizzazione deve determinare i confini e l'applicabilità del sistema di gestione della sicurezza delle informazioni per stabilirne l'ambito,VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Contesto dell'organizzazione"" definisce che:","L'organizzazione deve stabilire, implementare, mantenere e migliorare continuamente il sistema di gestione della sicurezza delle informazioni",VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Contesto dell'organizzazione"" definisce che:",L'organizzazione deve applicare il sistema di gestione della sicurezza delle informazioni in maniera uniforme anche senza stabilirne l'ambito,FALSO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Supporto"" definisce che:","L'organizzazione abbia le persone, le competenze, le infrastrutture e l'ambiente di lavoro necessari per supportare il SGSI",VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Supporto"" definisce che:",Siano identificati i requisiti di competenza per il personale coinvolto nella gestione della sicurezza delle informazioni e assicurare che siano soddisfatti,VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Supporto"" definisce che:","Il personale sia sesnibilizzato sulla politica di sicurezza delle informazioni, i contributi individuali alla sicurezza delle informazioni, e le implicazioni della mancata conformità ai requisiti del SGSI",VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Supporto"" definisce che:",Siano stabiliti processi di comunicazione efficaci per garantire che le informazioni rilevanti sulla sicurezza siano condivise internamente ed esternamente,VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Supporto"" definisce che:",Esistano le basi per l'implementazione di un SGSI ma non per il suo mantenimento,FALSO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Supporto"" definisce che:",Le attività operative per l'istituzione e il mantenimento di un SGSI siano completamente realizzate,FALSO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Valutazione delle Prestazioni""",Definisce i criteri di valutazione del rischio operativo sulla sicurezza delle informazioni,FALSO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Valutazione delle Prestazioni""","Definisce cosa deve essere monitorato e misurato, compresi i processi e i controlli sulla sicurezza delle informazioni",VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Valutazione delle Prestazioni""",Definisce quando devono essere eseguiti il monitoraggio e la misurazione,VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Valutazione delle Prestazioni""","Definisce i metodi di monitoraggio, misurazione, analisi e valutazione, a seconda dei casi, per garantire risultati validi.",VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Valutazione delle Prestazioni""",Permette all'organizzazione di valutare le prestazioni di sicurezza delle informazioni e l'efficacia del sistema di gestione della sicurezza delle informazioni,VERO
+Modulo 3 - Unità didattica 2,"L'area tematica dei requisiti ISO/IEC 27001 ""Valutazione delle Prestazioni""",Non si occupa di definire i criteri e le modalità di ispezione (Audit Interno) delegati alle Attività Operative,FALSO
+Modulo 3 - Unità didattica 2,L'attributo dei controlli ISO/IEC 27001:2022 Cybersecurity Concepts,"Permettono di associare, e quindi etichettare, un controllo ad una funzione del NIST CSF Core",VERO
+Modulo 3 - Unità didattica 2,L'attributo dei controlli ISO/IEC 27001:2022 Cybersecurity Concepts,"Permettono di associare, e quindi etichettare, un controllo ISO/IEC 27001 ad una funzione dell'IEC 62443-3-2",FALSO
+Modulo 3 - Unità didattica 2,L'attributo dei controlli ISO/IEC 27001:2022 Cybersecurity Concepts,"Può essere associato alle funzioni: Identify, Protect, Detect, Respond e Recover",VERO
+Modulo 3 - Unità didattica 2,L'attributo dei controlli ISO/IEC 27001:2022 Cybersecurity Concepts,"Può assumere uno dei seguenti livelli di sicurezza: SL1, SL2, SL3 o SL4",FALSO
+Modulo 3 - Unità didattica 2,L'attributo dei controlli ISO/IEC 27001:2022 Cybersecurity Concepts,"Può essere associato ai tipi: Preventive, Detective and Corrective",FALSO
+Modulo 3 - Unità didattica 2,L'attributo dei controlli ISO/IEC 27001:2022 Cybersecurity Concepts,"Può essere associato alle proprietà: Confidentiality, Integrity and Avalability",FALSO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 6 dell’ISO 27001 2013 Annex A “Organizzazione della Sicurezza delle Informazioni”,Ha tra gli obiettivi lo stabilire un quadro di riferimento per intraprendere e controllare l’attuazione e l’esercizio della sicurezza delle informazioni all’interno dell’organizzazione,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 6 dell’ISO 27001 2013 Annex A “Organizzazione della Sicurezza delle Informazioni”,Ha tra gli obiettivi l’assicurare la sicurezza del telelavoro e dell’uso di dispositivi portatili,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 6 dell’ISO 27001 2013 Annex A “Organizzazione della Sicurezza delle Informazioni”,È composta da quattro gruppi di controlli,FALSO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 6 dell’ISO 27001 2013 Annex A “Organizzazione della Sicurezza delle Informazioni”,È composta da due gruppi di controlli,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 6 dell’ISO 27001 2013 Annex A “Organizzazione della Sicurezza delle Informazioni”,Ha tra i controlli la separazione dei compiti e le aree di responsabilità,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 6 dell’ISO 27001 2013 Annex A “Organizzazione della Sicurezza delle Informazioni”,Ha tra i controlli la condivisione dei compiti e le aree di responsabilità,FALSO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 7 dell’ISO 27001 2013 Annex A “Sicurezza delle Risorse Umane” include le seguenti Categorie di Controllo,Prima dell’impiego,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 7 dell’ISO 27001 2013 Annex A “Sicurezza delle Risorse Umane” include le seguenti Categorie di Controllo,Selezione del personale,FALSO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 7 dell’ISO 27001 2013 Annex A “Sicurezza delle Risorse Umane” include le seguenti Categorie di Controllo,Durante l’impiego,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 7 dell’ISO 27001 2013 Annex A “Sicurezza delle Risorse Umane” include le seguenti Categorie di Controllo,Formazione del Personale,FALSO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 7 dell’ISO 27001 2013 Annex A “Sicurezza delle Risorse Umane” include le seguenti Categorie di Controllo,Discontinuità del rapporto di lavoro,FALSO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 7 dell’ISO 27001 2013 Annex A “Sicurezza delle Risorse Umane” include le seguenti Categorie di Controllo,Cessazione e variazione del rapporto di lavoro,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 8 dell’ISO 27001 2013 Annex A “Gestione degli asset”,Ha tra gli obiettivi l’identificazione degli asset dell’organizzazione e definire adeguate responsabilità per la loro protezione,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 8 dell’ISO 27001 2013 Annex A “Gestione degli asset”,Ha tra gli obiettivi l’assicurare che le informazioni ricevano un adeguato livello di protezione in linea con la loro importanza per l’organizzazione,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 8 dell’ISO 27001 2013 Annex A “Gestione degli asset”,"Ha tra gli obiettivi il prevenire la divulgazione non autorizzata, la modifica, la rimozione o la distruzione delle informazioni archiviate sui supporti",VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 8 dell’ISO 27001 2013 Annex A “Gestione degli asset”,Ha tra i controlli la “Sicurezza delle informazioni nella gestione dei progetti”,FALSO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 8 dell’ISO 27001 2013 Annex A “Gestione degli asset”,Ha tra i controlli la “Classificazione delle informazioni”,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 8 dell’ISO 27001 2013 Annex A “Gestione degli asset”,Ha tra i controlli la “Non memorizzazione delle informazioni”,FALSO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 9 dell’ISO 27001 2013 Annex A “Controllo degli Accessi (logici)” include le seguenti Categorie di Controllo,Requisiti di business per il controllo degli accessi,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 9 dell’ISO 27001 2013 Annex A “Controllo degli Accessi (logici)” include le seguenti Categorie di Controllo,Gestione degli accessi degli utenti,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 9 dell’ISO 27001 2013 Annex A “Controllo degli Accessi (logici)” include le seguenti Categorie di Controllo,Responsabilità dell’utente,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 9 dell’ISO 27001 2013 Annex A “Controllo degli Accessi (logici)” include le seguenti Categorie di Controllo,Responsabilità del manager,FALSO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 9 dell’ISO 27001 2013 Annex A “Controllo degli Accessi (logici)” include le seguenti Categorie di Controllo,Controllo degli accessi ai sistemi e alle applicazioni,VERO
+Modulo 3 - Unità didattica 2,L’Area di Controllo 9 dell’ISO 27001 2013 Annex A “Controllo degli Accessi (logici)” include le seguenti Categorie di Controllo,Controllo degli accessi fisici ai sistemi e alle applicazioni,FALSO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,Fornisce un quadro flessibile per affrontare e mitigare le vulnerabilità di sicurezza attuali e future nei sistemi di controllo e automazione industriale (IACS).,VERO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,Sono standard applicabili a tutti i settori industriali e alle infrastrutture critiche.,VERO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,Ha un posizionamento che scende sino a livello dell’impianto.,VERO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,Ha un posizionamento che parte dal coinvolgimento dell’amministratore delegato e del consiglio di amministrazione.,FALSO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,È costituita da quattro famiglie di standard ancora in aggiornamento.,VERO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,Non riguarda direttamente gli SCADA.,FALSO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,Fornisce un quadro di norme per affrontare e mitigare le vulnerabilità di sicurezza nei sistemi di controllo e automazione industriale (IACS),VERO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,Sono standard applicabili a tutti i settori industriali e alle infrastrutture critiche,VERO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,Ha un posizionamento che scende sino a livello dell'impianto,VERO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,Ha un posizionamento che parte dal coinvolgimento dell'amministratore delegato e del consiglio di amministrazione,FALSO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,È costituita da quattro famiglie di standard ancora in aggiornamento,VERO
+Modulo 3 - Unità didattica 2,La serie ISA/IEC 62443,Non riguarda direttamente gli SCADA,FALSO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,È costituita da quattro famiglie di standard con vari livelli di approfondimento.,VERO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,"È rappresentabile in quattro gruppi di standard che possono rappresentare: “Modelli”, “Gestione”, “Sistema” e “Componente”.",VERO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,È costituita da tre famiglie di standard con vari livelli di approfondimento più uno non ancora pubblicato.,FALSO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,"È composta dalle famiglie: “Modelli”, “Gestione”, “Organizzazione” e “Componente”.",FALSO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,"È composta dalle famiglie: “General”, “Policy & Procedures”, “System” e “Component”.",VERO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,È costituita da famiglie di standard con lo stesso numero di documenti in ogni famiglia.,FALSO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,È costituita da famiglie di standard con vari documenti in diversi stadi di sviluppo (o ancora in fase di sviluppo).,VERO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,E' composta da quattro famiglie di standard corrispondenti a quattro profili di approfondimento,VERO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,E' composta da una solo gruppo organico di standard in cui sono sviluppati diversi livelli di approfondimento,FALSO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,Prevede livelli di approfondimento che vanno dal livello generale ed arrivano sino al livello del componente inteso come prodotto utilizzato all'interno di un sistema.,VERO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,"Prevede un livello Generale dove sono presenti le informazioni introduttive, vocabolari, modelli, concetti e casi d'uso",VERO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,"Prevede un livello Sistema ovvero approcci di valutazione, livelli di requisiti di sicurezza e tecnologie dei prodotti utilizzati",FALSO
+Modulo 3 - Unità didattica 2,La struttura di ISA/IEC 62443,E' immutabile sia nelle famiglie che nel numero dei documenti presenti in ciascuna famiglia,FALSO
+Modulo 3 - Unità didattica 2,Le aziende nel settore terziario avanzato,"Sono imprese che realizzano attività di intermediazione, o di produzione indiretta di beni, tramite il commercio degli stessi",FALSO
+Modulo 3 - Unità didattica 2,Le aziende nel settore terziario avanzato,Sono imprese di servizio che basano il proprio core business sul know-how e sui servizi intellettuali,VERO
+Modulo 3 - Unità didattica 2,Le aziende nel settore terziario avanzato,Possono essere le aziende che gestiscono i trasporti e le comunicazioni,FALSO
+Modulo 3 - Unità didattica 2,Le aziende nel settore terziario avanzato,Possono essere le società di Ingegneria,VERO
+Modulo 3 - Unità didattica 2,Le aziende nel settore terziario avanzato,Possono essere le aziende che realizzano attività di ricerca e sviluppo di una nuova tecnologia,VERO
+Modulo 3 - Unità didattica 2,Le aziende nel settore terziario avanzato,Possono essere le aziende ICT,VERO
+Modulo 3 - Unità didattica 2,Le Contromisure secondo ISA/IEC 62443-1-1,Sono le contromisure utilizzate per definire il livello di sicurezza di una zona o un conduit,VERO
+Modulo 3 - Unità didattica 2,Le Contromisure secondo ISA/IEC 62443-1-1,Possono essere tecniche (ovvero policies e procedure),FALSO
+Modulo 3 - Unità didattica 2,Le Contromisure secondo ISA/IEC 62443-1-1,Possono essere amministrative,VERO
+Modulo 3 - Unità didattica 2,Le Contromisure secondo ISA/IEC 62443-1-1,Possono essere fisiche,VERO
+Modulo 3 - Unità didattica 2,Le Contromisure secondo ISA/IEC 62443-1-1,Eliminano completamente il rischio,FALSO
+Modulo 3 - Unità didattica 2,Le Contromisure secondo ISA/IEC 62443-1-1,Permettono di raggiungere il Security Level Capability,VERO
+Modulo 3 - Unità didattica 2,Le Funzioni del Framework Core,Sono funzioni che organizzano le attività di sicurezza informatica di un'organizzazione,VERO
+Modulo 3 - Unità didattica 2,Le Funzioni del Framework Core,"Sono concorrenti tra di loro, nel senso che sono attive tutte contemporaneamente",VERO
+Modulo 3 - Unità didattica 2,Le Funzioni del Framework Core,"Sono sequenziali tra di loro, nel senso che sono attivate una dopo l'altra nel rispettivo ordine",FALSO
+Modulo 3 - Unità didattica 2,Le Funzioni del Framework Core,"Sono suddivise in categorie, ovvero in gruppi di risultati di sicurezza informatica",VERO
+Modulo 3 - Unità didattica 2,Le Funzioni del Framework Core,Sono divise in sottocategorie ovvero i controlli da effettuare,FALSO
+Modulo 3 - Unità didattica 2,Le Funzioni del Framework Core,Devono essere sempre attive,VERO
+Modulo 3 - Unità didattica 2,Le guide verticali NIST Special Publications sono raggruppate in,SP 800 Computer security.,VERO
+Modulo 3 - Unità didattica 2,Le guide verticali NIST Special Publications sono raggruppate in,SP 1800 Cybersecurity Practice Guides.,VERO
+Modulo 3 - Unità didattica 2,Le guide verticali NIST Special Publications sono raggruppate in,SP 1700 Cybersecurity Development Guides.,FALSO
+Modulo 3 - Unità didattica 2,Le guide verticali NIST Special Publications sono raggruppate in,SP 500 Information Technology (Relevant Documents).,VERO
+Modulo 3 - Unità didattica 2,Le guide verticali NIST Special Publications sono raggruppate in,SP 300 Information Technology (Relevant Documents).,FALSO
+Modulo 3 - Unità didattica 2,Le guide verticali NIST Special Publications sono raggruppate in,SP 600 Computer System Management.,FALSO
+Modulo 3 - Unità didattica 2,Le sottocategorie del NIST CSF Framework Core,Sono i risultati che si possono ottenere,VERO
+Modulo 3 - Unità didattica 2,Le sottocategorie del NIST CSF Framework Core,Fanno sempre riferimento ad esempi pratici presenti nei riferimenti informativi,VERO
+Modulo 3 - Unità didattica 2,Le sottocategorie del NIST CSF Framework Core,Sono raggruppate in categorie che poi compongono le funzioni NIST CSF,VERO
+Modulo 3 - Unità didattica 2,Le sottocategorie del NIST CSF Framework Core,Non sono assimilabili ai controlli ISO27001,FALSO
+Modulo 3 - Unità didattica 2,Le sottocategorie del NIST CSF Framework Core,Possono fare riferimento ad altri standard di settore,VERO
+Modulo 3 - Unità didattica 2,Le sottocategorie del NIST CSF Framework Core,Di solito non fanno mai riferimento ad altri standard di settore,FALSO
+Modulo 3 - Unità didattica 2,Le tipologie dei Livelli per la gestione continua dei SL (Security Levels) secondo ISA/IEC 62443-1-1,"Possono essere Target (SL-T), Achieved (SL-A) e Potential (SL-P)",FALSO
+Modulo 3 - Unità didattica 2,Le tipologie dei Livelli per la gestione continua dei SL (Security Levels) secondo ISA/IEC 62443-1-1,Sono utilizzate per mantenere aggiornate le contromisure di zone e conduits nel tempo,VERO
+Modulo 3 - Unità didattica 2,Le tipologie dei Livelli per la gestione continua dei SL (Security Levels) secondo ISA/IEC 62443-1-1,"Possono essere Target (SL-T), Achieved (SL-A) e Capability (SL-C)",VERO
+Modulo 3 - Unità didattica 2,Le tipologie dei Livelli per la gestione continua dei SL (Security Levels) secondo ISA/IEC 62443-1-1,Rappresentano: SL-T il livello di sicurezza che si vuole raggiungere e SL-A quello effettivamente raggiunto in un determinato momento (considerando che SL-A<=SL-T),FALSO
+Modulo 3 - Unità didattica 2,Le tipologie dei Livelli per la gestione continua dei SL (Security Levels) secondo ISA/IEC 62443-1-1,Rappresentano: SL-T il livello di sicurezza che si vuole raggiungere e SL-A quello effettivamente raggiunto in un determinato momento (considerando che SL-A>=SL-T),VERO
+Modulo 3 - Unità didattica 2,Le tipologie dei Livelli per la gestione continua dei SL (Security Levels) secondo ISA/IEC 62443-1-1,Si gestiscono mediante le contromisure che possono essere unicamente di tipo tecnico,FALSO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Dividono una architettura fisica (dispositivi di rete e connessioni) in zone omogenee raggruppando i dispositivi HW con requisiti di sicurezza comuni.,FALSO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Dividono un sistema in aree (o zone) omogenee raggruppando le risorse (logiche o fisiche) con requisiti di sicurezza comuni.,VERO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Dividono un sistema in aree omogenee raggruppando le risorse fisiche con requisiti di sicurezza comuni.,FALSO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,"Hanno requisiti di sicurezza definiti da Security Level (SL), il livello richiesto per una zona è determinato dall'analisi del rischio.",VERO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Hanno confini che separano gli elementi all'interno della zona da quelli esterni.,VERO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Hanno confini che separano gli elementi fisici da quelli virtualizzati.,FALSO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Possono includere impianti presenti in siti fisici differenti.,FALSO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Possono essere suddivise in sottozone che definiscono diversi livelli di sicurezza e quindi consentono una difesa in profondità.,VERO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Dividono un sistema in zone omogenee raggruppando le risorse (logiche o fisiche) con requisiti di sicurezza comuni,VERO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Dividono una architettura fisica (dispositivi di rete e connessioni) in zone omogenee raggruppando i dispositivi HW con requisiti di sicurezza comuni,FALSO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,"Hanno requisiti di sicurezza definiti da Security Level (SL), il livello richiesto per una zona è determinato dall'analisi del rischio",VERO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Sono connesse attraverso i conduits che raggruppano gli elementi che ne consentono la comunicazione,VERO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Possono essere suddivise in sottozone con livelli di sicurezza differenti consentendo una difesa in profondità,VERO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Possono estendersi includendo impianti presenti in siti fisici differenti,FALSO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Dividono una architettura fisica (dispositivi di rete e connessioni) in zone omogenee raggruppando i dispositivi con requisiti di sicurezza comuni,FALSO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Dividono un sistema in zone omogenee raggruppando le risorse (logiche o fisiche) con requisiti di sicurezza comuni,VERO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,"Hanno requisiti di sicurezza definiti da Security Level (SL), il livello richiesto per una zona è determinato dall'analisi del rischio",VERO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Hanno confini che separano gli elementi all'interno della zona da quelli esterni,VERO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Possono includere impianti presenti in siti fisici differenti,FALSO
+Modulo 3 - Unità didattica 2,Le zone secondo ISA/IEC 62443,Possono essere suddivise in sottozone che definiscono diversi livelli di sicurezza e quindi consentono una difesa in profondità,VERO
+Modulo 3 - Unità didattica 2,Lo SCADA,È l’acronimo di Supervisory Control and Data Acquisition,VERO
+Modulo 3 - Unità didattica 2,Lo SCADA,È l’acronimo di Supervisory Classification and Data Analysis,FALSO
+Modulo 3 - Unità didattica 2,Lo SCADA,È un sistema di Supervisione e di Acquisizione dei Dati,VERO
+Modulo 3 - Unità didattica 2,Lo SCADA,"È un sistema (stand-alone o basato su architetture di computer) che permette la conduzione di un impianto, una linea o una macchina industriale da parte degli operatori",VERO
+Modulo 3 - Unità didattica 2,Lo SCADA,"È un sistema unicamente stand-alone che permette la conduzione di un impianto, una linea o una macchina industriale da parte degli operatori",FALSO
+Modulo 3 - Unità didattica 2,Lo SCADA,Richiede strategie di protezione particolari perché utilizza protocolli di comunicazione realtime di solito non gestiti dai principali firewall ed endpoint protection,VERO
+Modulo 3 - Unità didattica 2,Lo standard ISO/IEC 27000-series,È una serie di norme internazionali che costituiscono uno standard relativo alla sicurezza informatica.,VERO
+Modulo 3 - Unità didattica 2,Lo standard ISO/IEC 27000-series,È uno standard monolitico costituito da un solo documento che unisce insieme una serie di norme internazionali.,FALSO
+Modulo 3 - Unità didattica 2,Lo standard ISO/IEC 27000-series,"È denominato ""Information Security Management Systems (ISMS) Family of Standards"" e si prefigge di proteggere le informazioni che vengono mantenute ed elaborate da un’organizzazione.",VERO
+Modulo 3 - Unità didattica 2,Lo standard ISO/IEC 27000-series,"Permette alle organizzazioni di sviluppare ed implementare un proprio sistema per la gestione della sicurezza informatica per le informazioni finanziarie, la proprietà intellettuale ed i dati dei dipendenti, di clienti o di terzi.",VERO
+Modulo 3 - Unità didattica 2,Lo standard ISO/IEC 27000-series,È stato generato dagli standard British Standard BS 7799-1 e -2.,VERO
+Modulo 3 - Unità didattica 2,Lo standard ISO/IEC 27000-series,Si focalizza sulla protezione dei dati esclusivamente attraverso il consolidamento della tecnologia di rete.,FALSO
+Modulo 3 - Unità didattica 2,Nel Framework Core (di NIST CSF) le Categorie,Sono le suddivisioni di ciascuna delle Funzioni Concorrenti in gruppi di possibili fattori di rischio di sicurezza informatica legati alle esigenze programmatiche e ad attività generiche.,FALSO
+Modulo 3 - Unità didattica 2,Nel Framework Core (di NIST CSF) le Categorie,Sono le suddivisioni di ciascuna delle Funzioni Concorrenti in gruppi di risultati di sicurezza informatica strettamente legati alle esigenze programmatiche e ad attività particolari.,VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core (di NIST CSF) le Categorie,"Possono includere, ad esempio, ""Gestione degli asset"", ""Gestione dell'identità e controllo degli accessi"" e ""Processi di rilevamento"".",VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core (di NIST CSF) le Categorie,"Sono ulteriormente suddivise in sottocategorie le quali forniscono una serie di risultati che, sebbene non esaustivi, aiutano a supportare il raggiungimento degli obiettivi (risultati o outcomes) in ciascuna categoria.",VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core (di NIST CSF) le Categorie,"Sono ulteriormente suddivise in sottocategorie che possono includere, ad esempio, ""I sistemi di informazione esterni sono catalogati"", ""I dati inattivi sono protetti"" o ""Le notifiche dai sistemi di rilevamento vengono esaminate"".",VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core (di NIST CSF) le Categorie,Sono ulteriormente suddivise in sottocategorie che sono associate a Riferimenti Informativi: esempi assolutamente esaustivi basati sulle esperienze dirette sul campo.,FALSO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Identify” è costituita dalle seguenti Categorie,Asset management.,VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Identify” è costituita dalle seguenti Categorie,Business Environment.,VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Identify” è costituita dalle seguenti Categorie,Analysis.,FALSO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Identify” è costituita dalle seguenti Categorie,Risk Mitigation.,FALSO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Identify” è costituita dalle seguenti Categorie,Risk Management Strategy.,VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Identify” è costituita dalle seguenti Categorie,Supply Chain Risk Management.,VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Protect” è costituita dalle seguenti Categorie,Identity Management and Access Control.,VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Protect” è costituita dalle seguenti Categorie,Awareness and Training.,VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Protect” è costituita dalle seguenti Categorie,Data Security.,VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Protect” è costituita dalle seguenti Categorie,Information Protection Processes & Procedures.,VERO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Protect” è costituita dalle seguenti Categorie,Anomalies and Events.,FALSO
+Modulo 3 - Unità didattica 2,Nel Framework Core di NIST CF la funzione “Protect” è costituita dalle seguenti Categorie,Protective Technology.,VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF Core le sottocategorie,Sono i risultati che si possono ottenere,VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF Core le sottocategorie,Fanno sempre riferimento ad esempi pratici presenti nei riferimenti informativi,VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF Core le sottocategorie,Sono raggruppate in categorie che poi compongono le funzioni NIST CSF,VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF Core le sottocategorie,Non sono assimilabili ai controlli ISO27001,FALSO
+Modulo 3 - Unità didattica 2,Nel NIST CSF Core le sottocategorie,Possono fare riferimento ad altri standard di settore,VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF Core le sottocategorie,Di solito non fanno mai riferimento ad altri standard di settore,FALSO
+Modulo 3 - Unità didattica 2,Nel NIST CSF i Framework Profile,"Possono essere visti come una fotografia dello stato corrente (o in un dato scenario di implementazione) di standard, linee guida e pratiche dell’organizzazione in relazione al Framework Core.",VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF i Framework Profile,"Possono essere utilizzati per identificare le opportunità per migliorare la posizione di sicurezza informatica confrontando un profilo ""corrente"" (lo stato attuale) con un profilo ""target"" (lo stato come lo si vorrebbe).",VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF i Framework Profile,"Possono essere sviluppati all’interno di un'organizzazione attraverso la revisione di tutte le Categorie e Sottocategorie e, sulla base di fattori di business/missione e di una valutazione del rischio, determinare quali sono più importanti, aggiungendo Categorie e Sottocategorie e utilizzando il profilo corrente per supportare la definizione delle priorità e la misurazione dei progressi verso il profilo target.",VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF i Framework Profile,I Profili racchiudono al loro interno gli obiettivi organizzativi in relazione al business ma non possono in nessun modo influenzare gli investimenti aziendali.,FALSO
+Modulo 3 - Unità didattica 2,Nel NIST CSF i Framework Profile,I Profili racchiuodono al loro interno la propensione al rischio dell’organizzazione in relazione alle minacce ambientali.,VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF i Framework Profile,I Profili racchiudono al loro interno i requisiti ma non le risorse in relazione ai risultati desiderati del Core.,FALSO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")",Forniscono un contesto su come un'organizzazione considera il rischio di sicurezza informatica e i processi in atto per gestirlo,VERO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")","Descrivono il grado in cui le pratiche di gestione del rischio di sicurezza informatica di un'organizzazione esibiscono le caratteristiche definite nel Framework (ad esempio, consapevole del rischio e delle minacce, ripetibile e adattivo)",VERO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")","Caratterizzano le pratiche di un'organizzazione in un intervallo, da Parziale (Tier 1) ad Adattativo (Tier 5)",FALSO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")",Riflettono una progressione da risposte informali e reattive (Tier 1) ad approcci agili e informati sui rischi (Tier 5),FALSO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")","Durante il processo di selezione del livello, un'organizzazione dovrebbe considerare le sue attuali pratiche di gestione del rischio, l'ambiente delle minacce, i requisiti legali e normativi, gli obiettivi aziendali/della missione e i vincoli organizzativi",VERO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")","Sono valutati considerando tre parametri che permettono di verificare il livello di sviluppo del Processo di Gestione del Rischio (1), l’Integrazione del Programma di Gestione del Rischio (2) all’interno della realtà aziendale e la capacità dell’organizzazione di partecipare ad un ecosistema di gestione del rischio più ampio della singola realtà aziendale (3)",VERO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")",Forniscono un contesto su come un'organizzazione considera il rischio di sicurezza informatica e i processi in atto per gestirlo,VERO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")",Descrivono il grado in cui le pratiche di gestione del rischio di sicurezza informatica di un'organizzazione esibiscono le caratteristiche definite nel Framework,VERO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")","Caratterizzano le pratiche di un'organizzazione in un intervallo, da Parziale (Tier 1) ad Adattativo (Tier 5)",FALSO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")",Riflettono una progressione da risposte informali e reattive (Tier 1) ad approcci agili e informati sui rischi (Tier 5),FALSO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")","Sono selezionati da un'organizzazione considerando le sue attuali pratiche di gestione del rischio, l'ambiente delle minacce, i requisiti legali e normativi, gli obiettivi aziendali/della missione e i vincoli organizzativi",VERO
+Modulo 3 - Unità didattica 2,"Nel NIST CSF i livelli di implementazione del framework (""Tier"")","Sono valutati considerando tre parametri che permettono di verificare il livello di sviluppo del Processo di Gestione del Rischio (1), l’Integrazione del Programma di Gestione del Rischio (2) all’interno della realtà aziendale e la capacità dell’organizzazione di partecipare ad un ecosistema di gestione del rischio più ampio della singola realtà aziendale (3)",VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Coordinamento dell’implementazione del Framework,"Il livello esecutivo (A) comunica le priorità della missione, le risorse disponibili e la tolleranza complessiva al rischio al livello di business/processo (B)",VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Coordinamento dell’implementazione del Framework,"Il livello aziendale di business/processo (B) utilizza le informazioni come input nel processo di gestione del rischio; quindi, collabora con il livello di implementazione/operativo (C) per comunicare le esigenze aziendali e creare un profilo",VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Coordinamento dell’implementazione del Framework,Il livello di implementazione/operativo (C) comunica l'avanzamento dell'implementazione del Profilo al livello di business/processo (B),VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Coordinamento dell’implementazione del Framework,Il livello aziendale/di processo (B) utilizza queste informazioni (Domanda 3) per eseguire una valutazione d'impatto,VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Coordinamento dell’implementazione del Framework,La gestione del livello business/processo (B) riporta i risultati di tale valutazione d'impatto (Domanda 4) al livello esecutivo (A) per informare il processo complessivo di gestione del rischio dell'organizzazione e al livello di implementazione/operativo (C) per le modifiche al processo,FALSO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Coordinamento dell’implementazione del Framework,"L'implementazione del Framework è coordinata su tre livelli all'interno dell'organizzazione: livello direzionale esecutivo (A), livello del business/processo (B) e livello di implementazione/operativo (C).",VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Framework Core,"È un insieme di attività di sicurezza informatica, risultati desiderati e riferimenti applicabili comuni a tutti i settori delle infrastrutture critiche (e per le altre organizzazioni).",VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Framework Core,"Presenta standard, linee guida e pratiche del settore che consentono la comunicazione di attività e risultati inerenti alla sicurezza informatica in tutta l'organizzazione dal livello manageriale sino a livello dell’implementazione e delle operations.",VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Framework Core,"È costituito da cinque funzioni concorrenti e continue: Identifica, Proteggi, Rileva, Rispondi, Recupera.",VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Framework Core,"È costituito da quattro funzioni concorrenti e continue: Identifica, Proteggi, Rileva, Rispondi.",FALSO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Framework Core,"Identifica le categorie e le sottocategorie chiave sottostanti per ciascuna funzione e le abbina a riferimenti informativi di esempio come standard, linee guida e pratiche esistenti per ciascuna sottocategoria.",VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Framework Core,"Identifica le categorie e le abbina direttamente ai riferimenti informativi di esempio come standard, linee guida e pratiche esistenti per ciascuna sottocategoria.",FALSO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Supply Chain Risk Management (SCRM),Affronta sia l'effetto di sicurezza informatica che un'organizzazione ha sulle parti esterne sia l'effetto di sicurezza informatica che le parti esterne hanno su un'organizzazione,VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Supply Chain Risk Management (SCRM),Può includere le attività di determinazione dei requisiti di sicurezza informatica per i fornitori,VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Supply Chain Risk Management (SCRM),Può includere le attività di attuazione dei requisiti di sicurezza informatica attraverso accordi formali (ad es. contratti),VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Supply Chain Risk Management (SCRM),È l'insieme delle attività necessarie per gestire il rischio di sicurezza informatica associato solamente ai fornitori,FALSO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Supply Chain Risk Management (SCRM),Può includere le attività di verifica che i requisiti di sicurezza informatica dei fornitori siano soddisfatti attraverso una varietà di metodologie di valutazione,VERO
+Modulo 3 - Unità didattica 2,Nel NIST CSF il Supply Chain Risk Management (SCRM),Può includere le attività di comunicazione ai clienti di come saranno verificati e convalidati i requisiti di sicurezza dei prodotti realizzati,FALSO
+Modulo 3 - Unità didattica 2,"Nel Tier ""Consapevole"" del NIST CSF",Le pratiche di gestione del rischio sono approvate dalla direzione ma potrebbero non essere stabilite come politica a livello di organizzazione,VERO
+Modulo 3 - Unità didattica 2,"Nel Tier ""Consapevole"" del NIST CSF",Le pratiche di gestione del rischio dell'organizzazione sono formalmente approvate ed espresse come policy,FALSO
+Modulo 3 - Unità didattica 2,"Nel Tier ""Consapevole"" del NIST CSF","Le politiche, i processi e le procedure informative sui rischi sono definiti, implementati come previsto e riesaminati",FALSO
+Modulo 3 - Unità didattica 2,"Nel Tier ""Consapevole"" del NIST CSF",Non è stato stabilito un approccio a livello di organizzazione alla gestione del rischio di sicurezza informatica,VERO
+Modulo 3 - Unità didattica 2,"Nel Tier ""Consapevole"" del NIST CSF",L'organizzazione comprende il proprio ruolo nell'ecosistema più ampio rispetto ai rapporti dipendenti o di dipendenza ma non a entrambi,VERO
+Modulo 3 - Unità didattica 2,"Nel Tier ""Consapevole"" del NIST CSF",L'organizzazione comprende completamente il proprio ruolo nel suo ecosistema e contribuisce alla comprensione dei rischi verso l'esterno,FALSO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Leadership""",Si richiede che l'alta direzione debba dimostrare leadership e impegno in relazione al sistema di gestione della sicurezza delle informazioni.,VERO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Leadership""",Si richiede che l'alta direzione debba dimostrare leadership e impegno in relazione allo sviluppo del sistema informativo.,FALSO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Leadership""",Si richiede che l'alta direzione deve dimostrare leadership e impegno per assicurare che siano disponibili le risorse necessarie per il sistema di gestione della sicurezza delle informazioni.,VERO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Leadership""",L'alta direzione deve stabilire una politica di sicurezza delle informazioni che sia adeguata allo scopo dell'organizzazione.,VERO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Leadership""",L'alta direzione deve garantire che le responsabilità e le autorità per i ruoli rilevanti per le informazioni di sicurezza vengono assegnate e comunicate all'interno dell'organizzazione.,VERO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Leadership""",L'alta direzione deve garantire che le responsabilità e le autorità per i ruoli rilevanti per le informazioni di sicurezza vengono assegnate secondo criteri soggettivi.,FALSO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Pianificazione""",L'organizzazione deve determinare i rischi e le opportunità che devono essere affrontati per garantire che il sistema di gestione della sicurezza delle informazioni possa raggiungere i risultati previsti.,VERO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Pianificazione""","L'organizzazione deve determinare i rischi e le opportunità che devono essere affrontati per prevenire, o ridurre, effetti indesiderati nel raggiungimento dei risultati previsti.",VERO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Pianificazione""",L'organizzazione deve determinare i rischi e le opportunità che devono essere affrontati per mantenere almeno costante il livello di sicurezza.,FALSO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Pianificazione""",L'organizzazione deve definire e applicare un processo di valutazione del rischio per la sicurezza delle informazioni che stabilisce e aggiorna i criteri di rischio per la sicurezza delle informazioni.,VERO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Pianificazione""","L'organizzazione deve definire e applicare un processo di valutazione del rischio per la sicurezza delle informazioni in maniera indipendente, senza prendere in considerazioni altre normative come il GDPR.",FALSO
+Modulo 3 - Unità didattica 2,"Nell'Area Tematica dei Requisiti ISO 27001 ""Pianificazione""","L'organizzazione deve determinare i rischi e le opportunità che garantisce che ripetute valutazioni del rischio per la sicurezza delle informazioni producano risultati coerenti, validi e comparabili.",VERO
+Modulo 3 - Unità didattica 2,Nella revisione 2022 del documento ISO 27001:,"Il nuovo nome è: ""Information security, cybersecurity and breach protection-Information security management systems-Requirements""",FALSO
+Modulo 3 - Unità didattica 2,Nella revisione 2022 del documento ISO 27001:,"Il nuovo nome è: ""Information security, cybersecurity and privacy protection-Information security management systems-Requirements""",VERO
+Modulo 3 - Unità didattica 2,Nella revisione 2022 del documento ISO 27001:,Un certo numero di controlli è rimasto invariato,VERO
+Modulo 3 - Unità didattica 2,Nella revisione 2022 del documento ISO 27001:,Molti controlli sono stati accorpati,VERO
+Modulo 3 - Unità didattica 2,Nella revisione 2022 del documento ISO 27001:,Nessun controllo è effettivamente nuovo,FALSO
+Modulo 3 - Unità didattica 2,Nella revisione 2022 del documento ISO 27001:,Oltre il 50% di controlli sono nuovi,FALSO
+Modulo 3 - Unità didattica 2,NIST Special Publication 800-53 Rev. 5,"Fornisce un catalogo di controlli di sicurezza e privacy per i sistemi informativi e le organizzazioni per proteggere le operazioni e le risorse organizzative, gli individui, le aziende e la nazione da una serie diversificata di minacce e rischi di varia natura.",VERO
+Modulo 3 - Unità didattica 2,NIST Special Publication 800-53 Rev. 5,"Fornisce un catalogo di controlli di sicurezza e privacy per i sistemi informativi e le aziende per proteggere le operations e le risorse organizzative, gli individui, le aziende e la nazione da minacce e rischi di varia natura.",VERO
+Modulo 3 - Unità didattica 2,NIST Special Publication 800-53 Rev. 5,"Sono un catalogo di controlli, ovvero contromisure, estratti direttamente e senza variazioni dal FISMA (Federal Information Security Modernization Act).",FALSO
+Modulo 3 - Unità didattica 2,NIST Special Publication 800-53 Rev. 5,Ha come titolo: “Security and Privacy Controls for Information Systems and Organizations”.,VERO
+Modulo 3 - Unità didattica 2,NIST Special Publication 800-53 Rev. 5,Ha come titolo: “Security Controls for Information Systems and Organizations”.,FALSO
+Modulo 3 - Unità didattica 2,NIST Special Publication 800-53 Rev. 5,Ha come titolo: “Security and Privacy Controls for the Government Information Systems”.,FALSO
+Modulo 3 - Unità didattica 2,Per cosa differiscono i sistemi di controllo e automazione industriale (IACS) rispetto ai sistemi IT?,"I sistemi IACS mirano a controllare e automatizzare processi fisici, i sistemi IT, invece, si concentrano sulla gestione dell'informazione e della comunicazione",VERO
+Modulo 3 - Unità didattica 2,Per cosa differiscono i sistemi di controllo e automazione industriale (IACS) rispetto ai sistemi IT?,"I sistemi IACS hanno un funzionamento real time e deterministico, quasi mai i sistemi IT hanno caratteristiche così stringenti.",VERO
+Modulo 3 - Unità didattica 2,Per cosa differiscono i sistemi di controllo e automazione industriale (IACS) rispetto ai sistemi IT?,I sistemi IACS hanno sistemi operativi standard MS Windows a Linux i sistemi IT solamente MS Windows,FALSO
+Modulo 3 - Unità didattica 2,Per cosa differiscono i sistemi di controllo e automazione industriale (IACS) rispetto ai sistemi IT?,"I rischi di Cybersecurity relativi agli IACS possono riguardare la business continuity e la safety, i sistemi IT hanno come rischi primari la perdita della triade CIA",VERO
+Modulo 3 - Unità didattica 2,Per cosa differiscono i sistemi di controllo e automazione industriale (IACS) rispetto ai sistemi IT?,"I sistemi IACS necessitano di hardware industriale dedicato e specifico, almento per la parte di controllo, i sistemi di IT utilizzano prevalentemente hardware di mercato",VERO
+Modulo 3 - Unità didattica 2,Per cosa differiscono i sistemi di controllo e automazione industriale (IACS) rispetto ai sistemi IT?,Gli ambienti di configurazione e i linguaggi di programmazione per entrambe le tipologie dei sistemi sono identici.,FALSO
+Modulo 3 - Unità didattica 2,Perché è stato realizzato lo standard IEC 62443?,"Perché all’interno di un’organizzazione esistono una molteplicità di sistemi intelligenti (dotati di CPU), rilevanti per la continuità del business, oltre ai comuni computer",VERO
+Modulo 3 - Unità didattica 2,Perché è stato realizzato lo standard IEC 62443?,Per avere solamente uno standard di sicurezza informatica all’interno delle aziende industriali,FALSO
+Modulo 3 - Unità didattica 2,Perché è stato realizzato lo standard IEC 62443?,Formalmente per realizzare un sistema di gestione in grado di affrontare e mitigare le vulnerabilità di sicurezza nei sistemi di controllo e automazione industriale (IACS),VERO
+Modulo 3 - Unità didattica 2,Perché è stato realizzato lo standard IEC 62443?,Perché gli standard di sicurezza informatica più diffusi non riescono a rispondere a tutti i paradigmi di funzionamento dei sistemi all’interno di un’organizzazione,VERO
+Modulo 3 - Unità didattica 2,Perché è stato realizzato lo standard IEC 62443?,Per avere uno standard con requisiti applicabili solamente nei reparti produttivi,FALSO
+Modulo 3 - Unità didattica 2,Perché è stato realizzato lo standard IEC 62443?,Per avere uno standard che permetta di proteggere i reparti produttivi da vettori d’attacco provenienti anche dalla rete office,VERO
+Modulo 3 - Unità didattica 2,Quale dei seguenti controlli ISO 27001:2022 sono stati creati a supporto della normativa GDPR?,Threat Intelligence,FALSO
+Modulo 3 - Unità didattica 2,Quale dei seguenti controlli ISO 27001:2022 sono stati creati a supporto della normativa GDPR?,Data masking,VERO
+Modulo 3 - Unità didattica 2,Quale dei seguenti controlli ISO 27001:2022 sono stati creati a supporto della normativa GDPR?,Data leakage prevention,VERO
+Modulo 3 - Unità didattica 2,Quale dei seguenti controlli ISO 27001:2022 sono stati creati a supporto della normativa GDPR?,Monitoring activities;,FALSO
+Modulo 3 - Unità didattica 2,Quale dei seguenti controlli ISO 27001:2022 sono stati creati a supporto della normativa GDPR?,ICT readiness for business continuity;,FALSO
+Modulo 3 - Unità didattica 2,Quale dei seguenti controlli ISO 27001:2022 sono stati creati a supporto della normativa GDPR?,Information deletion,VERO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Contesto dell'Organizzazione,VERO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Leadership,VERO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Pianificazione,VERO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Supporto,VERO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Business Continuity,FALSO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Data Security,FALSO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Leadership,VERO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Pianificazione,VERO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Attività Operative,VERO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Disaster Recovery,FALSO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Supporto,VERO
+Modulo 3 - Unità didattica 2,Quale di queste aree non è un requisito di un ISMS ISO 27001 ,Data Entry,FALSO
+Modulo 3 - Unità didattica 2,Quali dei seguenti gruppi di norme fanno parte della famiglia degli Standard ISO/IEC 27000?,Norme che descrivono una panoramica e la terminologia o vocabolario.,VERO
+Modulo 3 - Unità didattica 2,Quali dei seguenti gruppi di norme fanno parte della famiglia degli Standard ISO/IEC 27000?,Norme che specificano i requisiti.,VERO
+Modulo 3 - Unità didattica 2,Quali dei seguenti gruppi di norme fanno parte della famiglia degli Standard ISO/IEC 27000?,Norme che identificano i processi.,FALSO
+Modulo 3 - Unità didattica 2,Quali dei seguenti gruppi di norme fanno parte della famiglia degli Standard ISO/IEC 27000?,Norme che descrivono le linee guida dettagliate.,FALSO
+Modulo 3 - Unità didattica 2,Quali dei seguenti gruppi di norme fanno parte della famiglia degli Standard ISO/IEC 27000?,Norme che descrivono le linee guida negli specifici ambiti/settori.,VERO
+Modulo 3 - Unità didattica 2,Quali dei seguenti gruppi di norme fanno parte della famiglia degli Standard ISO/IEC 27000?,Norme aggiunte che descrivono delle direttive specializzate.,VERO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono Foundational Requirements secondo ISA/IEC 62443,Identification and Authentication Control (IAC).,VERO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono Foundational Requirements secondo ISA/IEC 62443,User Controller (UCR).,FALSO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono Foundational Requirements secondo ISA/IEC 62443,System Integrity (SI).,VERO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono Foundational Requirements secondo ISA/IEC 62443,Data Confidentiality (DC).,VERO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono Foundational Requirements secondo ISA/IEC 62443,Restrict Data Flow (RDF).,VERO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono Foundational Requirements secondo ISA/IEC 62443,Resource Providing (RP).,FALSO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono gli elementi di valutazione dei Tier (I Livelli di implementazione) del NIST CSF?,Processo di gestione del rischio,VERO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono gli elementi di valutazione dei Tier (I Livelli di implementazione) del NIST CSF?,Livello tecnologico,FALSO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono gli elementi di valutazione dei Tier (I Livelli di implementazione) del NIST CSF?,Programma integrato di gestione del rischio,VERO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono gli elementi di valutazione dei Tier (I Livelli di implementazione) del NIST CSF?,Valutazione del rischio effettivo,FALSO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono gli elementi di valutazione dei Tier (I Livelli di implementazione) del NIST CSF?,Valutazione della resilienza in relazione alla Business Continuity,FALSO
+Modulo 3 - Unità didattica 2,Quali dei seguenti sono gli elementi di valutazione dei Tier (I Livelli di implementazione) del NIST CSF?,Partecipazione esterna,VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,Politiche per la sicurezza delle informazioni.,VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,Organizzazione della sicurezza delle informazioni.,VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,Sicurezza del personale.,VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,Gestione dell'infrastruttura di rete.,FALSO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,"Controllo degli accessi ""fisici"" ai sistemi, agli asset e gli apparati.",FALSO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,Crittografia.,VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,Sicurezza logica e ambientale.,FALSO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,Sicurezza delle attività operative.,VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,Sicurezza delle reti e dei sistemi di comunicazione.,VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,"Acquisizione, sviluppo e manutenzione dei sistemi.",VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,Gestione della catena di fornitura.,FALSO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono Aree di Controllo secondo ISO 27001 2013?,Gestione degli incidenti relativi alla sicurezza delle informazioni.,VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono aree tematiche dei requisiti di un ISMS secondo ISO/IEC 27001:2022?,Context of the organization (Comprensione del contesto dell'organizzazione),VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono aree tematiche dei requisiti di un ISMS secondo ISO/IEC 27001:2022?,"Leadership (Leadership, coinvolgimento e focalizzazione del top management su CS)",VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono aree tematiche dei requisiti di un ISMS secondo ISO/IEC 27001:2022?,Planning (Corretta pianificazione delle operations di CS),VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono aree tematiche dei requisiti di un ISMS secondo ISO/IEC 27001:2022?,Supporto Tecnico (Disponibilità del reparto tecnico di supporto),FALSO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono aree tematiche dei requisiti di un ISMS secondo ISO/IEC 27001:2022?,"Operation (Attività operative: pianificazione e controllo, valutazione del rischio...)",VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono aree tematiche dei requisiti di un ISMS secondo ISO/IEC 27001:2022?,Performance Evaluation (Monitoraggio e Audit delle prestazioni di CS),VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono le principali differenze tra NIST Cyber Security Framework e ISO 27001,"Il NIST è stato creato principalmente per la gestione del rischio sulle informazioni, ISO 27001 è invece un approccio riconosciuto a livello internazionale per la creazione e il mantenimento di un ISMS",VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono le principali differenze tra NIST Cyber Security Framework e ISO 27001,"ISO 27001 è volontario, mentre il NIST CSF prevede la certificazione",FALSO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono le principali differenze tra NIST Cyber Security Framework e ISO 27001,"Il framework NIST CSF ha vari cataloghi di controllo e cinque funzioni per personalizzare i controlli di sicurezza informatica, mentre ISO 27001: 2022 ha 93 controlli organizzati in 4 gruppi per guidare le organizzazioni attraverso i loro ISMS",VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono le principali differenze tra NIST Cyber Security Framework e ISO 27001,"La ISO 27001 è meno tecnica, con maggiore enfasi sulla gestione basata sul rischio",VERO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono le principali differenze tra NIST Cyber Security Framework e ISO 27001,"La ISO 27001 è più tecnica, con minore enfasi sulla gestione basata sul rischio",FALSO
+Modulo 3 - Unità didattica 2,Quali delle seguenti sono le principali differenze tra NIST Cyber Security Framework e ISO 27001,"La ISO 27001 è una buona scelta per certificare le organizzazioni che hanno maturità operativa, mentre il NIST CSF può essere più adatto per le organizzazioni che si trovano nelle fasi iniziali dello sviluppo di un programma di rischio per la sicurezza informatica",VERO
+Modulo 3 - Unità didattica 2,Secondo ISA/IEC 62443 i requisiti di un CSMS (Cybersecurity Management System),Sono definiti nel livello 2 della serie di standard,VERO
+Modulo 3 - Unità didattica 2,Secondo ISA/IEC 62443 i requisiti di un CSMS (Cybersecurity Management System),Sono raggruppati in elementi ulteriormente raccolti in categorie e ancora in macro-categorie,VERO
+Modulo 3 - Unità didattica 2,Secondo ISA/IEC 62443 i requisiti di un CSMS (Cybersecurity Management System),Sono raggruppati in livelli e sottolivelli di controlli,FALSO
+Modulo 3 - Unità didattica 2,Secondo ISA/IEC 62443 i requisiti di un CSMS (Cybersecurity Management System),Sono raggruppati in elementi che contengono i possibili risultati ottenibili dall'utilizzo dei requisiti,FALSO
+Modulo 3 - Unità didattica 2,Secondo ISA/IEC 62443 i requisiti di un CSMS (Cybersecurity Management System),"Sono raggruppati in elementi che posseggono Obiettivi, Fondamenti Logici e Descrizioni",VERO
+Modulo 3 - Unità didattica 2,Secondo ISA/IEC 62443 i requisiti di un CSMS (Cybersecurity Management System),"Sono suddivisi inizialmente in tre macrocategorie (Analizzare il Rischio, Indirizzare il Rischio e Monitorare e Migliorare il Rischio di un CSMS)",VERO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 un Obiettivo di Controllo è,È la dichiarazione di cosa si vuole raggiungere.,VERO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 un Obiettivo di Controllo è,È il controllo stesso.,FALSO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 un Obiettivo di Controllo è,È la descrizione estesa della finalità dello specifico controllo.,VERO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 un Obiettivo di Controllo è,È di fatto la Categoria del Controllo.,FALSO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 un Obiettivo di Controllo è,È l’appropriata contromisura in esame.,FALSO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 un Obiettivo di Controllo è,Nessuno dei precedenti.,FALSO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 una Categoria di Controllo è,Il controllo stesso.,FALSO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 una Categoria di Controllo è,È la dichiarazione estesa dell’obiettivo che si vuole raggiungere.,VERO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 una Categoria di Controllo è,È di fatto l’Area del Controllo.,FALSO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 una Categoria di Controllo è,È l’appropriata contromisura in esame.,FALSO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 una Categoria di Controllo è,È la descrizione della finalità dello specifico controllo.,VERO
+Modulo 3 - Unità didattica 2,Secondo ISO 27002 2013 una Categoria di Controllo è,Uno dei tre livelli dello schema con cui sono strutturati i controlli.,VERO
+Modulo 3 - Unità didattica 2,Un ISMS per ISO/IEC 27000 è un insieme di regole che un'azienda deve stabilire per:,Identificare gli stakeholder e le loro aspettative nei confronti dell'azienda in termini di sicurezza delle informazioni,VERO
+Modulo 3 - Unità didattica 2,Un ISMS per ISO/IEC 27000 è un insieme di regole che un'azienda deve stabilire per:,Identificare quali rischi logici e fisici esistono per le persone all'interno dell'organizzazione,FALSO
+Modulo 3 - Unità didattica 2,Un ISMS per ISO/IEC 27000 è un insieme di regole che un'azienda deve stabilire per:,Definire i controlli e altri metodi di mitigazione per soddisfare le aspettative (al punto 1) identificate e gestire i rischi,VERO
+Modulo 3 - Unità didattica 2,Un ISMS per ISO/IEC 27000 è un insieme di regole che un'azienda deve stabilire per:,Fissare obiettivi qualitativi e generici su ciò che deve essere raggiunto con la sicurezza delle informazioni,FALSO
+Modulo 3 - Unità didattica 2,Un ISMS per ISO/IEC 27000 è un insieme di regole che un'azienda deve stabilire per:,Misurare continuamente che i controlli implementati siano effettivamente efficaci,VERO
+Modulo 3 - Unità didattica 2,Un ISMS per ISO/IEC 27000 è un insieme di regole che un'azienda deve stabilire per:,Migliorare continuativamente la postura dell'organizzazione relativamente alle problematiche di Cybersecurity,VERO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Cybersecurity,"Serve a definire processi, ruoli e misure per proteggere le informazioni e i sistemi aziendali",VERO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Cybersecurity,Deve essere aggiornato e migliorato in modo continuo per restare efficace contro nuove minacce,VERO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Cybersecurity,"Si concentra esclusivamente sulla protezione delle reti informatiche, senza considerare persone e processi.",FALSO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Cybersecurity,Elimina completamente ogni rischio di attacco informatico,FALSO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Cybersecurity,Può essere conforme a standard internazionali come la ISO/IEC 27001,VERO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Cybersecurity,La sola realizzazione permette di essere conforme con le normative internazionali,FALSO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Sicurezza delle Informazioni (ISMS),E' un insieme di regole che un'azienda deve stabilire nell'ambito della cybersecurity utilizzando o meno uno standard di riferimento,VERO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Sicurezza delle Informazioni (ISMS),Deve necessariamente identificare gli stakeholder e le loro aspettative nei confronti dell'azienda in termini di sicurezza delle informazioni,VERO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Sicurezza delle Informazioni (ISMS),Deve Identificare gli asset dell'azienda o dell'organizzazione e quali rischi esistono per le informazioni,VERO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Sicurezza delle Informazioni (ISMS),Deve essere progettato con criteriti di security by design in modo che si possa mantenere inalterato il più possibile nel tempo,FALSO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Sicurezza delle Informazioni (ISMS),Deve selezionare le contromisure necessarie (organizzative o tecnologiche) per mitigare il rischio di cybersecurity,VERO
+Modulo 3 - Unità didattica 2,Un Sistema di Gestione della Sicurezza delle Informazioni (ISMS),"Può adottare lo standard ISO 27000 e deve, qundi, obbligatoriamente certificarsi",FALSO
+Modulo 3 - Unità didattica 2,Zone e conduit secondo ISA/IEC 62443,Sono elementi chiave per la segmentazione della rete e la gestione della sicurezza negli ambienti di controllo industriale,VERO
+Modulo 3 - Unità didattica 2,Zone e conduit secondo ISA/IEC 62443,Sono elementi chiave per la segmentazione della rete e la gestione della sicurezza anche fuori dagli ambiti industriali,VERO
+Modulo 3 - Unità didattica 2,Zone e conduit secondo ISA/IEC 62443,"Aiutano a ridurre l'impatto di eventuali violazioni della sicurezza, limitando la propagazione di attacchi.",VERO
+Modulo 3 - Unità didattica 2,Zone e conduit secondo ISA/IEC 62443,"Sono definiti mediante un approccio basato sul rischio, valutando cioè le minacce e i potenziali impatti di ogni area",VERO
+Modulo 3 - Unità didattica 2,Zone e conduit secondo ISA/IEC 62443,Sono definiti mediante un approccio basato unicamente sul rischio di perdita dei dati sensibili,FALSO
+Modulo 3 - Unità didattica 2,Zone e conduit secondo ISA/IEC 62443,Sono definiti indipendentemente dall' inventario degli asset e dei loro ruoli all'interno delle rete industriale.,FALSO
