@@ -1019,3 +1019,147 @@ Modulo 3 - Unità didattica 3,Secondo la nuova direttiva NIS 2 un incidente è c
 Modulo 3 - Unità didattica 3,Secondo la nuova direttiva NIS 2 un incidente è considerato significativo e deve essere quindi notificato a CSIRT Italia,Se ha avuto ripercussioni o è idoneo a provocare ripercussioni su altre persone fisiche o giuridiche causando perdite materiali o immateriali oltre i 50.000 €,FALSO
 Modulo 3 - Unità didattica 3,Secondo la nuova direttiva NIS 2 un incidente è considerato significativo e deve essere quindi notificato a CSIRT Italia,anche se può influenzare negativamente la catena di fornitura,VERO
 Modulo 3 - Unità didattica 3,Secondo la nuova direttiva NIS 2 un incidente è considerato significativo e deve essere quindi notificato a CSIRT Italia,non causa o non è in grado di causare danni o perturbazioni ma per specificità richiede una notifica,FALSO
+Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,Sono sistemi che si integrano con i Firewall per offrire una protezione più completa,VERO
+Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,Sono sistemi che non si integrano con i Firewall ma che offrono lo stesso una protezione completa,FALSO
+Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Vengono posizionati ""a valle"" del firewall (rispetto alla connessione Internet) ed analizzano i pacchetti di dati ed i comportamenti da loro generati",VERO
+Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Vengono posizionati ""a monte"" del firewall (rispetto alla connessione Internet) ed analizzano i pacchetti di dati ed i comportamenti da loro generati",FALSO
+Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Per la rilevazione delle minacce possono usare la metodologia del ""Misuse Detection""",VERO
+Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Per la rilevazione delle minacce possono usare la metodologia del ""Deny Anomaly""",FALSO
+Modulo 3 - Unità didattica 4,Il Paradigma Operazionale,Prevede i seguenti elementi in ordine di importanza: Affidabilità -> Sicurezza Fisica -> Impatto sul Prodotto o sul Servizio,FALSO
+Modulo 3 - Unità didattica 4,Il Paradigma Operazionale,Prevede i seguenti elementi in ordine di importanza: Affidabilità -> Impatto sul Prodotto o sul Servizio -> Sicurezza Fisica,FALSO
+Modulo 3 - Unità didattica 4,Il Paradigma Operazionale,Prevede i seguenti elementi in ordine di importanza: Sicurezza Fisica -> Affidabilità -> Impatto sul Prodotto o sul Servizio,VERO
+Modulo 3 - Unità didattica 4,Il Paradigma Operazionale,Prevede un diverso ordine di importanza per i fattori CIA: Disponibilità (Accessibilità) -> Integrità -> Riservatezza,VERO
+Modulo 3 - Unità didattica 4,Il Paradigma Operazionale,Prevede un diverso ordine di importanza per i fattori CIA: Integrità -> Riservatezza -> Disponibilità (Accessibilità),FALSO
+Modulo 3 - Unità didattica 4,Il Paradigma Operazionale,Prevede un diverso ordine di importanza per i fattori CIA: Riservatezza -> Disponibilità (Accessibilità) -> Integrità,FALSO
+Modulo 3 - Unità didattica 4,Il Paradigma RID (Riservatezza-Integrità-Disponibilità),Identifica le priorità della cyber security relativamente all'Information Technology,VERO
+Modulo 3 - Unità didattica 4,Il Paradigma RID (Riservatezza-Integrità-Disponibilità),Identifica le priorità della cyber security relativamente all'Information Technology e dell'Operational Technology (l'Informatica Industriale),FALSO
+Modulo 3 - Unità didattica 4,Il Paradigma RID (Riservatezza-Integrità-Disponibilità),"Identifica, in ordine di importanza decrescente, i fattori Riservatezza, Integrità e Disponibilità/Accessibilità dei dati",VERO
+Modulo 3 - Unità didattica 4,Il Paradigma RID (Riservatezza-Integrità-Disponibilità),"Identifica, in ordine di importanza crescente, i fattori Riservatezza, Integrità e Disponibilità/Accessibilità dei dati",FALSO
+Modulo 3 - Unità didattica 4,Il Paradigma RID (Riservatezza-Integrità-Disponibilità),"Identifica, a parità di importanza, i fattori Riservatezza, Integrità e Disponibilità/Accessibilità dei dati",FALSO
+Modulo 3 - Unità didattica 4,Il Paradigma RID (Riservatezza-Integrità-Disponibilità),Considera la Riservatezza come la necessità di impedire l'accesso non autorizzato alle informazioni sensibili,VERO
+Modulo 3 - Unità didattica 4,Il posizionamento dello standard ISA/IEC 62443 nello stack ISA 95 (Purdue Model),È tra il livello 1 e il livello 2,FALSO
+Modulo 3 - Unità didattica 4,Il posizionamento dello standard ISA/IEC 62443 nello stack ISA 95 (Purdue Model),È tra il livello 0 e il livello 3,VERO
+Modulo 3 - Unità didattica 4,Il posizionamento dello standard ISA/IEC 62443 nello stack ISA 95 (Purdue Model),È tra il livello 2 e il livello 4,FALSO
+Modulo 3 - Unità didattica 4,Il posizionamento dello standard ISA/IEC 62443 nello stack ISA 95 (Purdue Model),È tra il livello 3 e il livello 4,FALSO
+Modulo 3 - Unità didattica 4,Il posizionamento dello standard ISA/IEC 62443 nello stack ISA 95 (Purdue Model),È tra il livello 0 e il livello 2,FALSO
+Modulo 3 - Unità didattica 4,Il posizionamento dello standard ISA/IEC 62443 nello stack ISA 95 (Purdue Model),È tra il livello 1 e il livello 5,FALSO
+Modulo 3 - Unità didattica 4,"Il requisito ""Supporto"" nell'implementazione di un Sistema di Gestione della SI secondo lo standard ISO 27001","Definisce che l'organizzazione deve mettere a disposizione le risorse necessarie per l'istituire, implementare, mantenere e continuare a migliorare l'SGSI",VERO
+Modulo 3 - Unità didattica 4,"Il requisito ""Supporto"" nell'implementazione di un Sistema di Gestione della SI secondo lo standard ISO 27001",Definisce che devono essere determinate le competenze necessarie delle persone che influenzano le prestazioni SGSI,VERO
+Modulo 3 - Unità didattica 4,"Il requisito ""Supporto"" nell'implementazione di un Sistema di Gestione della SI secondo lo standard ISO 27001","Definisce che è necessario garantire giusti livelli di competenza con adeguata istruzione, formazione, addestramento",VERO
+Modulo 3 - Unità didattica 4,"Il requisito ""Supporto"" nell'implementazione di un Sistema di Gestione della SI secondo lo standard ISO 27001","Definisce che coloro che operano in azienda debbono conoscere la policy di sicurezza, le loro responsabilità specifiche e le implicazioni derivanti dalla non rispetto delle regole",VERO
+Modulo 3 - Unità didattica 4,"Il requisito ""Supporto"" nell'implementazione di un Sistema di Gestione della SI secondo lo standard ISO 27001",Definisce i criteri da utilizzare per la comunicazione al solo management all'interno dell'azienda,FALSO
+Modulo 3 - Unità didattica 4,"Il requisito ""Supporto"" nell'implementazione di un Sistema di Gestione della SI secondo lo standard ISO 27001",Definisce le misure da adottare per acquisire le competenze in una prospettiva di minimizzazione dei costi di formazione,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico,È il rischio di incorrere in perdite economico/finanziarie nonché di mettere a repentaglio la salute umana in seguito al verificarsi di eventi accidentali o di azioni dolose inerenti al sistema informatico,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico,"È il rischio di mettere a repentaglio il sistema informatico, relativamente all'infrastruttura tecnologica",FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico,Non è mai dovuto all'errore umano ma solo all'effetto di minacce informatiche come virus e malware,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico,Può essere dovuto a errore umano che apre la strada a virus e malware,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico,Può essere dovuto ad un evento accidentale che compromette il sistema informativo,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico,Può essere dovuto ad una azione dolosa di terzi,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Impatto x Probabilità,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Impatto elevato alla Probabilità,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Impatto x Frequenza,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Un numero compreso tra un valore minimo e uno massimo in funzione dell'incertezza del rischio,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Un numero sempre compreso tra 1 (Rischio Molto Basso) e 4 (Rischio Molto Alto) in funzione dell'incertezza del rischio,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),"Un numero che è funzione dell'incertezza e fa riferimento a classi omogenee di eventi, per natura e gravità",VERO
+Modulo 3 - Unità didattica 4,Il Risk Appetite,Può essere tradotto come Propensione al Rischio,VERO
+Modulo 3 - Unità didattica 4,Il Risk Appetite,"Delimita inferiormente l'area dei rischi che devono essere assolutamente evitati o massimamente ridotti, mediante tutti gli strumenti disponibili (Area Rossa)",VERO
+Modulo 3 - Unità didattica 4,Il Risk Appetite,"Delimita superiormente l'area dei rischi che devono essere assolutamente evitati o massimamente ridotti, mediante tutti gli strumenti disponibili (Area Rossa)",FALSO
+Modulo 3 - Unità didattica 4,Il Risk Appetite,Delimita superiormente l'area dei rischi che devono essere monitorati e gestiti costantemente dall'azienda (Area Gialla),VERO
+Modulo 3 - Unità didattica 4,Il Risk Appetite,Indica il livello e il tipo di rischio che un'organizzazione è in grado di assumere coerentemente con gli obiettivi strategici perseguiti,VERO
+Modulo 3 - Unità didattica 4,Il Risk Appetite,Delimita l'area di rischio entro cui l'azienda desidera muoversi,VERO
+Modulo 3 - Unità didattica 4,Il SIEM,E' l'acronimo di Security Information and Event Management,VERO
+Modulo 3 - Unità didattica 4,Il SIEM,E' l'acronimo di Security Impact and Event Management,FALSO
+Modulo 3 - Unità didattica 4,Il SIEM,"È una soluzione software che, in tempo reale, provvede al monitoraggio e alla gestione degli eventi e delle informazioni che accadono all'interno della rete e sui vari sistemi di sicurezza fornendo una correlazione e aggregazione tra essi",VERO
+Modulo 3 - Unità didattica 4,Il SIEM,È una soluzione software che provvede alla visualizzazione e alla gestione degli eventi e delle informazioni che accadono all'interno della rete e sui vari sistemi di sicurezza fornendo una correlazione e aggregazione tra essi,FALSO
+Modulo 3 - Unità didattica 4,Il SIEM,Include le funzionalità offerte dai SIM (security information management) a quelle dei SEM (security event management),VERO
+Modulo 3 - Unità didattica 4,Il SIEM,"Ha come interfaccia una console centralizzata, preposta ad attività di monitoraggio, segnalazione e risposta automatica a determinati eventi",VERO
+Modulo 3 - Unità didattica 4,Il SIEM (Variante),E' l'acronimo di Security Impact and Event Management),FALSO
+Modulo 3 - Unità didattica 4,Il SIEM (Variante),E' l'acronimo di Security Integrated and Evaluation Management),FALSO
+Modulo 3 - Unità didattica 4,Il SIEM (Variante),"È una soluzione software che, in tempo reale, provvede al monitoraggio e alla gestione degli eventi e delle informazioni che accadono all'interno della rete e sui vari sistemi di sicurezza fornendo una correlazione e aggregazione tra essi",VERO
+Modulo 3 - Unità didattica 4,Il SIEM (Variante),È una soluzione software che provvede alla visualizzazione e alla gestione degli eventi e delle informazioni che accadono all'interno della rete e sui vari sistemi di sicurezza fornendo una correlazione e aggregazione tra essi,FALSO
+Modulo 3 - Unità didattica 4,Il SIEM (Variante),Include le funzionalità offerte dai SIM (security information management) a quelle dei SEM (security event management),VERO
+Modulo 3 - Unità didattica 4,Il SIEM (Variante),"Ha come interfaccia una console centralizzata, preposta ad attività di monitoraggio, segnalazione e risposta automatica a determinati eventi",VERO
+Modulo 3 - Unità didattica 4,L'Assessment del Rischio,Prevede una fase di identificazione che mira ad individuare le minacce esistenti e a stabilirne le caratteristiche,VERO
+Modulo 3 - Unità didattica 4,L'Assessment del Rischio,Può realizzare l'identificazione con un approccio cause -> effetti,VERO
+Modulo 3 - Unità didattica 4,L'Assessment del Rischio,Può realizzare l'identificazione con un approccio effetti -> cause,VERO
+Modulo 3 - Unità didattica 4,L'Assessment del Rischio,Può realizzare l'identificazione con un approccio probabilità -> impatto,FALSO
+Modulo 3 - Unità didattica 4,L'Assessment del Rischio,Prevede una fase di valutazione che mira alla determinazione dell'entità del rischio (probabilità-impatto),VERO
+Modulo 3 - Unità didattica 4,L'Assessment del Rischio,Prevede una fase di valutazione che viene espressa di solito in forma complessa utilizzabile mediante appositi strumenti,FALSO
+Modulo 3 - Unità didattica 4,L'Endpoint protection,Realizza il tunneling nella comunicazione dall'interno all'esterno dell'azienda,FALSO
+Modulo 3 - Unità didattica 4,L'Endpoint protection,Si riferisce alla protezione di qualsiasi dispositivo o connessione che abbia accesso alla rete aziendale,VERO
+Modulo 3 - Unità didattica 4,L'Endpoint protection,Può utilizzare tecniche di Machine Learning per rilevare le minacce zero-day,VERO
+Modulo 3 - Unità didattica 4,L'Endpoint protection,Realizza la protezione antimalware e antivirus,VERO
+Modulo 3 - Unità didattica 4,L'Endpoint protection,Non ha mai un firewall integrato,FALSO
+Modulo 3 - Unità didattica 4,L'Endpoint protection,"Può realizzare la Mobile security (cellulari, tablet e laptop)",VERO
+Modulo 3 - Unità didattica 4,La valutazione del Rischio,Viene effettuata facendo riferimento a classi omogenee per tipologia,VERO
+Modulo 3 - Unità didattica 4,La valutazione del Rischio,Viene effettuata da due prospettive: Impatto (o Gravità) e Probabilità,VERO
+Modulo 3 - Unità didattica 4,La valutazione del Rischio,Utilizza un indice numerico che è dato dal prodotto dell'Impatto moltiplicato la probabilità,VERO
+Modulo 3 - Unità didattica 4,La valutazione del Rischio,Di solito si associa a Probabilità e Impatto un valore numerico compreso tra 1 e 10,FALSO
+Modulo 3 - Unità didattica 4,La valutazione del Rischio,Si effettua solamente nell'ambito della sicurezza informatica,FALSO
+Modulo 3 - Unità didattica 4,La valutazione del Rischio,"Viene rappresentata graficamente con un diagramma multidimensionale (X,Y,Z) con gradazioni di colori differenti",FALSO
+Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,Garantisce che un partecipante a un'azione o transazione digitale non possa negare in futuro il proprio intervento,VERO
+Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,"Utilizza le firme digitali, basate su tecniche crittografiche, come strumento chiave",VERO
+Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,Attraverso la registrazione dettagliata delle azioni e delle transazioni (audit trail) riceve prove tangibili l'intervento di una parte,VERO
+Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,"Mediante il timestamping, ovvero la registrazione dell'ora esatta di un evento, impedisce a una parte di negare la tempistica di un'azione",VERO
+Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,Non può mai avere validità legale essendo comunque un principio non rigoroso,FALSO
+Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,Anche se unito al fattore di Authentication non riduce l'importanza del fattore di Riservatezza,FALSO
+Modulo 3 - Unità didattica 4,Perché il modello RID (Riservatezza-Integrità-Disponibilità) non va bene per i sistemi operazionali OT?,Perché la Riservatezza è parzialmente rilevante,VERO
+Modulo 3 - Unità didattica 4,Perché il modello RID (Riservatezza-Integrità-Disponibilità) non va bene per i sistemi operazionali OT?,Perché la Riservatezza non è assolutamente rilevante,FALSO
+Modulo 3 - Unità didattica 4,Perché il modello RID (Riservatezza-Integrità-Disponibilità) non va bene per i sistemi operazionali OT?,L'integrità è significativa se è associata alla capacità di mantenere attivo il controllo sul processo,VERO
+Modulo 3 - Unità didattica 4,Perché il modello RID (Riservatezza-Integrità-Disponibilità) non va bene per i sistemi operazionali OT?,Perché la disponibilità è un fattore rilevante se la si considera dal punto di vista dell'impatto sulla business continuity,VERO
+Modulo 3 - Unità didattica 4,Perché il modello RID (Riservatezza-Integrità-Disponibilità) non va bene per i sistemi operazionali OT?,"Perché esistono parametri più rilevanti, quali il Safety (Sicurezza Fisica) o la Reliability (Affidabilità)",VERO
+Modulo 3 - Unità didattica 4,Perché il modello RID (Riservatezza-Integrità-Disponibilità) non va bene per i sistemi operazionali OT?,"Perché esistono parametri più rilevanti, quali l'Accountability",FALSO
+Modulo 3 - Unità didattica 4,Perché la leadership aziendale è fondamentale per la definizione di un SGSI secondo ISO 27001,Perché altrimenti possono non essere garantiti gli investimenti necessari per la sua realizzazione,VERO
+Modulo 3 - Unità didattica 4,Perché la leadership aziendale è fondamentale per la definizione di un SGSI secondo ISO 27001,"Perché senza il benestare chiaro, motivato e comunicato della leadership aziendale non si riuscirà a coinvolgere efficacemente tutto il personale aziendale",VERO
+Modulo 3 - Unità didattica 4,Perché la leadership aziendale è fondamentale per la definizione di un SGSI secondo ISO 27001,"Perché altrimenti non si riusciranno a portare a termine i cambiamenti nelle politiche, nei processi e nelle procedure necessari",VERO
+Modulo 3 - Unità didattica 4,Perché la leadership aziendale è fondamentale per la definizione di un SGSI secondo ISO 27001,Perché solo una leadership consapevole può capire sino in fondo l'impatto possibile della sicurezza informatica con il funzionamento dell'organizzazione,VERO
+Modulo 3 - Unità didattica 4,Perché la leadership aziendale è fondamentale per la definizione di un SGSI secondo ISO 27001,Così è chiara la responsabilità in caso di cattivo funzionamento del sistema di gestione,FALSO
+Modulo 3 - Unità didattica 4,Perché la leadership aziendale è fondamentale per la definizione di un SGSI secondo ISO 27001,Così è possibile creare nuove figure e ruoli che altrimenti sarebbe impossibile definire,VERO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Eliminare completamente l'intervento umano,FALSO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Costruire robot fisici,FALSO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Simulare solo il linguaggio umano,FALSO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Apprendere automaticamente dai dati senza programmazione esplicita,VERO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Sostituire l'infrastruttura di rete aziendale,FALSO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Memorizzare informazioni in modo statico senza aggiornamenti ,FALSO
+Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Miglioramento dell'efficienza,FALSO
+Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Bias e discriminazione nei risultati,VERO
+Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Riduzione dei costi,FALSO
+Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Aumento della capacità di calcolo,FALSO
+Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Ottimizzazione della larghezza di banda,FALSO
+Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Automatizzazione dei compiti ripetitivi,FALSO
+Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Sono utilizzati solo nella robotica,FALSO
+Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Generano testo basandosi sulla probabilità delle parole,VERO
+Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Elaborano solo dati numerici,FALSO
+Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Funzionano senza reti neurali,FALSO
+Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Richiedono esclusivamente collegamenti in fibra ottica,FALSO
+Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Non necessitano di alcuna fase di pre-addestramento sui dati,FALSO
+Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,"Capire il contesto dell'organizzazione, i valori, i rischi e le aspettative delle parti interessate per definire gli obiettivi",VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,Capire la predisposizione dell'organizzazione dal top management cercando di spuntare un budget di spesa più elevato possibile,FALSO
+Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,Capire e cercare di focalizzare l'impegno della leadership per perseguire una adeguata politica e gli obiettivi del sistema di gestione,VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,"Definire i ruoli, le responsabilità e le autorità competenti di cybersecurity in azienda",VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,Definizione delle azioni necessarie per affrontare rischi relativi al sistema informativo cercando di sfruttare le opportunità che si possono presentare,VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,Valutare saltuariamente le prestazioni del sistema di gestione,FALSO
+Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Contesto,VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Leadership,VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Pianificazione,VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Supporto,VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Attività Operative,FALSO
+Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Valutazione delle Prestazioni,FALSO
+Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,"Per identificare il tentativo di ridurre il GAP organizzativo, tecnologico e culturale tra l'IT e l'OT.",VERO
+Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,Nelle organizzazioni in cui è necessaria una integrazione informatica tra il governo dell'azienda e la produzione,VERO
+Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,Solamente nei casi in cui la tecnologia informatica (IT) è equivalente a quella operazionale (OT),FALSO
+Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,Nei casi in cui non esiste un reparto che gestisce la tecnologia OT,FALSO
+Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,Nei casi in cui non esiste un reparto che gestisce la tecnologia IT,FALSO
+Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,Solamente nelle aziende che producono prodotti informatici,FALSO
+Modulo 3 - Unità didattica 4,Un sistema di Anomaly Detection,Permette di trovare e correggere gli incidenti non appena iniziano a verificarsi e prima che possano causare danno per l'organizzazione,VERO
+Modulo 3 - Unità didattica 4,Un sistema di Anomaly Detection,Permette di trovare e correggere gli incidenti dopo che si sono verificati in modo da minimizzare i danni all'organizzazione,FALSO
+Modulo 3 - Unità didattica 4,Un sistema di Anomaly Detection,"Utilizza un approccio di Machine Learning per monitorare l'insieme dei dati, apprendere il comportamento di ogni dispositivo e fornire avvisi puntuali sugli errori critici",VERO
+Modulo 3 - Unità didattica 4,Un sistema di Anomaly Detection,Utilizza un approccio con logiche algoritmiche tradizionali basate su modelli predefiniti,FALSO
+Modulo 3 - Unità didattica 4,Un sistema di Anomaly Detection,"Realizza il ""deep packed inspection""",VERO
+Modulo 3 - Unità didattica 4,Un sistema di Anomaly Detection,"Definisce la ""Baseline"" ovvero la ""conoscenza o linea di base"" di quella specifica architettura di rete",VERO
+Modulo 3 - Unità didattica 4,VPN,È l'acronimo di Virtual Private Network,VERO
+Modulo 3 - Unità didattica 4,VPN,È l'acronimo di Verified Private Network,FALSO
+Modulo 3 - Unità didattica 4,VPN,È una tecnologia che si realizza attraverso un canale di comunicazione criptato (o tunnel VPN),VERO
+Modulo 3 - Unità didattica 4,VPN,Consente di creare una rete privata virtuale,VERO
+Modulo 3 - Unità didattica 4,VPN,Per il suo funzionamento può usare i protocolli IPSec (Internet Protocol Security),VERO
+Modulo 3 - Unità didattica 4,VPN,Per il suo funzionamento può usare i protocolli Modbus,FALSO
