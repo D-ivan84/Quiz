@@ -1025,6 +1025,12 @@ Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Vengono posizi
 Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Vengono posizionati ""a monte"" del firewall (rispetto alla connessione Internet) ed analizzano i pacchetti di dati ed i comportamenti da loro generati",FALSO
 Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Per la rilevazione delle minacce possono usare la metodologia del ""Misuse Detection""",VERO
 Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Per la rilevazione delle minacce possono usare la metodologia del ""Deny Anomaly""",FALSO
+Modulo 3 - Unità didattica 4,I sistemi IT e OT differiscono (dal punto di vista dei fattori critici per la Cybesecurity),Per i fattori di rischio: perdita o manomissione di dati e informazioni per IT e business continuity e sicurezza fisica per l'OT,VERO
+Modulo 3 - Unità didattica 4,I sistemi IT e OT differiscono (dal punto di vista dei fattori critici per la Cybesecurity),Per le possibilità di intervento: senza grossi vincoli temporali per l'IT con grossi vincoli legati al continuità del processo per l'OT,VERO
+Modulo 3 - Unità didattica 4,I sistemi IT e OT differiscono (dal punto di vista dei fattori critici per la Cybesecurity),"Per le modalità e i tempi di risposta: non deterministiche-non real time per l'IT, deterministiche-real time per l'OT",VERO
+Modulo 3 - Unità didattica 4,I sistemi IT e OT differiscono (dal punto di vista dei fattori critici per la Cybesecurity),Per la tipologia dei sistemi operativi: standard di mercato per l'IT e prevalentemente non standard e real time per l'OT,VERO
+Modulo 3 - Unità didattica 4,I sistemi IT e OT differiscono (dal punto di vista dei fattori critici per la Cybesecurity),"Per le possibili conseguenze in caso di incidenti che nel caso dell'OT può portare, nel caso peggiore, alla perdita di dati",FALSO
+Modulo 3 - Unità didattica 4,I sistemi IT e OT differiscono (dal punto di vista dei fattori critici per la Cybesecurity),"Per il livello di disponibilità necessario: molto elevato per l'IT, più contenuto per l'OT",FALSO
 Modulo 3 - Unità didattica 4,"Il ""Contesto"" secondo ISO/IEC 27001",È inteso come l'insieme dei fattori interni ed esterni all'organizzazione che possono essere influenti nella sicurezza delle informazioni,VERO
 Modulo 3 - Unità didattica 4,"Il ""Contesto"" secondo ISO/IEC 27001",Elenca i fattori che influiscono sulla sicurezza delle informazioni e le parti interessate con le loro esigenze,VERO
 Modulo 3 - Unità didattica 4,"Il ""Contesto"" secondo ISO/IEC 27001","Può avere tra i fattori che influenzano la sicurezza la consapevolezza dei rischi, lo stato della tecnologia impiegata, il budget disponibile",VERO
@@ -1127,12 +1133,24 @@ Modulo 3 - Unità didattica 4,La valutazione del Rischio,Utilizza un indice nume
 Modulo 3 - Unità didattica 4,La valutazione del Rischio,Di solito si associa a Probabilità e Impatto un valore numerico compreso tra 1 e 10,FALSO
 Modulo 3 - Unità didattica 4,La valutazione del Rischio,Si effettua solamente nell'ambito della sicurezza informatica,FALSO
 Modulo 3 - Unità didattica 4,La valutazione del Rischio,"Viene rappresentata graficamente con un diagramma multidimensionale (X,Y,Z) con gradazioni di colori differenti",FALSO
+Modulo 3 - Unità didattica 4,La VPN (Virtual Private Network),Si realizza attraverso un canale di comunicazione criptato creato per gestire la privacy nelle comunicazioni,VERO
+Modulo 3 - Unità didattica 4,La VPN (Virtual Private Network),Si realizza attraverso un canale di comunicazione criptato che può essere creato anche sopra una LAN aziendale,VERO
+Modulo 3 - Unità didattica 4,La VPN (Virtual Private Network),La criptazione fornisce garanzie che i pacchetti non contengano potenziali minacce rendendo il sistema intrinsecamente sicuro,FALSO
+Modulo 3 - Unità didattica 4,La VPN (Virtual Private Network),"Utilizza sempre e solo una tiplogia di protocollo di criptazione, il vero limite della tecnologia",FALSO
+Modulo 3 - Unità didattica 4,La VPN (Virtual Private Network),Può utilizzare il protocollo SSTP (Secure Socket Tunneling Protocol),VERO
+Modulo 3 - Unità didattica 4,La VPN (Virtual Private Network),Può utilizzare il protocollo di criptazione UDP,FALSO
 Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,Garantisce che un partecipante a un'azione o transazione digitale non possa negare in futuro il proprio intervento,VERO
 Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,"Utilizza le firme digitali, basate su tecniche crittografiche, come strumento chiave",VERO
 Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,Attraverso la registrazione dettagliata delle azioni e delle transazioni (audit trail) riceve prove tangibili l'intervento di una parte,VERO
 Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,"Mediante il timestamping, ovvero la registrazione dell'ora esatta di un evento, impedisce a una parte di negare la tempistica di un'azione",VERO
 Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,Non può mai avere validità legale essendo comunque un principio non rigoroso,FALSO
 Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,Anche se unito al fattore di Authentication non riduce l'importanza del fattore di Riservatezza,FALSO
+Modulo 3 - Unità didattica 4,Per valutare il Rischio di Cybersecurity,"E' necessario in prima istanza identificare le risorse critiche (dati sensibili, hardware, software, reti e sistemi). ",VERO
+Modulo 3 - Unità didattica 4,Per valutare il Rischio di Cybersecurity,E' necessario identificare e aggiornare le possibili minacce le vulnerabilità ,VERO
+Modulo 3 - Unità didattica 4,Per valutare il Rischio di Cybersecurity,E' necessario determinare la probabilità di un possibile evento di cybersecurity,VERO
+Modulo 3 - Unità didattica 4,Per valutare il Rischio di Cybersecurity,E' necessario determinare l'entità dell'impatto di un determinato evento di cybersecurity ,VERO
+Modulo 3 - Unità didattica 4,Per valutare il Rischio di Cybersecurity,"E' necessario valutare solamente le risorse tecnologiche (reti, dispositivi e sistemi)",FALSO
+Modulo 3 - Unità didattica 4,Per valutare il Rischio di Cybersecurity,E' necessario valutare l'impatto delle possibili minacce solamente per i danni diretti che possono subire i sistemi informativi,FALSO
 Modulo 3 - Unità didattica 4,Perché è necessario analizzare il rischio?,L'analisi del rischio può concretamente aiutare l'azienda a identificare l'impatto dei pericoli sulle risorse aziendali,VERO
 Modulo 3 - Unità didattica 4,Perché è necessario analizzare il rischio?,L'analisi del rischio permette in ultimo di eliminare completamente l'impatto dei pericoli in tutti i comparti aziendali,FALSO
 Modulo 3 - Unità didattica 4,Perché è necessario analizzare il rischio?,L'analisi del rischio permette di mettere in atto le misure al fine di mitigare gli effetti di questo rischio sulle proprie risorse,VERO
@@ -1192,13 +1210,19 @@ Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM
 Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Monitorare gli utenti,VERO
 Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Effettuare segnalazioni di sicurezza in tempo reale  ,VERO
 Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Gestire un cruscotto centralizzato ,VERO
-Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Effettuare segnalazioni di sicurezza ma non in tempo reale Risposta 6 Domanda 8,FALSO
+Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Effettuare segnalazioni di sicurezza ma non in tempo reale,FALSO
 Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,Ridurre l'impatto del rumore sulla grande quantità di dati consentendo maggiore visibilità degli eventi,VERO
 Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,Fornire un'unica interfaccia per la notifica delle informazioni e degli eventi di sicurezza per i vari dispositivi e sistemi presenti nella rete,VERO
 Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,Fornire un'interfaccia per informazioni ed eventi di cybersecurity ad un SOC (Security Operation Center),VERO
 Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,"Bloccare, senza l'uso di altri dispositivi, la comunicazione tra nodi in caso di situazioni anomale",FALSO
 Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,Allertare i responsabili della sicurezza quando vengono individuate situazioni anomale,VERO
 Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,Definire il percorso più sicuro per la comunicazione tra due nodi in rete ,FALSO
+Modulo 3 - Unità didattica 4,Requisiti ISO 27001 e ciclo PDCA,Possono essere associati per creare un ciclo virtuoso di miglioramento continuo dell'ISMS,
+Modulo 3 - Unità didattica 4,Requisiti ISO 27001 e ciclo PDCA,Sono associati prevalentemente per rappresentazione graficamente i requisiti,
+Modulo 3 - Unità didattica 4,Requisiti ISO 27001 e ciclo PDCA,Permettono di raggruppare ed associare le aree tematiche dei requisiti a fasi specifiche e definite,
+Modulo 3 - Unità didattica 4,Requisiti ISO 27001 e ciclo PDCA,"Si associano per costruire un sistema di gestione adattabile, in grado di proteggere le informazioni aziendali ai cambiamenti.",
+Modulo 3 - Unità didattica 4,Requisiti ISO 27001 e ciclo PDCA,"Associano alla fase Plan la comprensione del contesto dell'organizzazione, della leadership, la pianificazione e gli elementi di supporto",
+Modulo 3 - Unità didattica 4,Requisiti ISO 27001 e ciclo PDCA,Associano alla fase Do la valutazione delle prestazioni del sistema,
 Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,"Per identificare il tentativo di ridurre il GAP organizzativo, tecnologico e culturale tra l'IT e l'OT.",VERO
 Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,Nelle organizzazioni in cui è necessaria una integrazione informatica tra il governo dell'azienda e la produzione,VERO
 Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,Solamente nei casi in cui la tecnologia informatica (IT) è equivalente a quella operazionale (OT),FALSO
