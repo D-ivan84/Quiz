@@ -1025,6 +1025,12 @@ Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Vengono posizi
 Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Vengono posizionati ""a monte"" del firewall (rispetto alla connessione Internet) ed analizzano i pacchetti di dati ed i comportamenti da loro generati",FALSO
 Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Per la rilevazione delle minacce possono usare la metodologia del ""Misuse Detection""",VERO
 Modulo 3 - Unità didattica 4,Gli Intrusion Detection/Prevention,"Per la rilevazione delle minacce possono usare la metodologia del ""Deny Anomaly""",FALSO
+Modulo 3 - Unità didattica 4,"Il ""Contesto"" secondo ISO/IEC 27001",È inteso come l'insieme dei fattori interni ed esterni all'organizzazione che possono essere influenti nella sicurezza delle informazioni,VERO
+Modulo 3 - Unità didattica 4,"Il ""Contesto"" secondo ISO/IEC 27001",Elenca i fattori che influiscono sulla sicurezza delle informazioni e le parti interessate con le loro esigenze,VERO
+Modulo 3 - Unità didattica 4,"Il ""Contesto"" secondo ISO/IEC 27001","Può avere tra i fattori che influenzano la sicurezza la consapevolezza dei rischi, lo stato della tecnologia impiegata, il budget disponibile",VERO
+Modulo 3 - Unità didattica 4,"Il ""Contesto"" secondo ISO/IEC 27001",Ha tra i fattori determinanti la formazione delle persone nell'ambito della sicurezza delle informazioni ed informatica,VERO
+Modulo 3 - Unità didattica 4,"Il ""Contesto"" secondo ISO/IEC 27001",È inteso solamente come l'insieme dei fattori interni all'organizzazione che possono essere influenti nella sicurezza delle informazioni,FALSO
+Modulo 3 - Unità didattica 4,"Il ""Contesto"" secondo ISO/IEC 27001",E' inteso come l'insieme dei fattori interni ed esterni che possono essere influenti per solidità finanziaria dell'azienda,FALSO
 Modulo 3 - Unità didattica 4,Il Paradigma Operazionale,Prevede i seguenti elementi in ordine di importanza: Affidabilità -> Sicurezza Fisica -> Impatto sul Prodotto o sul Servizio,FALSO
 Modulo 3 - Unità didattica 4,Il Paradigma Operazionale,Prevede i seguenti elementi in ordine di importanza: Affidabilità -> Impatto sul Prodotto o sul Servizio -> Sicurezza Fisica,FALSO
 Modulo 3 - Unità didattica 4,Il Paradigma Operazionale,Prevede i seguenti elementi in ordine di importanza: Sicurezza Fisica -> Affidabilità -> Impatto sul Prodotto o sul Servizio,VERO
@@ -1055,6 +1061,12 @@ Modulo 3 - Unità didattica 4,Il Rischio Informatico,Non è mai dovuto all'error
 Modulo 3 - Unità didattica 4,Il Rischio Informatico,Può essere dovuto a errore umano che apre la strada a virus e malware,VERO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico,Può essere dovuto ad un evento accidentale che compromette il sistema informativo,VERO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico,Può essere dovuto ad una azione dolosa di terzi,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico nelle aziende industriali,Deve essere analizzato e ponderato in base alla criticità dei vari asset industriali,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico nelle aziende industriali,Deve prendere in considerazione anche il possibile impatto fisico e sulla salute umana,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico nelle aziende industriali,Ha a che fare anche con la business o service continuity,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico nelle aziende industriali,Si deve focalizzare solamente sugli aspetti legati alla perdita di dati o di informazioni,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico nelle aziende industriali,E' relativo principalmente al reparto IT e al CED,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico nelle aziende industriali,"Deve prendere in considerazione anche i sistemi informatici che non hanno standard ""office""",VERO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Impatto x Probabilità,VERO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Impatto elevato alla Probabilità,FALSO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Impatto x Frequenza,FALSO
@@ -1091,6 +1103,12 @@ Modulo 3 - Unità didattica 4,L'Endpoint protection,Può utilizzare tecniche di 
 Modulo 3 - Unità didattica 4,L'Endpoint protection,Realizza la protezione antimalware e antivirus,VERO
 Modulo 3 - Unità didattica 4,L'Endpoint protection,Non ha mai un firewall integrato,FALSO
 Modulo 3 - Unità didattica 4,L'Endpoint protection,"Può realizzare la Mobile security (cellulari, tablet e laptop)",VERO
+Modulo 3 - Unità didattica 4,La Tassonomia dei Rischi Organizzativi,E' una corretta mappatura della tipologia dei rischi che ne permette una prima identificazione,VERO
+Modulo 3 - Unità didattica 4,La Tassonomia dei Rischi Organizzativi,Permette una prima identificazione che richiede ulteriori approfondimenti e valutazioni,VERO
+Modulo 3 - Unità didattica 4,La Tassonomia dei Rischi Organizzativi,Definisce due macro raggruppamenti contenenti i rischi Interni ed Esterni all'organizzazione,VERO
+Modulo 3 - Unità didattica 4,La Tassonomia dei Rischi Organizzativi,Definisce un primo macro raggruppamento contenente i rischi Strategici e Operativi,FALSO
+Modulo 3 - Unità didattica 4,La Tassonomia dei Rischi Organizzativi,"Suddivide i rischi interni in: Strategici, Operativi e Finanziari",VERO
+Modulo 3 - Unità didattica 4,La Tassonomia dei Rischi Organizzativi,Inserisce il rischio IT tra i rischi stragecici,FALSO
 Modulo 3 - Unità didattica 4,La valutazione del Rischio,Viene effettuata facendo riferimento a classi omogenee per tipologia,VERO
 Modulo 3 - Unità didattica 4,La valutazione del Rischio,Viene effettuata da due prospettive: Impatto (o Gravità) e Probabilità,VERO
 Modulo 3 - Unità didattica 4,La valutazione del Rischio,Utilizza un indice numerico che è dato dal prodotto dell'Impatto moltiplicato la probabilità,VERO
@@ -1103,6 +1121,12 @@ Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il princip
 Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,"Mediante il timestamping, ovvero la registrazione dell'ora esatta di un evento, impedisce a una parte di negare la tempistica di un'azione",VERO
 Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,Non può mai avere validità legale essendo comunque un principio non rigoroso,FALSO
 Modulo 3 - Unità didattica 4,Nell'evoluzione del paradigma CIA (RID) il principio di Non-Repudiation,Anche se unito al fattore di Authentication non riduce l'importanza del fattore di Riservatezza,FALSO
+Modulo 3 - Unità didattica 4,Perché è necessario analizzare il rischio?,L'analisi del rischio può concretamente aiutare l'azienda a identificare l'impatto dei pericoli sulle risorse aziendali,VERO
+Modulo 3 - Unità didattica 4,Perché è necessario analizzare il rischio?,L'analisi del rischio permette in ultimo di eliminare completamente l'impatto dei pericoli in tutti i comparti aziendali,FALSO
+Modulo 3 - Unità didattica 4,Perché è necessario analizzare il rischio?,L'analisi del rischio permette di mettere in atto le misure al fine di mitigare gli effetti di questo rischio sulle proprie risorse,VERO
+Modulo 3 - Unità didattica 4,Perché è necessario analizzare il rischio?,L'analisi del rischio permette di individuare il livello massimo di rischio che un'organizzazione è in grado di sopportare per raggiungere i propri obiettivi strategici,VERO
+Modulo 3 - Unità didattica 4,Perché è necessario analizzare il rischio?,"Una volta analizzato, identificato e opportunamente valutato è possibile gestire il rischio correttamente",VERO
+Modulo 3 - Unità didattica 4,Perché è necessario analizzare il rischio?,L'analisi del rischio è uno strumento molto focalizzato sugli aspetti finanziari ed amministrativi,FALSO
 Modulo 3 - Unità didattica 4,Perché il modello RID (Riservatezza-Integrità-Disponibilità) non va bene per i sistemi operazionali OT?,Perché la Riservatezza è parzialmente rilevante,VERO
 Modulo 3 - Unità didattica 4,Perché il modello RID (Riservatezza-Integrità-Disponibilità) non va bene per i sistemi operazionali OT?,Perché la Riservatezza non è assolutamente rilevante,FALSO
 Modulo 3 - Unità didattica 4,Perché il modello RID (Riservatezza-Integrità-Disponibilità) non va bene per i sistemi operazionali OT?,L'integrità è significativa se è associata alla capacità di mantenere attivo il controllo sul processo,VERO
@@ -1115,30 +1139,36 @@ Modulo 3 - Unità didattica 4,Perché la leadership aziendale è fondamentale pe
 Modulo 3 - Unità didattica 4,Perché la leadership aziendale è fondamentale per la definizione di un SGSI secondo ISO 27001,Perché solo una leadership consapevole può capire sino in fondo l'impatto possibile della sicurezza informatica con il funzionamento dell'organizzazione,VERO
 Modulo 3 - Unità didattica 4,Perché la leadership aziendale è fondamentale per la definizione di un SGSI secondo ISO 27001,Così è chiara la responsabilità in caso di cattivo funzionamento del sistema di gestione,FALSO
 Modulo 3 - Unità didattica 4,Perché la leadership aziendale è fondamentale per la definizione di un SGSI secondo ISO 27001,Così è possibile creare nuove figure e ruoli che altrimenti sarebbe impossibile definire,VERO
-Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Eliminare completamente l'intervento umano,FALSO
-Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Costruire robot fisici,FALSO
-Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Simulare solo il linguaggio umano,FALSO
-Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Apprendere automaticamente dai dati senza programmazione esplicita,VERO
-Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Sostituire l'infrastruttura di rete aziendale,FALSO
-Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning? ,Memorizzare informazioni in modo statico senza aggiornamenti ,FALSO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning?,Eliminare completamente l'intervento umano,FALSO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning?,Costruire robot fisici,FALSO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning?,Simulare solo il linguaggio umano,FALSO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning?,Apprendere automaticamente dai dati senza programmazione esplicita,VERO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning?,Sostituire del tutto le infrastrutture informatiche aziendali,FALSO
+Modulo 3 - Unità didattica 4,Qual è lo scopo principale del machine learning?,Azzerare i costi di manutenzione hardware e software,FALSO
 Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Miglioramento dell'efficienza,FALSO
 Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Bias e discriminazione nei risultati,VERO
 Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Riduzione dei costi,FALSO
 Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Aumento della capacità di calcolo,FALSO
-Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Ottimizzazione della larghezza di banda,FALSO
-Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Automatizzazione dei compiti ripetitivi,FALSO
-Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Sono utilizzati solo nella robotica,FALSO
+Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Automatizzazione dei processi decisionali senza errori,FALSO
+Modulo 3 - Unità didattica 4,Quale dei seguenti rappresenta un rischio dell'intelligenza artificiale?,Garanzia assoluta della riservatezza dei dati trattati,FALSO
 Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Generano testo basandosi sulla probabilità delle parole,VERO
+Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Sono utilizzati solo nella robotica,FALSO
 Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Elaborano solo dati numerici,FALSO
 Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Funzionano senza reti neurali,FALSO
-Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Richiedono esclusivamente collegamenti in fibra ottica,FALSO
-Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Non necessitano di alcuna fase di pre-addestramento sui dati,FALSO
+Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Richiedono esclusivamente input in formato binario non testuale,FALSO
+Modulo 3 - Unità didattica 4,Quale tra le seguenti è una caratteristica dei Large Language Models (LLM)?,Operano senza memorizzare parametri durante l’addestramento,FALSO
 Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,"Capire il contesto dell'organizzazione, i valori, i rischi e le aspettative delle parti interessate per definire gli obiettivi",VERO
 Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,Capire la predisposizione dell'organizzazione dal top management cercando di spuntare un budget di spesa più elevato possibile,FALSO
 Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,Capire e cercare di focalizzare l'impegno della leadership per perseguire una adeguata politica e gli obiettivi del sistema di gestione,VERO
 Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,"Definire i ruoli, le responsabilità e le autorità competenti di cybersecurity in azienda",VERO
 Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,Definizione delle azioni necessarie per affrontare rischi relativi al sistema informativo cercando di sfruttare le opportunità che si possono presentare,VERO
 Modulo 3 - Unità didattica 4,Quali dei seguenti elementi sono fondamentali per la realizzazione di un Sistema di Gestione della Cybersecurity,Valutare saltuariamente le prestazioni del sistema di gestione,FALSO
+Modulo 3 - Unità didattica 4,Quali dei seguenti possono essere indicatori chiave del rischio informatico (KRI)?,Numero di attività critiche con vulnerabilità note,VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti possono essere indicatori chiave del rischio informatico (KRI)?,Vulnerabilità interne vs. vulnerabilità esterne,VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti possono essere indicatori chiave del rischio informatico (KRI)?,Tempo medio di rilascio del prodotto,FALSO
+Modulo 3 - Unità didattica 4,Quali dei seguenti possono essere indicatori chiave del rischio informatico (KRI)?,Tempo medio di interruzione a seguito di un attacco,VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti possono essere indicatori chiave del rischio informatico (KRI)?,Numero di giorni per disattivare le credenziali degli ex dipendenti,VERO
+Modulo 3 - Unità didattica 4,Quali dei seguenti possono essere indicatori chiave del rischio informatico (KRI)?,Soddisfazione media del servizio IT,FALSO
 Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Contesto,VERO
 Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Leadership,VERO
 Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Pianificazione,VERO
