@@ -221,30 +221,36 @@ Modulo 4 - Unità didattica 2,Insourcing,Favorisce la crescita ed il consolidame
 Modulo 4 - Unità didattica 2,Insourcing,"Può comportare costi fissi più elevati per personale, formazione e dotazioni",VERO
 Modulo 4 - Unità didattica 2,Insourcing,Significa affidare in outsourcing ad un fornitore esterno l'intero CED,FALSO
 Modulo 4 - Unità didattica 2,Insourcing,È una modalità di gestione vietata dagli standard ISO/IEC 27001,FALSO
-Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,1. Può essere una soluzione per ridurre l'onere di elaborazione in carico al CED,VERO
-Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,2. Permette una riduzione dei costi fissi se opportunamente gestita e configurata,VERO
-Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,3. Ha sempre un aumento dei costi fissi,FALSO
-Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,"4. Permette una maggiore accessibilità all'applicazione: È necessario, di solito, solamente un browser",VERO
-Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,5. Permette una migliore scalabilità: Le tariffe dei provider sono progressivamente decrescenti man mano che aumentano gli utenti,VERO
-Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,6. Permette una maggior controllo dell'applicazione (es. in caso di anomalie e malfunzionamento),FALSO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,1. Ha tradizionalmente sviluppato strategie fortemente focalizzate sulla gestione del rischio,VERO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,2. Tradizionalmente si occupa poco degli aspetti di sicurezza logica perché tali aspetti non possono avere impatto sull'andamento finanziario dell'azienda,FALSO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,3. Gestisce tipicamente le nuove minacce attraverso comitati di direzione per la gestione del rischio che rispondono all'amministratore delegato o al consiglio di amministrazione,VERO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,4. In molti casi prevede che la figura del CSO (Chief of Security Officer) abbia responsabilità anche sulla sicurezza logica della banca,VERO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,5. In nessun caso la figura del CSO ha responsabilità anche sulla sicurezza logica della banca,FALSO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,6. Nei casi in cui il CISO (Chief Information Security Officer) non sia gerarchicamente subordinato al CSO le azioni sono dal lui coordinate anche indirettamente,VERO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,1. Nelle aziende più grandi può essere indirizzata da un comitato o una struttura di Risk Management,VERO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,"2. Di solito prevede un CISO che risponde al CIO, o una figura analoga che, molto spesso, ha in carico l'innovazione digitale",VERO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,3. Non è soggetta a normative locali o internazionali,FALSO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,"4. A livello internazionale, globale non è regolata in maniera uniforme",VERO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,5. In Europa è soggetta a direttive comunitarie,VERO
-Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,6. Secondo le normative deve prevedere un sistema di gestione,VERO
-Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud",1. Necessità una verifica approfondita dei livelli di servizio contrattuali,VERO
-Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud",2. Permette una riduzione dei costi fissi se opportunamente gestita e configurata,VERO
-Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud",3. Permette forti customizzazioni del servizio e nel contempo la riduzione di costi di esercizio,FALSO
-Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud","4. Permette una maggiore accessibilità all'applicazione: È necessario, di solito, solamente un browser",VERO
-Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud",5. Permette una migliore scalabilità: Le tariffe dei provider sono progressivamente decrescenti man mano che aumentano gli utenti,VERO
-Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud",6. Permette una maggior controllo dell'applicazione (es. in caso di anomalie e malfunzionamento),FALSO
+Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,Può essere una soluzione per ridurre l'onere di elaborazione in carico al CED,VERO
+Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,Permette una riduzione dei costi fissi se opportunamente gestita e configurata,VERO
+Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,Ha sempre un aumento dei costi fissi,FALSO
+Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,"Permette una maggiore accessibilità all'applicazione: È necessario, di solito, solamente un browser",VERO
+Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,Permette una migliore scalabilità: Le tariffe dei provider sono progressivamente decrescenti man mano che aumentano gli utenti,VERO
+Modulo 4 - Unità didattica 2,L'esternalizzazione di servizi informatici in Cloud,Permette una maggior controllo dell'applicazione (es. in caso di anomalie e malfunzionamento),FALSO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,Ha tradizionalmente sviluppato strategie fortemente focalizzate sulla gestione del rischio,VERO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,Tradizionalmente si occupa poco degli aspetti di sicurezza logica perché tali aspetti non possono avere impatto sull'andamento finanziario dell'azienda,FALSO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,Gestisce tipicamente le nuove minacce attraverso comitati di direzione per la gestione del rischio che rispondono all'amministratore delegato o al consiglio di amministrazione,VERO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,In molti casi prevede che la figura del CSO (Chief of Security Officer) abbia responsabilità anche sulla sicurezza logica della banca,VERO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,In nessun caso la figura del CSO ha responsabilità anche sulla sicurezza logica della banca,FALSO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza in ambito bancario,Nei casi in cui il CISO (Chief Information Security Officer) non sia gerarchicamente subordinato al CSO le azioni sono dal lui coordinate anche indirettamente,VERO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,Nelle aziende più grandi può essere indirizzata da un comitato o una struttura di Risk Management,VERO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,"Di solito prevede un CISO che risponde al CIO, o una figura analoga che, molto spesso, ha in carico l'innovazione digitale",VERO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,Non è soggetta a normative locali o internazionali,FALSO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,"A livello internazionale, globale non è regolata in maniera uniforme",VERO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,In Europa è soggetta a direttive comunitarie,VERO
+Modulo 4 - Unità didattica 2,L'organizzazione della Cybersicurezza nelle Infrastrutture Critiche,Secondo le normative deve prevedere un sistema di gestione,VERO
+Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud",Necessità una verifica approfondita dei livelli di servizio contrattuali,VERO
+Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud",Permette una riduzione dei costi fissi se opportunamente gestita e configurata,VERO
+Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud",Permette forti customizzazioni del servizio e nel contempo la riduzione di costi di esercizio,FALSO
+Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud","Permette una maggiore accessibilità all'applicazione: È necessario, di solito, solamente un browser",VERO
+Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud",Permette una migliore scalabilità: Le tariffe dei provider sono progressivamente decrescenti man mano che aumentano gli utenti,VERO
+Modulo 4 - Unità didattica 2,"La ""servitizzazione"" nel Cloud",Permette una maggior controllo dell'applicazione (es. in caso di anomalie e malfunzionamento),FALSO
+Modulo 4 - Unità didattica 2,La fornitura di servizi informatici di tipo SaaS prevede,Networking gestito dal cloud service provider,VERO
+Modulo 4 - Unità didattica 2,La fornitura di servizi informatici di tipo SaaS prevede,Storage gestito dal cloud service provider,VERO
+Modulo 4 - Unità didattica 2,La fornitura di servizi informatici di tipo SaaS prevede,Servers gestiti dal cloud service provider,VERO
+Modulo 4 - Unità didattica 2,La fornitura di servizi informatici di tipo SaaS prevede,Virtualizzazione gestita dal cloud service provider,VERO
+Modulo 4 - Unità didattica 2,La fornitura di servizi informatici di tipo SaaS prevede,Sistema Operativo gestito internamente all'azienda,FALSO
+Modulo 4 - Unità didattica 2,La fornitura di servizi informatici di tipo SaaS prevede,Applicazione gestita internamente all'azienda,FALSO
 Modulo 4 - Unità didattica 2,La gestione dei fornitori di terze parti (Supply Chain Security),Valuta i rischi di sicurezza derivanti dai fornitori di prodotti e servizi IT,VERO
 Modulo 4 - Unità didattica 2,La gestione dei fornitori di terze parti (Supply Chain Security),Richiede l'inserimento di requisiti e clausole di sicurezza nei contratti,VERO
 Modulo 4 - Unità didattica 2,La gestione dei fornitori di terze parti (Supply Chain Security),Prevede verifiche ed audit periodici sul rispetto dei livelli di sicurezza pattuiti,VERO
@@ -269,54 +275,54 @@ Modulo 4 - Unità didattica 2,La servitizzazione SaaS (Software as a Service) pr
 Modulo 4 - Unità didattica 2,La servitizzazione SaaS (Software as a Service) prevede,L'abbattimento dei costi di installazione e manutenzione software in locale,VERO
 Modulo 4 - Unità didattica 2,La servitizzazione SaaS (Software as a Service) prevede,Che il cliente abbia il controllo ed il possesso del codice sorgente,FALSO
 Modulo 4 - Unità didattica 2,La servitizzazione SaaS (Software as a Service) prevede,Che il cliente debba acquistare server dedicati presso la propria sede,FALSO
-Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,"1. È una soluzione organizzativa dove tutte le attività (produzione, marketing, finanza, ecc.) inerenti un prodotto vengono raggruppate in una divisione",VERO
-Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,2. È una soluzione organizzativa dove ogni divisione corrisponde ad una unità organizzativa,VERO
-Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,3. Facilita la realizzazione di strategie per la diversificazione produttiva,VERO
-Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,4. Permette di ridurre il numero di dipendenti nelle varie divisioni permettendo economie nelle risorse umane,FALSO
-Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,5. Riduce i possibili conflitti tra staff dell'amministrazione generale e staff delle divisioni,FALSO
-Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,6. Permette di raggruppare tutte le attività di uno specifico prodotto migliorando la flessibilità delle operazioni,VERO
-Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,1. Meno del 30% dei dati trasmessi prima della riduzione,FALSO
-Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,2. Più del 98% dei dati trasmessi prima della riduzione,VERO
-Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,3. Circa 760 Gbyte al mese,VERO
-Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,4. Circa 760 Mbyte al mese,FALSO
-Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,5. Circa 760 Kbyte al mese,FALSO
-Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,6. Una quantità economicamente non rilevante,FALSO
-Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,1. Perché renderli consapevoli dei rischi degli incidenti e attacchi informatici è la principale arma di difesa che può essere messa in campo,VERO
-Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,2. Perché le tecnologie di protezione informatica non sono strumenti isolati ma devono essere di supporto alle persone che devono imparare a conoscerli,VERO
-Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,3. Perché le minacce evolvono costantemente e le vulnerabilità non sono solo tecnologiche,VERO
-Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,4. Perché permette di ridurre drasticamente gli investimenti nelle tecnologie di protezione,FALSO
-Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,5. Perché la sicurezza informatica non è appannaggio del solo ufficio IT: ogni funzione o reparto devono essere coivolti,VERO
-Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,6. Perché permette all'organizzazione di ridurre il personale nel reparto IT,FALSO
-Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,1. Rischio reputazionale,VERO
-Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,2. Rischio sulla continuità operativa o del business,VERO
-Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,3. Rischio finanziario,FALSO
-Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,4. Rischio di perdita di dati sensibili,FALSO
-Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,5. Rischio di compliance,VERO
-Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,6. Rischio di service continuity,FALSO
+Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,"È una soluzione organizzativa dove tutte le attività (produzione, marketing, finanza, ecc.) inerenti un prodotto vengono raggruppate in una divisione",VERO
+Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,È una soluzione organizzativa dove ogni divisione corrisponde ad una unità organizzativa,VERO
+Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,Facilita la realizzazione di strategie per la diversificazione produttiva,VERO
+Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,Permette di ridurre il numero di dipendenti nelle varie divisioni permettendo economie nelle risorse umane,FALSO
+Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,Riduce i possibili conflitti tra staff dell'amministrazione generale e staff delle divisioni,FALSO
+Modulo 4 - Unità didattica 2,La Struttura organizzativa Divisionale,Permette di raggruppare tutte le attività di uno specifico prodotto migliorando la flessibilità delle operazioni,VERO
+Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,Meno del 30% dei dati trasmessi prima della riduzione,FALSO
+Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,Più del 98% dei dati trasmessi prima della riduzione,VERO
+Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,Circa 760 Gbyte al mese,VERO
+Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,Circa 760 Mbyte al mese,FALSO
+Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,Circa 760 Kbyte al mese,FALSO
+Modulo 4 - Unità didattica 2,Per ridurre i dati archiviati in cloud un'azienda riduce la frequenza di archiviazione di 10.000 registri (da 32 byte) da 1 sec a 1 minuto quanto spazio di archiviazione risparmia in un mese (30 gg)?,Una quantità economicamente non rilevante,FALSO
+Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,Perché renderli consapevoli dei rischi degli incidenti e attacchi informatici è la principale arma di difesa che può essere messa in campo,VERO
+Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,Perché le tecnologie di protezione informatica non sono strumenti isolati ma devono essere di supporto alle persone che devono imparare a conoscerli,VERO
+Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,Perché le minacce evolvono costantemente e le vulnerabilità non sono solo tecnologiche,VERO
+Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,Perché permette di ridurre drasticamente gli investimenti nelle tecnologie di protezione,FALSO
+Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,Perché la sicurezza informatica non è appannaggio del solo ufficio IT: ogni funzione o reparto devono essere coivolti,VERO
+Modulo 4 - Unità didattica 2,Perché è importante formare i dipendenti di un'azienda sul rischio di cybersecurity?,Perché permette all'organizzazione di ridurre il personale nel reparto IT,FALSO
+Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,Rischio reputazionale,VERO
+Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,Rischio sulla continuità operativa o del business,VERO
+Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,Rischio finanziario,FALSO
+Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,Rischio di perdita di dati sensibili,FALSO
+Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,Rischio di compliance,VERO
+Modulo 4 - Unità didattica 2,Quali dei seguenti sono i maggiori rischi di cyber security nelle aziende industriali di produzione di beni?,Rischio di service continuity,FALSO
 Modulo 4 - Unità didattica 2,Quali di questi elementi fanno parte di un buon piano operativo per diffondere la sicurezza informatica,Corsi di formazione periodici ed obbligatori per tutto il personale,VERO
 Modulo 4 - Unità didattica 2,Quali di questi elementi fanno parte di un buon piano operativo per diffondere la sicurezza informatica,Campagne simulate di Phishing per valutare e migliorare la consapevolezza,VERO
 Modulo 4 - Unità didattica 2,Quali di questi elementi fanno parte di un buon piano operativo per diffondere la sicurezza informatica,Definizione e diffusione di linee guida e procedure di sicurezza chiare,VERO
 Modulo 4 - Unità didattica 2,Quali di questi elementi fanno parte di un buon piano operativo per diffondere la sicurezza informatica,Piani di comunicazione e messaggi periodici sulle nuove minacce,VERO
 Modulo 4 - Unità didattica 2,Quali di questi elementi fanno parte di un buon piano operativo per diffondere la sicurezza informatica,Sanzioni pecuniarie immediate al primo errore senza previa formazione,FALSO
 Modulo 4 - Unità didattica 2,Quali di questi elementi fanno parte di un buon piano operativo per diffondere la sicurezza informatica,Spegnimento permanente della connessione internet in tutti gli uffici,FALSO
-Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,1. Rischi di tipo finanziario legati ai mancati guadagni sulle provvigioni,VERO
-Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,2. Rischi di tipo finanziario legati al mancato investimento di titoli o altri prodotti finanziari,VERO
-Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,3. Rischio fisico dei dipendenti,FALSO
-Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,4. Rischio di business continuity,VERO
-Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,5. Rischio sui crediti delle organizzazioni,FALSO
-Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,6. Rischio sulla salute delle persone,FALSO
+Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,Rischi di tipo finanziario legati ai mancati guadagni sulle provvigioni,VERO
+Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,Rischi di tipo finanziario legati al mancato investimento di titoli o altri prodotti finanziari,VERO
+Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,Rischio fisico dei dipendenti,FALSO
+Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,Rischio di business continuity,VERO
+Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,Rischio sui crediti delle organizzazioni,FALSO
+Modulo 4 - Unità didattica 2,Quali possono essere i rischi di Cyber Security nelle Organizzazioni Bancarie e Finanziarie?,Rischio sulla salute delle persone,FALSO
 Modulo 4 - Unità didattica 2,Quali sono i maggiori rischi cyber per le Organizzazioni Bancarie e Finanziarie?,Rischio di perdite finanziarie dirette per frodi ed attacchi informatici,VERO
 Modulo 4 - Unità didattica 2,Quali sono i maggiori rischi cyber per le Organizzazioni Bancarie e Finanziarie?,Rischio di blocco dei servizi di pagamento e di Business Continuity,VERO
 Modulo 4 - Unità didattica 2,Quali sono i maggiori rischi cyber per le Organizzazioni Bancarie e Finanziarie?,Rischio reputazionale e perdita di fiducia da parte dei clienti,VERO
 Modulo 4 - Unità didattica 2,Quali sono i maggiori rischi cyber per le Organizzazioni Bancarie e Finanziarie?,"Rischio di sanzioni per non conformità a direttive e regolamenti (es. DORA, GDPR)",VERO
 Modulo 4 - Unità didattica 2,Quali sono i maggiori rischi cyber per le Organizzazioni Bancarie e Finanziarie?,Rischio di usura meccanica delle banconote negli sportelli ATM,FALSO
 Modulo 4 - Unità didattica 2,Quali sono i maggiori rischi cyber per le Organizzazioni Bancarie e Finanziarie?,Rischio di smarrimento delle matrici cartacee degli assegni,FALSO
-Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,1. Riduzione dei costi fissi,VERO
-Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,2. Maggiore velocità di installazione e accessibilità,VERO
-Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,3. Riduzione dell'onere di elaborazione in carico al CED,VERO
-Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,4. Migliore scalabilità,VERO
-Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,5. Implementazione più rapida,VERO
-Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,6. Miglior controllo dell'applicazione,FALSO
+Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,Riduzione dei costi fissi,VERO
+Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,Maggiore velocità di installazione e accessibilità,VERO
+Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,Riduzione dell'onere di elaborazione in carico al CED,VERO
+Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,Migliore scalabilità,VERO
+Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,Implementazione più rapida,VERO
+Modulo 4 - Unità didattica 2,Quali sono i vantaggi per passare a servizi informatici in Cloud?,Miglior controllo dell'applicazione,FALSO
 Modulo 4 - Unità didattica 3,Collocazione del CISO nell'organigramma aziendale delle grandi organizzazioni,Può riportare direttamente al CEO per garantire massima indipendenza ed autorità,VERO
 Modulo 4 - Unità didattica 3,Collocazione del CISO nell'organigramma aziendale delle grandi organizzazioni,Può riportare al Chief Risk Officer (CRO) per integrare la sicurezza nei rischi globali,VERO
 Modulo 4 - Unità didattica 3,Collocazione del CISO nell'organigramma aziendale delle grandi organizzazioni,Il riporto diretto al CIO può generare conflitti tra operatività e sicurezza,VERO
