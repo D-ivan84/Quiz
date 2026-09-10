@@ -1067,6 +1067,12 @@ Modulo 3 - Unità didattica 4,Il Rischio Informatico nelle aziende industriali,H
 Modulo 3 - Unità didattica 4,Il Rischio Informatico nelle aziende industriali,Si deve focalizzare solamente sugli aspetti legati alla perdita di dati o di informazioni,FALSO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico nelle aziende industriali,E' relativo principalmente al reparto IT e al CED,FALSO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico nelle aziende industriali,"Deve prendere in considerazione anche i sistemi informatici che non hanno standard ""office""",VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato ,Con una formula costituita da Impatto (Inteso come danno possibile) / Probabilità,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato ,Con una formula costituita da Impatto (Inteso come danno possibile) x Probabilità,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato ,Con una formula costituita da Impatto (Inteso come danno possibile) + Probabilità,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato ,Con un valore numerico compreso tra un valore minimo e uno massimo in funzione delle sole classi uniformi del danno,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato ,Con un valore numerico sempre compreso tra 1 (Rischio Molto Alto) e 4 (Rischio Molto Basso) in funzione dell’incertezza del rischio,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato ,"Con un valore numerico che è funzione dell’incertezza e fa riferimento a classi omogenee di eventi dannosi, per natura e gravità",VERO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Impatto x Probabilità,VERO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Impatto elevato alla Probabilità,FALSO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Impatto x Frequenza,FALSO
