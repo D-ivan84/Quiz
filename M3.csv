@@ -1193,6 +1193,12 @@ Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM
 Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Effettuare segnalazioni di sicurezza in tempo reale  ,VERO
 Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Gestire un cruscotto centralizzato ,VERO
 Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Effettuare segnalazioni di sicurezza ma non in tempo reale Risposta 6 Domanda 8,FALSO
+Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,Ridurre l'impatto del rumore sulla grande quantità di dati consentendo maggiore visibilità degli eventi,VERO
+Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,Fornire un'unica interfaccia per la notifica delle informazioni e degli eventi di sicurezza per i vari dispositivi e sistemi presenti nella rete,VERO
+Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,Fornire un'interfaccia per informazioni ed eventi di cybersecurity ad un SOC (Security Operation Center),VERO
+Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,"Bloccare, senza l'uso di altri dispositivi, la comunicazione tra nodi in caso di situazioni anomale",FALSO
+Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,Allertare i responsabili della sicurezza quando vengono individuate situazioni anomale,VERO
+Modulo 3 - Unità didattica 4,Quali sono le funzioni di un SIEM (Security Information and Event Management)? ,Definire il percorso più sicuro per la comunicazione tra due nodi in rete ,FALSO
 Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,"Per identificare il tentativo di ridurre il GAP organizzativo, tecnologico e culturale tra l'IT e l'OT.",VERO
 Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,Nelle organizzazioni in cui è necessaria una integrazione informatica tra il governo dell'azienda e la produzione,VERO
 Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,Solamente nei casi in cui la tecnologia informatica (IT) è equivalente a quella operazionale (OT),FALSO
