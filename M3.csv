@@ -1073,6 +1073,12 @@ Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (
 Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Un numero compreso tra un valore minimo e uno massimo in funzione dell'incertezza del rischio,VERO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),Un numero sempre compreso tra 1 (Rischio Molto Basso) e 4 (Rischio Molto Alto) in funzione dell'incertezza del rischio,FALSO
 Modulo 3 - Unità didattica 4,Il Rischio Informatico può essere valutato come (Variante),"Un numero che è funzione dell'incertezza e fa riferimento a classi omogenee di eventi, per natura e gravità",VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico(VAR 2),È il rischio di incorrere in perdite economico/finanziarie o di mettere a repentaglio la salute umana in seguito al verificarsi di eventi accidentali o dolosi inerenti il sistema informatico,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico(VAR 2),È il rischio di incorrere primariamente in perdite economico/finanziarie in seguito al verificarsi di eventi dolosi inerenti il sistema informatico ,FALSO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico(VAR 2), Ha tra le possibili cause l'errore umano che apre la strada a virus e malware ,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico(VAR 2),Ha tra le possibili cause un evento accidentale in grado di compromettere la funzionalità del sistema informativo ,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico(VAR 2),Ha tra le possibili cause l'azione dolosa di terzi ,VERO
+Modulo 3 - Unità didattica 4,Il Rischio Informatico(VAR 2),Non riguarda gli aspetti legati alla business continuity ,FALSO
 Modulo 3 - Unità didattica 4,Il Risk Appetite,Può essere tradotto come Propensione al Rischio,VERO
 Modulo 3 - Unità didattica 4,Il Risk Appetite,"Delimita inferiormente l'area dei rischi che devono essere assolutamente evitati o massimamente ridotti, mediante tutti gli strumenti disponibili (Area Rossa)",VERO
 Modulo 3 - Unità didattica 4,Il Risk Appetite,"Delimita superiormente l'area dei rischi che devono essere assolutamente evitati o massimamente ridotti, mediante tutti gli strumenti disponibili (Area Rossa)",FALSO
@@ -1175,6 +1181,12 @@ Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rap
 Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Supporto,VERO
 Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Attività Operative,FALSO
 Modulo 3 - Unità didattica 4,Quali dei seguenti requisiti ISO 27001 possono rappresentare la fase PLAN del ciclo PDCA,Valutazione delle Prestazioni,FALSO
+Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Raccogliere i Log ,VERO
+Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Correlare gli eventi  ,VERO
+Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Monitorare gli utenti,VERO
+Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Effettuare segnalazioni di sicurezza in tempo reale  ,VERO
+Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Gestire un cruscotto centralizzato ,VERO
+Modulo 3 - Unità didattica 4,Quali delle seguenti funzioni può gestire un SIEM ,Effettuare segnalazioni di sicurezza ma non in tempo reale Risposta 6 Domanda 8,FALSO
 Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,"Per identificare il tentativo di ridurre il GAP organizzativo, tecnologico e culturale tra l'IT e l'OT.",VERO
 Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,Nelle organizzazioni in cui è necessaria una integrazione informatica tra il governo dell'azienda e la produzione,VERO
 Modulo 3 - Unità didattica 4,Si parla di Convergenza IT-OT,Solamente nei casi in cui la tecnologia informatica (IT) è equivalente a quella operazionale (OT),FALSO
