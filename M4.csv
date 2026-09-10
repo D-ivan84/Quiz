@@ -11,6 +11,12 @@ Modulo 4 - Unità didattica 1,La figura del CISO,Ha la responsabilità di sviluppa
 Modulo 4 - Unità didattica 1,La figura del CISO,Ha responsabilità aziendale sui Sistemi Informativi,FALSO
 Modulo 4 - Unità didattica 1,La figura del CISO,Necessita di buone doti di comunicazione per comunicare le scelte per la gestione del rischio e spiegare le soluzioni tecnologiche adottate,VERO
 Modulo 4 - Unità didattica 1,La figura del CISO,E' di solito un professionista esterno all'organizzazione,FALSO
+Modulo 4 - Unità didattica 1,La figura del Security Auditor ,Valuta attraverso un'analisi documentale esterna l'efficacia delle soluzioni tecniche di sicurezza informatica adottate ,FALSO
+Modulo 4 - Unità didattica 1,La figura del Security Auditor ,Ispeziona direttamente e valuta l'efficacia delle soluzioni tecniche adottate per garantire la sicurezza di un sistema informativo,VERO
+Modulo 4 - Unità didattica 1,La figura del Security Auditor ,Lavora unicamente in un gruppo di Auditing Interno alle dirette dipendenze dell'organizzazione,FALSO
+Modulo 4 - Unità didattica 1,La figura del Security Auditor ,Può essere un consulente esterno,VERO
+Modulo 4 - Unità didattica 1,La figura del Security Auditor ,Di solito ha la certificazione ISO 27001,VERO
+Modulo 4 - Unità didattica 1,La figura del Security Auditor ,Ha di solito una preparazione tecnica informatica sviluppata nell'area della programmazione,VERO
 Modulo 4 - Unità didattica 1,La Struttura Organizzativa Funzionale,"È la soluzione organizzativa dove le attività sono divise per ""specialità"", ovvero le operazioni della medesima natura sono raggruppate tra Ioro",VERO
 Modulo 4 - Unità didattica 1,La Struttura Organizzativa Funzionale,"la soluzione organizzativa dove le attività sono divise per ""specialità"", ovvero le operazioni della medesima natura sono raggruppate per area geografica",FALSO
 Modulo 4 - Unità didattica 1,La Struttura Organizzativa Funzionale,Ha come vantaggio l'incremento dell'efficienza della direzione poiché i manager possono concentrare la loro attività in un solo settore di attività,VERO
@@ -18,7 +24,7 @@ Modulo 4 - Unità didattica 1,La Struttura Organizzativa Funzionale,Ha come svant
 Modulo 4 - Unità didattica 1,La Struttura Organizzativa Funzionale,"Ha come vantaggio la moltiplicazione dei livelli gerarchici, rendendo più semplice il coordinamento tra le funzioni",FALSO
 Modulo 4 - Unità didattica 1,La Struttura Organizzativa Funzionale,"Ha come rischio l'eccessiva focalizzazione da parte del manager sulla propria funzione, dandole eccessiva rilevanza rispetto alle altre attività aziendali",VERO
 Modulo 4 - Unità didattica 1,La Struttura Organizzativa permette di,"Costruire una ""spina dorsale"" dell'impresa attraverso la sola analisi delle attività attuali dell'organizzazione",FALSO
-Modulo 4 - Unità didattica 1,La Struttura Organizzativa permette di,"Scegliere l'assetto legale che si ritiene più appropriato rispetto allo scopo aziendale (impresa individuale, impresa di capitali o altro)",FALSO
+Modulo 4 - Unità didattica 1,La Struttura Organizzativa permette di,"Scegliere l'assetto legale che si ritiene più appropriato rispetto allo scopo aziendale (impresa individuale, impresa di capitali o altro)",VERO
 Modulo 4 - Unità didattica 1,La Struttura Organizzativa permette di,Dare «ordine» alle parti e ai loro compiti; creando un assetto organizzativo fisso e invariabile,FALSO
 Modulo 4 - Unità didattica 1,La Struttura Organizzativa permette di,"Dare «ordine» alle parti e ai loro compiti; creando un assetto organizzativo stabile, ancorché modificabile",VERO
 Modulo 4 - Unità didattica 1,La Struttura Organizzativa permette di,Definire «regole» e «procedure» di comportamento delle parti e dei partecipanti.,VERO
@@ -31,8 +37,8 @@ Modulo 4 - Unità didattica 1,Perché è necessario mantenere allineati gli obietti
 Modulo 4 - Unità didattica 1,Perché è necessario mantenere allineati gli obiettivi IT e il business aziendale?,Perché il Portfolio IT (insieme degli asset IT) deve allineare la strategia ICT,FALSO
 Modulo 4 - Unità didattica 1,Perché l'IT può essere considerato un centro di costo?,Per la scarsa sensibilità e skills digitali del top management,VERO
 Modulo 4 - Unità didattica 1,Perché l'IT può essere considerato un centro di costo?,A causa della scarsa progettualità dell'azienda,VERO
-Modulo 4 - Unità didattica 1,Perché l'IT può essere considerato un centro di costo?,A causa della scarsa propensione allo sviluppo commerciale globale dell'azienda,FALSO
-Modulo 4 - Unità didattica 1,Perché l'IT può essere considerato un centro di costo?,Perché l'informatica in quell'azienda di fatto non serve,VERO
+Modulo 4 - Unità didattica 1,Perché l'IT può essere considerato un centro di costo?,A causa della scarsa propensione allo sviluppo commerciale globale dell'azienda,VERO
+Modulo 4 - Unità didattica 1,Perché l'IT può essere considerato un centro di costo?,Perché l'informatica in quell'azienda di fatto non serve,FALSO
 Modulo 4 - Unità didattica 1,Perché l'IT può essere considerato un centro di costo?,Perché si sono subiti attacchi informatici,FALSO
 Modulo 4 - Unità didattica 1,Perché l'IT può essere considerato un centro di costo?,A causa della probabile scarsa propensione alla competitività dell'azienda (forse perché è un azienda che opera su un mercato monopolistico),VERO
 Modulo 4 - Unità didattica 1,Quali dei seguenti sono compiti del CIO (Chief Information Officer),Contribuire all'analisi e alla definizione dei processi aziendali,VERO
