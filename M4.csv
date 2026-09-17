@@ -353,6 +353,12 @@ M4 - UD3,"La differenza tra minaccia, vulnerabilità e rischio",Rischio = Probab
 M4 - UD3,"La differenza tra minaccia, vulnerabilità e rischio","Se manca la vulnerabilità o la minaccia, il rischio cyber non si concretizza",VERO
 M4 - UD3,"La differenza tra minaccia, vulnerabilità e rischio",Minaccia e Vulnerabilità indicano esattamente la stessa identica cosa,FALSO
 M4 - UD3,"La differenza tra minaccia, vulnerabilità e rischio",L'impatto misura solo la frequenza di aggiornamento delle firme antivirus,FALSO
+M4 - UD3,La Gestione del Rischio di cybersecurity nelle organizzazioni,Può essere indirizzata da una specifica commissione che risponde al Consiglio di Amministrazione,VERO
+M4 - UD3,La Gestione del Rischio di cybersecurity nelle organizzazioni,Può essere coordinata dal responsabile del rischio,VERO
+M4 - UD3,La Gestione del Rischio di cybersecurity nelle organizzazioni,Viene assegnata come responsabilità al CISO (se esiste),VERO
+M4 - UD3,La Gestione del Rischio di cybersecurity nelle organizzazioni,Si realizza mediante la sola identificazione dei rischi più probabili,FALSO
+M4 - UD3,La Gestione del Rischio di cybersecurity nelle organizzazioni,E' un fattore rilevante solo per le infrastrutture critiche,FALSO
+M4 - UD3,La Gestione del Rischio di cybersecurity nelle organizzazioni,Non fa riferimento a nessuno standard,FALSO
 M4 - UD3,La gestione ed il trattamento del rischio informatico,"Le opzioni di trattamento sono: Mitigazione, Trasferimento, Evitamento, Accettazione",VERO
 M4 - UD3,La gestione ed il trattamento del rischio informatico,Il trasferimento può avvenire stipulando polizze assicurative cyber o contratti,VERO
 M4 - UD3,La gestione ed il trattamento del rischio informatico,L'evitamento comporta la rinuncia all'attività o tecnologia troppo rischiosa,VERO
@@ -371,3 +377,21 @@ M4 - UD3,La Security Governance vs Security Management,"La Governance pertiene a
 M4 - UD3,La Security Governance vs Security Management,Insieme garantiscono l'allineamento della sicurezza agli obiettivi d'impresa,VERO
 M4 - UD3,La Security Governance vs Security Management,Il Management elimina la necessità di una Governance e di regole aziendali,FALSO
 M4 - UD3,La Security Governance vs Security Management,La Governance si occupa solo di ordinare la marca dei cavi ethernet da acquistare,FALSO
+M4 - UD3,Perché le Utilities sono particolarmente sensibili al Rischio di Cybersecurity?,"Perché sono un bersaglio sensibile, tutto sommato facile e appetibile",VERO
+M4 - UD3,Perché le Utilities sono particolarmente sensibili al Rischio di Cybersecurity?,"Perché, data la prevalente proprietà pubblica, non è sempre facile avere budget per gli investimenti necessari",VERO
+M4 - UD3,Perché le Utilities sono particolarmente sensibili al Rischio di Cybersecurity?,Perché crescono le vulnerabilità grazie alla crescente digitalizzazione,VERO
+M4 - UD3,Perché le Utilities sono particolarmente sensibili al Rischio di Cybersecurity?,Perché il perimetro di sicurezza è quasi sempre molto ampio e complesso,VERO
+M4 - UD3,Perché le Utilities sono particolarmente sensibili al Rischio di Cybersecurity?,Perché producono beni di alto valore unitario,FALSO
+M4 - UD3,Perché le Utilities sono particolarmente sensibili al Rischio di Cybersecurity?,Perché producono prevalentemente servizi per la pubblica amministrazione,FALSO
+M4 - UD3,Secondo il sociologo e filosofo Max Weber,Prima del processo di industrializzazione le società erano organizzate sulla base del potere tradizione o sul potere carismatico,VERO
+M4 - UD3,Secondo il sociologo e filosofo Max Weber,La burocrazia è una nuova forma di autorità superiore a quelle precedenti,VERO
+M4 - UD3,Secondo il sociologo e filosofo Max Weber,La burocrazia è una nuova forma di autorità che però non è affatto migliore delle precedenti,FALSO
+M4 - UD3,Secondo il sociologo e filosofo Max Weber,Il modello di burocrazia ha 10 caratteristiche che lo contraddistiguono,VERO
+M4 - UD3,Secondo il sociologo e filosofo Max Weber,Tra le caratteristiche attuali che contraddistiguono il modello di burocrazia c'è il Lavoro Part-Time,FALSO
+M4 - UD3,Secondo il sociologo e filosofo Max Weber,Tra le caratteristiche attuali che contraddistiguono il modello di burocrazia c'è la Gerarchia degli Uffici,VERO
+M4 - UD3,Una grande Azienda Multiutility,"Si occupa di fornire un solo servizio essenziale, ad esempio solo elettricità, in maniera monopolistica",FALSO
+M4 - UD3,Una grande Azienda Multiutility,"Opera spesso in regime regolamentato, con tariffe stabilite o controllate da autorità pubbliche",VERO
+M4 - UD3,Una grande Azienda Multiutility,"Agisce principalmente nei settori di energia, acqua e gestione dei rifiuti",VERO
+M4 - UD3,Una grande Azienda Multiutility,Non ha alcun ruolo nella transizione energetica e ambientale,FALSO
+M4 - UD3,Una grande Azienda Multiutility,Può nascere dall'aggregazione di più aziende locali che gestiscono singoli servizi,VERO
+M4 - UD3,Una grande Azienda Multiutility,E' sempre un'azienda privata senza alcuna partecipazione pubblica,FALSO
