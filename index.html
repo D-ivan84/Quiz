@@ -140,7 +140,7 @@
 
         <div class="action-bar">
             <button class="btn-start" onclick="avviaTest()">INIZIA TEST</button>
-            <div class="footer-signature">Ivan D. - v1.2</div>
+            <div class="footer-signature">Ivan D. - v1.3</div>
         </div>
     </div>
 
@@ -179,7 +179,7 @@
                 <button class="nav-btn" id="btn-next" onclick="quesitoSuccessivo()">→</button>
                 <button class="btn-finish" id="btn-finish" onclick="terminaTest()" style="display: none;">TERMINA</button>
             </div>
-            <div class="footer-signature">Ivan D. - v1.2</div>
+            <div class="footer-signature">Ivan D. - v1.3</div>
         </div>
     </div>
 
@@ -199,13 +199,13 @@
             <div>Risposte Errate</div>
         </div>
         <button class="btn-start" onclick="tornaAlMenu()" style="margin-top: 20px;">TORNA AL MENU</button>
-        <div class="footer-signature">Ivan D. - v1.2</div>
+        <div class="footer-signature">Ivan D. - v1.3</div>
     </div>
 
 </div>
 
 <script>
-    console.log("%c Simulatore Quiz - v1.2 - Ideato da Ivan D.", "color: #007bff; font-size: 16px; font-weight: bold; background: #e3f2fd; padding: 5px; border-radius: 5px;");
+    console.log("%c Simulatore Quiz - v1.3 - Ideato da Ivan D.", "color: #007bff; font-size: 16px; font-weight: bold; background: #e3f2fd; padding: 5px; border-radius: 5px;");
 
     // Impedisce lo scorrimento elastico fuori dai blocchi consentiti
     document.body.addEventListener('touchmove', function(e) {
@@ -406,8 +406,9 @@
 
                 data.forEach(macro => {
                     let unitName = macro.moduloText; 
-                    let unitMatch = unitName.match(/unità\s*didattica\s*(\d+)/i);
-                    let unitLabel = unitMatch ? `M${modId}.${unitMatch[1]}` : `M${modId}`;
+                    // Ricerca flessibile di "UD1", "UD 1" o "Unità didattica 1"
+                    let unitMatch = unitName.match(/(?:unità\s*didattica|ud)[\s\-]*(\d+)/i);
+                    let unitLabel = unitMatch ? `M${modId} - UD${unitMatch[1]}` : `M${modId}`;
 
                     if (!unitRanges[unitLabel]) {
                         unitRanges[unitLabel] = { min: macro.globalMacroId, max: macro.globalMacroId };
@@ -599,10 +600,12 @@
                 };
             });
 
-            // Se la prima colonna è un numero (es. ID), usiamo il nome del file per "moduloText"
+            // Seleziona il nome del modulo validando UD, Modulo o formati M1..
             let col0 = (first[0] || '').toString().trim();
             let isNumeric = !isNaN(parseInt(col0)) && isFinite(col0) && col0 !== '';
-            let moduloName = (col0.toLowerCase().includes('modulo') && !isNumeric) ? col0 : `Modulo ${filePrefix.replace('M', '')}`;
+            let isValido = !isNumeric && (col0.toLowerCase().includes('modulo') || col0.toLowerCase().includes('ud') || /^m\d+/i.test(col0));
+            
+            let moduloName = isValido ? col0 : `M${filePrefix.replace('M', '')}`;
 
             macros.push({
                 moduloText: moduloName,
